@@ -1,14 +1,9 @@
 {
-  "items": [
-    {
-      "description": "Next page",
-      "items": [],
-      "title": "Ranked by starred repositories"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T15:00:56.089Z",
+    "last_updated": "2026-08-19T12:56:05.187Z",
     "original_repository": "servierhub/top-pharma50",
+    "original_repository_id": 804105854,
     "original_repository_sha": "7ecbaf13cb7acf69e486cf1529bfc95600772168",
     "enhanced_repository": "enhansome/enhansome-top-pharma50",
     "enhanced_repository_description": null,
