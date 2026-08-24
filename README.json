@@ -177,7 +177,7 @@
             "archived": false,
             "id": 110836137,
             "language": "R",
-            "last_commit": "2026-08-24T14:38:46Z",
+            "last_commit": "2026-08-24T15:02:18Z",
             "owner": "pharmaverse",
             "repo": "rtables",
             "stars": 258
@@ -942,7 +942,7 @@
             "archived": false,
             "id": 473693153,
             "language": "R",
-            "last_commit": "2026-08-24T14:45:29Z",
+            "last_commit": "2026-08-24T14:46:27Z",
             "owner": "GSK-Biostatistics",
             "repo": "tfrmt",
             "stars": 91
@@ -1317,7 +1317,7 @@
             "archived": false,
             "id": 243550957,
             "language": "Python",
-            "last_commit": "2026-06-29T09:16:28Z",
+            "last_commit": "2026-08-24T14:57:05Z",
             "owner": "bedapub",
             "repo": "besca",
             "stars": 50
@@ -2862,7 +2862,7 @@
             "archived": false,
             "id": 525117052,
             "language": "Julia",
-            "last_commit": "2026-08-24T14:17:30Z",
+            "last_commit": "2026-08-24T15:04:19Z",
             "owner": "Merck",
             "repo": "ReactiveDynamics.jl",
             "stars": 17
@@ -2993,7 +2993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:45:34.499Z",
+    "last_updated": "2026-08-24T15:09:16.953Z",
     "original_repository": "servierhub/top-pharma50",
     "original_repository_id": 804105854,
     "original_repository_sha": "7ecbaf13cb7acf69e486cf1529bfc95600772168",
