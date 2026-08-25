@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "1",
-          "description": "rdkit/rdkitThe official sources for the RDKit library, , , 2483 845 HTML BSD 3-Clause \"New\" or \"Revised\" License 2024-06-08 03:18:22",
+          "title": "rdkit/rdkit",
+          "description": "The official sources for the RDKit library, , , 2483 845 HTML BSD 3-Clause \"New\" or \"Revised\" License 2024-06-08 03:18:22",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -20,8 +20,8 @@
         },
         {
           "node_type": "item",
-          "title": "2",
-          "description": "AstraZeneca/awesome-explainable-graph-reasoningA collection of research papers and software related to explainability in graph machine learning., , , , , , 1941 129 Apache License 2.0 2022-04-04 14:54:08",
+          "title": "AstraZeneca/awesome-explainable-graph-reasoning",
+          "description": "A collection of research papers and software related to explainability in graph machine learning., , , , , , 1941 129 Apache License 2.0 2022-04-04 14:54:08",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,8 +35,8 @@
         },
         {
           "node_type": "item",
-          "title": "3",
-          "description": "AstraZeneca/chemicalxA PyTorch and TorchDrug based deep learning library for drug pair scoring. (KDD 2022), , , , , , , , , , , , , , , , , , 701 89 Python Apache License 2.0 2023-09-11 08:01:43",
+          "title": "AstraZeneca/chemicalx",
+          "description": "A PyTorch and TorchDrug based deep learning library for drug pair scoring. (KDD 2022), , , , , , , , , , , , , , , , , , 701 89 Python Apache License 2.0 2023-09-11 08:01:43",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,8 +50,8 @@
         },
         {
           "node_type": "item",
-          "title": "4",
-          "description": "MolecularAI/aizynthfinderA tool for retrosynthetic planning, , , , , 548 125 Python MIT License 2024-06-03 13:34:33",
+          "title": "MolecularAI/aizynthfinder",
+          "description": "A tool for retrosynthetic planning, , , , , 548 125 Python MIT License 2024-06-03 13:34:33",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,8 +65,8 @@
         },
         {
           "node_type": "item",
-          "title": "5",
-          "description": "biosustain/potionFlask-Potion is a RESTful API framework for Flask and SQLAlchemy, Peewee or MongoEngine, , , , 488 51 Python Other 2019-04-23 17:00:39",
+          "title": "biosustain/potion",
+          "description": "Flask-Potion is a RESTful API framework for Flask and SQLAlchemy, Peewee or MongoEngine, , , , 488 51 Python Other 2019-04-23 17:00:39",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "6",
-          "description": "MolecularAI/GraphINVENTGraph neural networks for molecular design. 356 74 Python MIT License 2023-03-11 11:55:32",
+          "title": "MolecularAI/GraphINVENT",
+          "description": "Graph neural networks for molecular design. 356 74 Python MIT License 2023-03-11 11:55:32",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "7",
-          "description": "MolecularAI/Reinvent, , , , , 332 108 Python Apache License 2.0 2023-10-19 05:26:16",
+          "title": "MolecularAI/Reinvent",
+          "description": ", , , , , 332 108 Python Apache License 2.0 2023-10-19 05:26:16",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -110,8 +110,8 @@
         },
         {
           "node_type": "item",
-          "title": "8",
-          "description": "Roche/pyreadstatPython package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat., , , , , , 303 55 C Other 2024-06-04 09:55:07",
+          "title": "Roche/pyreadstat",
+          "description": "Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat., , , , , , 303 55 C Other 2024-06-04 09:55:07",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,8 +125,8 @@
         },
         {
           "node_type": "item",
-          "title": "9",
-          "description": "AstraZeneca/rexmexA general purpose recommender metrics library for fair evaluation., , , , , , , , , , , , , , , 275 25 Python 2023-08-22 09:22:20",
+          "title": "AstraZeneca/rexmex",
+          "description": "A general purpose recommender metrics library for fair evaluation., , , , , , , , , , , , , , , 275 25 Python 2023-08-22 09:22:20",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,8 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "10",
-          "description": "MolecularAI/REINVENT4AI molecular design tool for de novo design, scaffold hopping, R-group replacement, linker design and molecule optimization., , , , , , , , , , , , , 247 57 Python Apache License 2.0 2024-04-27 11:00:08",
+          "title": "MolecularAI/REINVENT4",
+          "description": "AI molecular design tool for de novo design, scaffold hopping, R-group replacement, linker design and molecule optimization., , , , , , , , , , , , , 247 57 Python Apache License 2.0 2024-04-27 11:00:08",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -150,13 +150,13 @@
             "last_commit": "2026-08-09T12:10:41Z",
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 844
+            "stars": 845
           }
         },
         {
           "node_type": "item",
-          "title": "11",
-          "description": "rdkit/rdkit-tutorialsTutorials to learn how to work with the RDKit 239 71 Jupyter Notebook Other 2023-03-19 13:36:55",
+          "title": "rdkit/rdkit-tutorials",
+          "description": "Tutorials to learn how to work with the RDKit 239 71 Jupyter Notebook Other 2023-03-19 13:36:55",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,14 +170,14 @@
         },
         {
           "node_type": "item",
-          "title": "12",
-          "description": "insightsengineering/rtablesReporting tables with R, , 213 49 R Other 2024-06-07 21:27:39",
+          "title": "insightsengineering/rtables",
+          "description": "Reporting tables with R, , 213 49 R Other 2024-06-07 21:27:39",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 110836137,
             "language": "R",
-            "last_commit": "2026-08-24T15:02:18Z",
+            "last_commit": "2026-08-25T06:01:10Z",
             "owner": "pharmaverse",
             "repo": "rtables",
             "stars": 258
@@ -185,8 +185,8 @@
         },
         {
           "node_type": "item",
-          "title": "13",
-          "description": "Bayer-Group/cloudformation-template-generatorA type-safe Scala DSL for generating CloudFormation templates 211 71 Scala BSD 3-Clause \"New\" or \"Revised\" License 2022-07-29 11:32:04",
+          "title": "Bayer-Group/cloudformation-template-generator",
+          "description": "A type-safe Scala DSL for generating CloudFormation templates 211 71 Scala BSD 3-Clause \"New\" or \"Revised\" License 2022-07-29 11:32:04",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "14",
-          "description": "Bayer-Group/etcd-aws-clusterA container to assist in managing a etcd2 cluster from an Amazon auto scaling group 202 102 Shell BSD 3-Clause \"New\" or \"Revised\" License 2017-02-01 01:09:05",
+          "title": "Bayer-Group/etcd-aws-cluster",
+          "description": "A container to assist in managing a etcd2 cluster from an Amazon auto scaling group 202 102 Shell BSD 3-Clause \"New\" or \"Revised\" License 2017-02-01 01:09:05",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -215,8 +215,8 @@
         },
         {
           "node_type": "item",
-          "title": "14",
-          "description": "modernatx/seqlikeUnified biological sequence manipulation in Python, , , 202 18 Python Apache License 2.0 2024-02-16 13:13:05",
+          "title": "modernatx/seqlike",
+          "description": "Unified biological sequence manipulation in Python, , , 202 18 Python Apache License 2.0 2024-02-16 13:13:05",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,8 +230,8 @@
         },
         {
           "node_type": "item",
-          "title": "15",
-          "description": "rdkit/mmpdbA package to identify matched molecular pairs and use them to predict property changes. 195 53 Python Other 2024-04-30 10:55:30",
+          "title": "rdkit/mmpdb",
+          "description": "A package to identify matched molecular pairs and use them to predict property changes. 195 53 Python Other 2024-04-30 10:55:30",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -245,8 +245,8 @@
         },
         {
           "node_type": "item",
-          "title": "16",
-          "description": "bioinform/somaticseqAn ensemble approach to accurately detect somatic mutations using SomaticSeq, 189 53 Python BSD 2-Clause \"Simplified\" License 2024-05-30 07:55:34",
+          "title": "bioinform/somaticseq",
+          "description": "An ensemble approach to accurately detect somatic mutations using SomaticSeq, 189 53 Python BSD 2-Clause \"Simplified\" License 2024-05-30 07:55:34",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -260,8 +260,8 @@
         },
         {
           "node_type": "item",
-          "title": "17",
-          "description": "MolecularAI/Chemformer 188 34 Python Apache License 2.0 2024-05-29 14:43:33",
+          "title": "MolecularAI/Chemformer",
+          "description": "188 34 Python Apache License 2.0 2024-05-29 14:43:33",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -275,8 +275,8 @@
         },
         {
           "node_type": "item",
-          "title": "18",
-          "description": "AstraZeneca-NGS/VarDictVarDict 186 60 Perl MIT License 2024-01-05 14:06:13",
+          "title": "AstraZeneca-NGS/VarDict",
+          "description": "VarDict 186 60 Perl MIT License 2024-01-05 14:06:13",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -290,8 +290,8 @@
         },
         {
           "node_type": "item",
-          "title": "19",
-          "description": "AstraZeneca/awesome-drug-discovery-knowledge-graphsA collection of research papers, datasets and software related to knowledge graphs for drug discovery. Accompanies the paper \"A review of biomedical datasets relating to drug discovery: a knowledge graph perspective\" (Briefings in Bioinformatics, 2022), , , 177 19 Apache License 2.0 2023-09-10 16:33:40",
+          "title": "AstraZeneca/awesome-drug-discovery-knowledge-graphs",
+          "description": "A collection of research papers, datasets and software related to knowledge graphs for drug discovery. Accompanies the paper \"A review of biomedical datasets relating to drug discovery: a knowledge graph perspective\" (Briefings in Bioinformatics, 2022), , , 177 19 Apache License 2.0 2023-09-10 16:33:40",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -305,8 +305,8 @@
         },
         {
           "node_type": "item",
-          "title": "20",
-          "description": "rgcgithub/regenieregenie is a C++ program for whole genome regression modelling of large genome-wide association studies. 172 49 C++ Other 2024-04-03 13:52:31",
+          "title": "rgcgithub/regenie",
+          "description": "regenie is a C++ program for whole genome regression modelling of large genome-wide association studies. 172 49 C++ Other 2024-04-03 13:52:31",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,8 +320,8 @@
         },
         {
           "node_type": "item",
-          "title": "21",
-          "description": "bioinform/neusomaticNeuSomatic: Deep convolutional neural networks for accurate somatic mutation detection, , , 167 50 Python Other 2021-12-23 10:41:50",
+          "title": "bioinform/neusomatic",
+          "description": "NeuSomatic: Deep convolutional neural networks for accurate somatic mutation detection, , , 167 50 Python Other 2021-12-23 10:41:50",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -335,8 +335,8 @@
         },
         {
           "node_type": "item",
-          "title": "22",
-          "description": "insightsengineering/tealExploratory Web Apps for Analyzing Clinical Trial Data, , , , 164 29 R Other 2024-06-07 12:49:26",
+          "title": "insightsengineering/teal",
+          "description": "Exploratory Web Apps for Analyzing Clinical Trial Data, , , , 164 29 R Other 2024-06-07 12:49:26",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -350,8 +350,8 @@
         },
         {
           "node_type": "item",
-          "title": "23",
-          "description": "MolecularAI/ReinventCommunity, , , , , , 145 57 Jupyter Notebook MIT License 2022-04-22 16:44:35",
+          "title": "MolecularAI/ReinventCommunity",
+          "description": ", , , , , , 145 57 Jupyter Notebook MIT License 2022-04-22 16:44:35",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -365,8 +365,8 @@
         },
         {
           "node_type": "item",
-          "title": "24",
-          "description": "Novartis/tidymodulesAn Object-Oriented approach to Shiny modules, , , , , , 141 11 R Other 2023-02-23 15:04:31",
+          "title": "Novartis/tidymodules",
+          "description": "An Object-Oriented approach to Shiny modules, , , , , , 141 11 R Other 2023-02-23 15:04:31",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -380,8 +380,8 @@
         },
         {
           "node_type": "item",
-          "title": "25",
-          "description": "MolecularAI/deep-molecular-optimizationMolecular optimization by capturing chemist’s intuition using the Seq2Seq with attention and the Transformer, , , 139 36 Python Apache License 2.0 2023-03-16 07:05:06",
+          "title": "MolecularAI/deep-molecular-optimization",
+          "description": "Molecular optimization by capturing chemist’s intuition using the Seq2Seq with attention and the Transformer, , , 139 36 Python Apache License 2.0 2023-03-16 07:05:06",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -395,8 +395,8 @@
         },
         {
           "node_type": "item",
-          "title": "26",
-          "description": "AstraZeneca/SubTabThe official implementation of the paper, \"SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning\", , , , 138 20 Python Apache License 2.0 2022-07-01 09:03:38",
+          "title": "AstraZeneca/SubTab",
+          "description": "The official implementation of the paper, \"SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning\", , , , 138 20 Python Apache License 2.0 2022-07-01 09:03:38",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -410,8 +410,8 @@
         },
         {
           "node_type": "item",
-          "title": "27",
-          "description": "AstraZeneca/awesome-shapley-valueReading list for \"The Shapley Value in Machine Learning\" (JCAI 2022), , , , , , , , , , , , , , , , , 134 10 Apache License 2.0 2022-08-08 08:53:10",
+          "title": "AstraZeneca/awesome-shapley-value",
+          "description": "Reading list for \"The Shapley Value in Machine Learning\" (JCAI 2022), , , , , , , , , , , , , , , , , 134 10 Apache License 2.0 2022-08-08 08:53:10",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -425,8 +425,8 @@
         },
         {
           "node_type": "item",
-          "title": "28",
-          "description": "Merck/BioPhiBioPhi is an open-source antibody design platform. It features methods for automated antibody humanization (Sapiens), humanness evaluation (OASis) and an interface for computer-assisted antibody sequence design., , , , 129 44 Python MIT License 2024-06-03 07:17:18",
+          "title": "Merck/BioPhi",
+          "description": "BioPhi is an open-source antibody design platform. It features methods for automated antibody humanization (Sapiens), humanness evaluation (OASis) and an interface for computer-assisted antibody sequence design., , , , 129 44 Python MIT License 2024-06-03 07:17:18",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,8 +440,8 @@
         },
         {
           "node_type": "item",
-          "title": "29",
-          "description": "AstraZeneca-NGS/VarDictJavaVarDict Java port 127 52 Java MIT License 2024-01-05 14:03:51",
+          "title": "AstraZeneca-NGS/VarDictJava",
+          "description": "VarDict Java port 127 52 Java MIT License 2024-01-05 14:03:51",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -455,8 +455,8 @@
         },
         {
           "node_type": "item",
-          "title": "30",
-          "description": "rdkit/rdkit-jsA powerful cheminformatics and molecule rendering toolbelt for JavaScript, powered by RDKit ., , , , , , , , , , 123 35 Dockerfile BSD 3-Clause \"New\" or \"Revised\" License 2024-06-01 09:54:52",
+          "title": "rdkit/rdkit-js",
+          "description": "A powerful cheminformatics and molecule rendering toolbelt for JavaScript, powered by RDKit ., , , , , , , , , , 123 35 Dockerfile BSD 3-Clause \"New\" or \"Revised\" License 2024-06-01 09:54:52",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -470,8 +470,8 @@
         },
         {
           "node_type": "item",
-          "title": "31",
-          "description": "Roche/BalancedLossNLP 118 23 Jupyter Notebook Other 2023-06-12 21:51:15",
+          "title": "Roche/BalancedLossNLP",
+          "description": "118 23 Jupyter Notebook Other 2023-06-12 21:51:15",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -485,8 +485,8 @@
         },
         {
           "node_type": "item",
-          "title": "32",
-          "description": "Merck/deepbgcBGC Detection and Classification Using Deep Learning, , , , , , , 117 26 Jupyter Notebook MIT License 2023-11-11 12:48:56",
+          "title": "Merck/deepbgc",
+          "description": "BGC Detection and Classification Using Deep Learning, , , , , , , 117 26 Jupyter Notebook MIT License 2023-11-11 12:48:56",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -500,8 +500,8 @@
         },
         {
           "node_type": "item",
-          "title": "33",
-          "description": "genentech/equifoldOfficial code repository for EquiFold: Protein Structure Prediction with a Novel Coarse-Grained Structure Representation, , , 116 15 Python Apache License 2.0 2023-01-08 19:51:30",
+          "title": "genentech/equifold",
+          "description": "Official code repository for EquiFold: Protein Structure Prediction with a Novel Coarse-Grained Structure Representation, , , 116 15 Python Apache License 2.0 2023-01-08 19:51:30",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -515,8 +515,8 @@
         },
         {
           "node_type": "item",
-          "title": "34",
-          "description": "biosustain/cameocameo - computer aided metabolic engineering & optimization 113 42 Python Apache License 2.0 2022-11-07 14:54:19",
+          "title": "biosustain/cameo",
+          "description": "cameo - computer aided metabolic engineering & optimization 113 42 Python Apache License 2.0 2022-11-07 14:54:19",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -530,8 +530,8 @@
         },
         {
           "node_type": "item",
-          "title": "35",
-          "description": "Merck/HalyardHalyard is an extremely horizontally scalable Triplestore with support for Named Graphs, designed for integration of extremely large Semantic Data Models, and for storage and SPARQL 1.1 querying of the whole Linked Data universe snapshots. 107 17 Java Apache License 2.0 2023-01-23 16:59:32",
+          "title": "Merck/Halyard",
+          "description": "Halyard is an extremely horizontally scalable Triplestore with support for Named Graphs, designed for integration of extremely large Semantic Data Models, and for storage and SPARQL 1.1 querying of the whole Linked Data universe snapshots. 107 17 Java Apache License 2.0 2023-01-23 16:59:32",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -545,8 +545,8 @@
         },
         {
           "node_type": "item",
-          "title": "36",
-          "description": "bayer-science-for-a-better-life/Img2Mol 103 41 Jupyter Notebook Apache License 2.0 2023-03-24 18:07:41",
+          "title": "bayer-science-for-a-better-life/Img2Mol",
+          "description": "103 41 Jupyter Notebook Apache License 2.0 2023-03-24 18:07:41",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -560,8 +560,8 @@
         },
         {
           "node_type": "item",
-          "title": "37",
-          "description": "Biogen-Inc/tidyCDISCDemo the app here: https://bit.ly/tidyCDISC_app, , , 102 38 R GNU Affero General Public License v3.0 2023-09-22 15:18:20",
+          "title": "Biogen-Inc/tidyCDISC",
+          "description": "Demo the app here: https://bit.ly/tidyCDISC_app, , , 102 38 R GNU Affero General Public License v3.0 2023-09-22 15:18:20",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -575,8 +575,8 @@
         },
         {
           "node_type": "item",
-          "title": "38",
-          "description": "MolecularAI/DockStreamDockStream: A Docking Wrapper to Enhance De Novo Molecular Design, , , , , 100 30 Python Apache License 2.0 2023-03-16 07:07:10",
+          "title": "MolecularAI/DockStream",
+          "description": "DockStream: A Docking Wrapper to Enhance De Novo Molecular Design, , , , , 100 30 Python Apache License 2.0 2023-03-16 07:07:10",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -590,8 +590,8 @@
         },
         {
           "node_type": "item",
-          "title": "38",
-          "description": "Bayer-Group/paquoPAthological QUpath Obsession - QuPath and Python conversations, , 100 16 Python GNU General Public License v3.0 2024-06-02 18:21:27",
+          "title": "Bayer-Group/paquo",
+          "description": "PAthological QUpath Obsession - QuPath and Python conversations, , 100 16 Python GNU General Public License v3.0 2024-06-02 18:21:27",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -605,8 +605,8 @@
         },
         {
           "node_type": "item",
-          "title": "39",
-          "description": "genentech/gReLUgReLU is a python library to train, interpret, and apply deep learning models to DNA sequences. 99 5 Python MIT License 2024-06-07 20:29:13",
+          "title": "genentech/gReLU",
+          "description": "gReLU is a python library to train, interpret, and apply deep learning models to DNA sequences. 99 5 Python MIT License 2024-06-07 20:29:13",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -620,8 +620,8 @@
         },
         {
           "node_type": "item",
-          "title": "40",
-          "description": "Sanofi-Public/CodonBERTRepository for mRNA Paper and CodonBERT publication. 94 14 Python Other 2024-05-03 19:24:06",
+          "title": "Sanofi-Public/CodonBERT",
+          "description": "Repository for mRNA Paper and CodonBERT publication. 94 14 Python Other 2024-05-03 19:24:06",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -635,8 +635,8 @@
         },
         {
           "node_type": "item",
-          "title": "41",
-          "description": "AstraZeneca/onto_mergerOntoMerger is an ontology alignment library for deduplicating knowledge graph nodes that represent the same domain., , , , , , , , , , 89 5 HTML Apache License 2.0 2024-01-11 19:22:08",
+          "title": "AstraZeneca/onto_merger",
+          "description": "OntoMerger is an ontology alignment library for deduplicating knowledge graph nodes that represent the same domain., , , , , , , , , , 89 5 HTML Apache License 2.0 2024-01-11 19:22:08",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -650,8 +650,8 @@
         },
         {
           "node_type": "item",
-          "title": "42",
-          "description": "Sanofi-IADC/whisprOpen source event, comment and alert processing hub created by Sanofi IADC 88 8 TypeScript MIT License 2024-06-04 12:01:03",
+          "title": "Sanofi-IADC/whispr",
+          "description": "Open source event, comment and alert processing hub created by Sanofi IADC 88 8 TypeScript MIT License 2024-06-04 12:01:03",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -665,8 +665,8 @@
         },
         {
           "node_type": "item",
-          "title": "43",
-          "description": "bioinform/rnacocktail 86 48 Jupyter Notebook Other 2020-11-11 06:42:10",
+          "title": "bioinform/rnacocktail",
+          "description": "86 48 Jupyter Notebook Other 2020-11-11 06:42:10",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -680,8 +680,8 @@
         },
         {
           "node_type": "item",
-          "title": "43",
-          "description": "AstraZeneca/awesome-drug-pair-scoringReadings for \"A Unified View of Relational Deep Learning for Drug Pair Scoring.\" (IJCAI 2022), , , , , , , , , , , , , , , , , , , 86 14 Apache License 2.0 2022-08-07 17:10:49",
+          "title": "AstraZeneca/awesome-drug-pair-scoring",
+          "description": "Readings for \"A Unified View of Relational Deep Learning for Drug Pair Scoring.\" (IJCAI 2022), , , , , , , , , , , , , , , , , , , 86 14 Apache License 2.0 2022-08-07 17:10:49",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -695,8 +695,8 @@
         },
         {
           "node_type": "item",
-          "title": "44",
-          "description": "EliLillyCo/LillyMolLillyMol Public Code 82 29 C++ Apache License 2.0 2024-03-15 21:39:57",
+          "title": "EliLillyCo/LillyMol",
+          "description": "LillyMol Public Code 82 29 C++ Apache License 2.0 2024-03-15 21:39:57",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -710,8 +710,8 @@
         },
         {
           "node_type": "item",
-          "title": "45",
-          "description": "Novartis/YADAOpen-source Data Ops 81 21 Java Apache License 2.0 2022-11-16 09:27:33",
+          "title": "Novartis/YADA",
+          "description": "Open-source Data Ops 81 21 Java Apache License 2.0 2022-11-16 09:27:33",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -725,8 +725,8 @@
         },
         {
           "node_type": "item",
-          "title": "46",
-          "description": "bioinform/varsimVarSim: A high-fidelity simulation validation framework for high-throughput genome sequencing with cancer applications, , , 78 31 Java BSD 2-Clause \"Simplified\" License 2023-04-07 01:32:48",
+          "title": "bioinform/varsim",
+          "description": "VarSim: A high-fidelity simulation validation framework for high-throughput genome sequencing with cancer applications, , , 78 31 Java BSD 2-Clause \"Simplified\" License 2023-04-07 01:32:48",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -740,8 +740,8 @@
         },
         {
           "node_type": "item",
-          "title": "46",
-          "description": "AstraZeneca/biology-for-ailearning biology syllabus, geared for machine learning folks 78 10 2022-12-05 16:29:03",
+          "title": "AstraZeneca/biology-for-ai",
+          "description": "learning biology syllabus, geared for machine learning folks 78 10 2022-12-05 16:29:03",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -755,8 +755,8 @@
         },
         {
           "node_type": "item",
-          "title": "46",
-          "description": "AstraZeneca-NGS/reference_dataReference data: BED files, genes, transcripts, variations. 78 28 Python 2017-11-28 14:42:42",
+          "title": "AstraZeneca-NGS/reference_data",
+          "description": "Reference data: BED files, genes, transcripts, variations. 78 28 Python 2017-11-28 14:42:42",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -770,8 +770,8 @@
         },
         {
           "node_type": "item",
-          "title": "47",
-          "description": "Bayer-Group/tiffslideTiffSlide - cloud native openslide-python replacement based on tifffile, 77 11 Python Other 2024-02-14 16:52:45",
+          "title": "Bayer-Group/tiffslide",
+          "description": "TiffSlide - cloud native openslide-python replacement based on tifffile, 77 11 Python Other 2024-02-14 16:52:45",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -785,8 +785,8 @@
         },
         {
           "node_type": "item",
-          "title": "48",
-          "description": "Merck/r2rtfEasily Create Production-Ready Rich Text Format (RTF) Table and Figure 76 19 R GNU General Public License v3.0 2024-06-03 01:28:44",
+          "title": "Merck/r2rtf",
+          "description": "Easily Create Production-Ready Rich Text Format (RTF) Table and Figure 76 19 R GNU General Public License v3.0 2024-06-03 01:28:44",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -800,8 +800,8 @@
         },
         {
           "node_type": "item",
-          "title": "49",
-          "description": "genentech/scimilarityA unifying representation of single cell expression profiles that quantifies similarity between expression states and generalizes to represent new studies without additional training. 72 1 Python Other 2024-03-22 23:43:02",
+          "title": "genentech/scimilarity",
+          "description": "A unifying representation of single cell expression profiles that quantifies similarity between expression states and generalizes to represent new studies without additional training. 72 1 Python Other 2024-03-22 23:43:02",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -815,8 +815,8 @@
         },
         {
           "node_type": "item",
-          "title": "49",
-          "description": "Bayer-Group/ol-kitEasy to use, open source React/Openlayers geospatial component toolkit., , , , , , , 72 19 JavaScript Other 2022-12-07 20:44:37",
+          "title": "Bayer-Group/ol-kit",
+          "description": "Easy to use, open source React/Openlayers geospatial component toolkit., , , , , , , 72 19 JavaScript Other 2022-12-07 20:44:37",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -830,8 +830,8 @@
         },
         {
           "node_type": "item",
-          "title": "50",
-          "description": "insightsengineering/ternTable, Listings, and Graphs (TLG) library for common outputs used in clinical trials, , , , , , 71 17 R Other 2024-06-04 22:41:07",
+          "title": "insightsengineering/tern",
+          "description": "Table, Listings, and Graphs (TLG) library for common outputs used in clinical trials, , , , , , 71 17 R Other 2024-06-04 22:41:07",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -845,8 +845,8 @@
         },
         {
           "node_type": "item",
-          "title": "50",
-          "description": "AstraZeneca/jazzyFast calculation of hydrogen-bond strengths and free energy of hydration of small molecules. 71 6 Python Other 2024-06-06 23:28:22",
+          "title": "AstraZeneca/jazzy",
+          "description": "Fast calculation of hydrogen-bond strengths and free energy of hydration of small molecules. 71 6 Python Other 2024-06-06 23:28:22",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -860,8 +860,8 @@
         },
         {
           "node_type": "item",
-          "title": "51",
-          "description": "genentech/pvizPviz 68 22 JavaScript Other 2016-09-13 06:28:27",
+          "title": "genentech/pviz",
+          "description": "Pviz 68 22 JavaScript Other 2016-09-13 06:28:27",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -875,8 +875,8 @@
         },
         {
           "node_type": "item",
-          "title": "52",
-          "description": "Novartis/peaxPeax is a tool for interactive visual pattern search and exploration in epigenomic data based on unsupervised representation learning with autoencoders, , , , , , 67 14 Jupyter Notebook Other 2022-12-14 18:38:58",
+          "title": "Novartis/peax",
+          "description": "Peax is a tool for interactive visual pattern search and exploration in epigenomic data based on unsupervised representation learning with autoencoders, , , , , , 67 14 Jupyter Notebook Other 2022-12-14 18:38:58",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -890,8 +890,8 @@
         },
         {
           "node_type": "item",
-          "title": "52",
-          "description": "MolecularAI/pysmilesutilsUtilities for working with SMILES based encodings of molecules for deep learning (PyTorch oriented) 67 18 Python Apache License 2.0 2024-05-23 09:54:27",
+          "title": "MolecularAI/pysmilesutils",
+          "description": "Utilities for working with SMILES based encodings of molecules for deep learning (PyTorch oriented) 67 18 Python Apache License 2.0 2024-05-23 09:54:27",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -905,8 +905,8 @@
         },
         {
           "node_type": "item",
-          "title": "53",
-          "description": "MolecularAI/PaRoutesHome of the PaRoutes framework for benchmarking multi-step retrosynthesis predictions. 66 5 Python Apache License 2.0 2022-11-23 14:27:04",
+          "title": "MolecularAI/PaRoutes",
+          "description": "Home of the PaRoutes framework for benchmarking multi-step retrosynthesis predictions. 66 5 Python Apache License 2.0 2022-11-23 14:27:04",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -920,8 +920,8 @@
         },
         {
           "node_type": "item",
-          "title": "54",
-          "description": "Merck/DeepNeuralNet-QSAR 63 27 Python GNU General Public License v3.0 2018-10-24 20:07:27",
+          "title": "Merck/DeepNeuralNet-QSAR",
+          "description": "63 27 Python GNU General Public License v3.0 2018-10-24 20:07:27",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -935,14 +935,14 @@
         },
         {
           "node_type": "item",
-          "title": "54",
-          "description": "GSK-Biostatistics/tfrmtr package for formatting tables 63 3 R Other 2024-04-16 12:52:10",
+          "title": "GSK-Biostatistics/tfrmt",
+          "description": "r package for formatting tables 63 3 R Other 2024-04-16 12:52:10",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 473693153,
             "language": "R",
-            "last_commit": "2026-08-24T14:46:27Z",
+            "last_commit": "2026-08-24T16:00:20Z",
             "owner": "GSK-Biostatistics",
             "repo": "tfrmt",
             "stars": 91
@@ -950,8 +950,8 @@
         },
         {
           "node_type": "item",
-          "title": "55",
-          "description": "AstraZeneca/KAZUFast, world class biomedical NER, , 61 4 Python Apache License 2.0 2024-06-04 16:07:59",
+          "title": "AstraZeneca/KAZU",
+          "description": "Fast, world class biomedical NER, , 61 4 Python Apache License 2.0 2024-06-04 16:07:59",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -965,8 +965,8 @@
         },
         {
           "node_type": "item",
-          "title": "56",
-          "description": "molecularinformatics/Computational-ADME 58 13 Python MIT License 2024-02-15 15:20:55",
+          "title": "molecularinformatics/Computational-ADME",
+          "description": "58 13 Python MIT License 2024-02-15 15:20:55",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -980,8 +980,8 @@
         },
         {
           "node_type": "item",
-          "title": "57",
-          "description": "pfizer-opensource/scikit-digital-healthPython package for the processing and analysis of Inertial Measurement Unit Data, , , , 57 19 Python MIT License 2024-06-07 16:22:37",
+          "title": "pfizer-opensource/scikit-digital-health",
+          "description": "Python package for the processing and analysis of Inertial Measurement Unit Data, , , , 57 19 Python MIT License 2024-06-07 16:22:37",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -995,8 +995,8 @@
         },
         {
           "node_type": "item",
-          "title": "58",
-          "description": "AstraZeneca/kallistoEfficiently calculate 3D-features for quantitative structure-activity relationship approaches., , , 56 21 Python Apache License 2.0 2024-02-01 10:34:54",
+          "title": "AstraZeneca/kallisto",
+          "description": "Efficiently calculate 3D-features for quantitative structure-activity relationship approaches., , , 56 21 Python Apache License 2.0 2024-02-01 10:34:54",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1010,8 +1010,8 @@
         },
         {
           "node_type": "item",
-          "title": "58",
-          "description": "AstraZeneca/judgyprophetForecasting for knowable future events using Bayesian informative priors (forecasting with judgmental-adjustment)., , , , , , 56 2 Python Apache License 2.0 2022-04-14 09:16:16",
+          "title": "AstraZeneca/judgyprophet",
+          "description": "Forecasting for knowable future events using Bayesian informative priors (forecasting with judgmental-adjustment)., , , , , , 56 2 Python Apache License 2.0 2022-04-14 09:16:16",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1025,8 +1025,8 @@
         },
         {
           "node_type": "item",
-          "title": "58",
-          "description": "MolecularAI/reaction_utilsUtilities for working with datasets of chemical reactions, reaction templates and template extraction. 56 7 Python Apache License 2.0 2024-05-27 11:35:22",
+          "title": "MolecularAI/reaction_utils",
+          "description": "Utilities for working with datasets of chemical reactions, reaction templates and template extraction. 56 7 Python Apache License 2.0 2024-05-27 11:35:22",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1040,8 +1040,8 @@
         },
         {
           "node_type": "item",
-          "title": "59",
-          "description": "insightsengineering/thevalidatoRGithub Action that generates R Package Validation documentation 🏁, , , 54 5 R MIT License 2024-06-03 10:45:44",
+          "title": "insightsengineering/thevalidatoR",
+          "description": "Github Action that generates R Package Validation documentation 🏁, , , 54 5 R MIT License 2024-06-03 10:45:44",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1055,8 +1055,8 @@
         },
         {
           "node_type": "item",
-          "title": "60",
-          "description": "rdkit/django-rdkit 53 26 Python BSD 3-Clause \"New\" or \"Revised\" License 2024-04-29 21:54:50",
+          "title": "rdkit/django-rdkit",
+          "description": "53 26 Python BSD 3-Clause \"New\" or \"Revised\" License 2024-04-29 21:54:50",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1070,8 +1070,8 @@
         },
         {
           "node_type": "item",
-          "title": "60",
-          "description": "bioinform/metasvMetaSV: An accurate and integrative structural-variant caller for next generation sequencing 53 22 Python BSD 2-Clause \"Simplified\" License 2017-06-30 00:32:20",
+          "title": "bioinform/metasv",
+          "description": "MetaSV: An accurate and integrative structural-variant caller for next generation sequencing 53 22 Python BSD 2-Clause \"Simplified\" License 2017-06-30 00:32:20",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1085,8 +1085,8 @@
         },
         {
           "node_type": "item",
-          "title": "60",
-          "description": "MolecularAI/IcolosIcolos: A workflow manager for structure based post-processing of de novo generated small molecules 53 14 Python Apache License 2.0 2023-03-16 16:16:25",
+          "title": "MolecularAI/Icolos",
+          "description": "Icolos: A workflow manager for structure based post-processing of de novo generated small molecules 53 14 Python Apache License 2.0 2023-03-16 16:16:25",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1100,8 +1100,8 @@
         },
         {
           "node_type": "item",
-          "title": "60",
-          "description": "Bayer-Group/goldengate-kafka-adapterAn adapter for Oracle GoldenGate to push change capture data directly to an Apache Kafka cluster 53 15 Java Other 2015-10-26 19:08:32",
+          "title": "Bayer-Group/goldengate-kafka-adapter",
+          "description": "An adapter for Oracle GoldenGate to push change capture data directly to an Apache Kafka cluster 53 15 Java Other 2015-10-26 19:08:32",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1115,8 +1115,8 @@
         },
         {
           "node_type": "item",
-          "title": "61",
-          "description": "Novartis/cellxgene-gatewayCellxgene Gateway allows you to use the Cellxgene Server provided by the Chan Zuckerberg Institute (https://github.com/chanzuckerberg/cellxgene) with multiple datasets., , , , , , 52 32 Python Apache License 2.0 2024-03-10 13:36:17",
+          "title": "Novartis/cellxgene-gateway",
+          "description": "Cellxgene Gateway allows you to use the Cellxgene Server provided by the Chan Zuckerberg Institute (https://github.com/chanzuckerberg/cellxgene) with multiple datasets., , , , , , 52 32 Python Apache License 2.0 2024-03-10 13:36:17",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1130,8 +1130,8 @@
         },
         {
           "node_type": "item",
-          "title": "62",
-          "description": "rdkit/UGM_2020Materials from the (virtual) 2020 RDKit UGM 51 22 Jupyter Notebook 2020-10-26 03:39:26",
+          "title": "rdkit/UGM_2020",
+          "description": "Materials from the (virtual) 2020 RDKit UGM 51 22 Jupyter Notebook 2020-10-26 03:39:26",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1145,8 +1145,8 @@
         },
         {
           "node_type": "item",
-          "title": "62",
-          "description": "Merck/matcherMatcher is a tool for understanding how chemical structure optimization problems have been solved. Matcher enables deep control over searching structure/activity relationships (SAR) derived from large datasets, and takes the form of an accessible web application with simple deployment. Matcher is built around the mmpdb platform., , , , , 51 9 Python MIT License 2024-02-21 15:13:53",
+          "title": "Merck/matcher",
+          "description": "Matcher is a tool for understanding how chemical structure optimization problems have been solved. Matcher enables deep control over searching structure/activity relationships (SAR) derived from large datasets, and takes the form of an accessible web application with simple deployment. Matcher is built around the mmpdb platform., , , , , 51 9 Python MIT License 2024-02-21 15:13:53",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1160,8 +1160,8 @@
         },
         {
           "node_type": "item",
-          "title": "62",
-          "description": "genentech/sVAE 51 5 Python Apache License 2.0 2023-07-21 14:07:07",
+          "title": "genentech/sVAE",
+          "description": "51 5 Python Apache License 2.0 2023-07-21 14:07:07",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1175,8 +1175,8 @@
         },
         {
           "node_type": "item",
-          "title": "62",
-          "description": "MolecularAI/QSARtunaQSARtuna: QSAR model building with the optuna framework, , , , , , 51 10 Jupyter Notebook 2024-04-24 08:47:24",
+          "title": "MolecularAI/QSARtuna",
+          "description": "QSARtuna: QSAR model building with the optuna framework, , , , , , 51 10 Jupyter Notebook 2024-04-24 08:47:24",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1190,8 +1190,8 @@
         },
         {
           "node_type": "item",
-          "title": "62",
-          "description": "MolecularAI/Lib-INVENT 51 30 Jupyter Notebook Apache License 2.0 2023-03-11 11:39:46",
+          "title": "MolecularAI/Lib-INVENT",
+          "description": "51 30 Jupyter Notebook Apache License 2.0 2023-03-11 11:39:46",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1205,8 +1205,8 @@
         },
         {
           "node_type": "item",
-          "title": "63",
-          "description": "Boehringer-Ingelheim/pyPeptpyPept: a python library to generate atomistic 2D and 3D representations of peptides 50 9 Python MIT License 2024-04-30 17:12:07",
+          "title": "Boehringer-Ingelheim/pyPept",
+          "description": "pyPept: a python library to generate atomistic 2D and 3D representations of peptides 50 9 Python MIT License 2024-04-30 17:12:07",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1215,13 +1215,13 @@
             "last_commit": "2025-11-05T15:37:34Z",
             "owner": "Boehringer-Ingelheim",
             "repo": "pyPept",
-            "stars": 98
+            "stars": 99
           }
         },
         {
           "node_type": "item",
-          "title": "64",
-          "description": "rdkit/conda-rdkitConda build recipe for the rdkit 49 30 C 2022-01-11 05:44:22",
+          "title": "rdkit/conda-rdkit",
+          "description": "Conda build recipe for the rdkit 49 30 C 2022-01-11 05:44:22",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1235,8 +1235,8 @@
         },
         {
           "node_type": "item",
-          "title": "64",
-          "description": "Bayer-Group/staxAWS CloudFormation stack manager 49 8 Shell Other 2015-08-31 18:03:41",
+          "title": "Bayer-Group/stax",
+          "description": "AWS CloudFormation stack manager 49 8 Shell Other 2015-08-31 18:03:41",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1250,8 +1250,8 @@
         },
         {
           "node_type": "item",
-          "title": "65",
-          "description": "Roche/gitlab-configuration-as-codeManage GitLab configuration as code to make GitLab easily managable, traceable and reproducible., , , , 48 5 Python Apache License 2.0 2022-08-01 12:18:52",
+          "title": "Roche/gitlab-configuration-as-code",
+          "description": "Manage GitLab configuration as code to make GitLab easily managable, traceable and reproducible., , , , 48 5 Python Apache License 2.0 2022-08-01 12:18:52",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1265,8 +1265,8 @@
         },
         {
           "node_type": "item",
-          "title": "66",
-          "description": "genentech/walk-jumpOfficial repository for discrete Walk-Jump Sampling (dWJS), , , , 47 8 Python Apache License 2.0 2023-12-17 18:15:08",
+          "title": "genentech/walk-jump",
+          "description": "Official repository for discrete Walk-Jump Sampling (dWJS), , , , 47 8 Python Apache License 2.0 2023-12-17 18:15:08",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1280,8 +1280,8 @@
         },
         {
           "node_type": "item",
-          "title": "66",
-          "description": "EliLillyCo/pytest-wdlWDL plugin for pytest 47 8 Python Apache License 2.0 2023-08-01 23:14:28",
+          "title": "EliLillyCo/pytest-wdl",
+          "description": "WDL plugin for pytest 47 8 Python Apache License 2.0 2023-08-01 23:14:28",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1295,8 +1295,8 @@
         },
         {
           "node_type": "item",
-          "title": "67",
-          "description": "Merck/rdf2xRDF2X converts big RDF datasets to the relational database model, CSV, JSON and ElasticSearch., , , , , , , 46 11 Java Apache License 2.0 2024-04-15 12:37:25",
+          "title": "Merck/rdf2x",
+          "description": "RDF2X converts big RDF datasets to the relational database model, CSV, JSON and ElasticSearch., , , , , , , 46 11 Java Apache License 2.0 2024-04-15 12:37:25",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1310,14 +1310,14 @@
         },
         {
           "node_type": "item",
-          "title": "67",
-          "description": "bedapub/bescaBESCA (Beyond Single Cell Analysis) offers python functions for single-cell analysis 46 16 Python GNU General Public License v3.0 2024-04-03 15:30:42",
+          "title": "bedapub/besca",
+          "description": "BESCA (Beyond Single Cell Analysis) offers python functions for single-cell analysis 46 16 Python GNU General Public License v3.0 2024-04-03 15:30:42",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 243550957,
             "language": "Python",
-            "last_commit": "2026-08-24T14:57:05Z",
+            "last_commit": "2026-08-24T15:38:53Z",
             "owner": "bedapub",
             "repo": "besca",
             "stars": 50
@@ -1325,8 +1325,8 @@
         },
         {
           "node_type": "item",
-          "title": "68",
-          "description": "Bayer-Group/column-resizerAdds resizable columns to tables 45 23 JavaScript Other 2023-10-26 02:34:31",
+          "title": "Bayer-Group/column-resizer",
+          "description": "Adds resizable columns to tables 45 23 JavaScript Other 2023-10-26 02:34:31",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1340,8 +1340,8 @@
         },
         {
           "node_type": "item",
-          "title": "69",
-          "description": "Novartis/scarscAR (single-cell Ambient Remover) is a deep learning model for removal of the ambient signals in droplet-based single cell omics, , , , , , , , 44 4 Python 2024-05-28 21:20:32",
+          "title": "Novartis/scar",
+          "description": "scAR (single-cell Ambient Remover) is a deep learning model for removal of the ambient signals in droplet-based single cell omics, , , , , , , , 44 4 Python 2024-05-28 21:20:32",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1355,8 +1355,8 @@
         },
         {
           "node_type": "item",
-          "title": "69",
-          "description": "rdkit/homebrew-rdkitHomebrew formula for rdkit 44 19 Ruby 2022-06-22 08:12:35",
+          "title": "rdkit/homebrew-rdkit",
+          "description": "Homebrew formula for rdkit 44 19 Ruby 2022-06-22 08:12:35",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1370,8 +1370,8 @@
         },
         {
           "node_type": "item",
-          "title": "69",
-          "description": "AstraZeneca/skywalkRcode for Gogleva et al manuscript, , , , 44 15 R Apache License 2.0 2022-11-30 11:08:58",
+          "title": "AstraZeneca/skywalkR",
+          "description": "code for Gogleva et al manuscript, , , , 44 15 R Apache License 2.0 2022-11-30 11:08:58",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1385,8 +1385,8 @@
         },
         {
           "node_type": "item",
-          "title": "69",
-          "description": "Bayer-Group/stoopMonadic Scala API for CouchDB 44 4 Scala Other 2015-01-13 17:13:53",
+          "title": "Bayer-Group/stoop",
+          "description": "Monadic Scala API for CouchDB 44 4 Scala Other 2015-01-13 17:13:53",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1400,8 +1400,8 @@
         },
         {
           "node_type": "item",
-          "title": "70",
-          "description": "Bayer-Group/COLID-DocumentationThe documentation repository is part of the Corporate Linked Data Catalog - short: COLID - application., , , , , , , , , , , 43 6 HTML BSD 3-Clause \"New\" or \"Revised\" License 2023-02-10 16:19:23",
+          "title": "Bayer-Group/COLID-Documentation",
+          "description": "The documentation repository is part of the Corporate Linked Data Catalog - short: COLID - application., , , , , , , , , , , 43 6 HTML BSD 3-Clause \"New\" or \"Revised\" License 2023-02-10 16:19:23",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1415,8 +1415,8 @@
         },
         {
           "node_type": "item",
-          "title": "71",
-          "description": "rdkit/UGM_2022Materials from the 2022 UGM 42 14 Jupyter Notebook 2022-10-31 16:30:51",
+          "title": "rdkit/UGM_2022",
+          "description": "Materials from the 2022 UGM 42 14 Jupyter Notebook 2022-10-31 16:30:51",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1430,8 +1430,8 @@
         },
         {
           "node_type": "item",
-          "title": "72",
-          "description": "MolecularAI/MolBARTPretrained SMILES transformation model for finetuning for diverse molecular tasks. 41 9 Python Apache License 2.0 2022-02-22 19:17:46",
+          "title": "MolecularAI/MolBART",
+          "description": "Pretrained SMILES transformation model for finetuning for diverse molecular tasks. 41 9 Python Apache License 2.0 2022-02-22 19:17:46",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1445,8 +1445,8 @@
         },
         {
           "node_type": "item",
-          "title": "73",
-          "description": "johnsonandjohnson/Guppy-iOSiOS pod about a curious fish named Guppy, , , , , 40 3 Swift Apache License 2.0 2022-02-03 20:25:07",
+          "title": "johnsonandjohnson/Guppy-iOS",
+          "description": "iOS pod about a curious fish named Guppy, , , , , 40 3 Swift Apache License 2.0 2022-02-03 20:25:07",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1460,8 +1460,8 @@
         },
         {
           "node_type": "item",
-          "title": "73",
-          "description": "rdkit/UGM_2021Materials from the (virtual) 2021 RDKit UGM 40 18 Jupyter Notebook 2021-10-22 11:44:33",
+          "title": "rdkit/UGM_2021",
+          "description": "Materials from the (virtual) 2021 RDKit UGM 40 18 Jupyter Notebook 2021-10-22 11:44:33",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1475,8 +1475,8 @@
         },
         {
           "node_type": "item",
-          "title": "73",
-          "description": "Merck/SapiensSapiens is a human antibody language model based on BERT., , , , 40 13 Jupyter Notebook MIT License 2023-04-19 13:14:46",
+          "title": "Merck/Sapiens",
+          "description": "Sapiens is a human antibody language model based on BERT., , , , 40 13 Jupyter Notebook MIT License 2023-04-19 13:14:46",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1490,8 +1490,8 @@
         },
         {
           "node_type": "item",
-          "title": "73",
-          "description": "Bayer-Group/xsmilesVisualize atom and non-atom attributions and SMILES strings 40 4 TypeScript BSD 3-Clause \"New\" or \"Revised\" License 2023-07-12 06:10:57",
+          "title": "Bayer-Group/xsmiles",
+          "description": "Visualize atom and non-atom attributions and SMILES strings 40 4 TypeScript BSD 3-Clause \"New\" or \"Revised\" License 2023-07-12 06:10:57",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1505,8 +1505,8 @@
         },
         {
           "node_type": "item",
-          "title": "74",
-          "description": "Novartis/shinyValidatorAudit your Shiny apps at each commit. Multiple levels of testings are offered: startup and crash tests, performance tests (load test and global code profiling), reactivity audit as well as output tests. All results are gathered in an HTML report uploaded and available to everyone on any CI/CD plaform or RStudio Connect, , , , , , 39 3 HTML Other 2023-08-10 10:49:42",
+          "title": "Novartis/shinyValidator",
+          "description": "Audit your Shiny apps at each commit. Multiple levels of testings are offered: startup and crash tests, performance tests (load test and global code profiling), reactivity audit as well as output tests. All results are gathered in an HTML report uploaded and available to everyone on any CI/CD plaform or RStudio Connect, , , , , , 39 3 HTML Other 2023-08-10 10:49:42",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1520,8 +1520,8 @@
         },
         {
           "node_type": "item",
-          "title": "74",
-          "description": "Roche/foxopsTemplating for Git Repositories 39 6 Python Apache License 2.0 2024-05-27 19:22:11",
+          "title": "Roche/foxops",
+          "description": "Templating for Git Repositories 39 6 Python Apache License 2.0 2024-05-27 19:22:11",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1535,8 +1535,8 @@
         },
         {
           "node_type": "item",
-          "title": "75",
-          "description": "AstraZeneca/runnableRunnable 38 4 Python Apache License 2.0 2024-06-04 20:42:58",
+          "title": "AstraZeneca/runnable",
+          "description": "Runnable 38 4 Python Apache License 2.0 2024-06-04 20:42:58",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1550,8 +1550,8 @@
         },
         {
           "node_type": "item",
-          "title": "75",
-          "description": "Bayer-Group/kamon-prometheusA Kamon backend to support Prometheus 38 19 HTML Other 2017-06-22 19:33:30",
+          "title": "Bayer-Group/kamon-prometheus",
+          "description": "A Kamon backend to support Prometheus 38 19 HTML Other 2017-06-22 19:33:30",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1565,8 +1565,8 @@
         },
         {
           "node_type": "item",
-          "title": "76",
-          "description": "rdkit/shape-itUpdated version of Silicos-it's shape-based alignment tool 37 11 C++ MIT License 2024-03-23 04:22:24",
+          "title": "rdkit/shape-it",
+          "description": "Updated version of Silicos-it's shape-based alignment tool 37 11 C++ MIT License 2024-03-23 04:22:24",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1580,8 +1580,8 @@
         },
         {
           "node_type": "item",
-          "title": "76",
-          "description": "biosustain/shuMulti-dimensional, trans-omics metabolic maps., , 37 Rust Apache License 2.0 2024-03-18 13:59:48",
+          "title": "biosustain/shu",
+          "description": "Multi-dimensional, trans-omics metabolic maps., , 37 Rust Apache License 2.0 2024-03-18 13:59:48",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1595,8 +1595,8 @@
         },
         {
           "node_type": "item",
-          "title": "77",
-          "description": "Novartis/torchsurvDeep survival analysis made easy, , 35 5 Python MIT License 2024-04-29 18:57:39",
+          "title": "Novartis/torchsurv",
+          "description": "Deep survival analysis made easy, , 35 5 Python MIT License 2024-04-29 18:57:39",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1610,8 +1610,8 @@
         },
         {
           "node_type": "item",
-          "title": "77",
-          "description": "Novartis/ontobrowserOntoBrowser is a web-based application for managing ontologies 35 9 Java Apache License 2.0 2023-02-15 10:40:14",
+          "title": "Novartis/ontobrowser",
+          "description": "OntoBrowser is a web-based application for managing ontologies 35 9 Java Apache License 2.0 2023-02-15 10:40:14",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1625,8 +1625,8 @@
         },
         {
           "node_type": "item",
-          "title": "77",
-          "description": "rdkit/UGM_2016Materials from the 2016 RDKit UGM 35 21 Jupyter Notebook 2017-01-09 08:40:28",
+          "title": "rdkit/UGM_2016",
+          "description": "Materials from the 2016 RDKit UGM 35 21 Jupyter Notebook 2017-01-09 08:40:28",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1640,8 +1640,8 @@
         },
         {
           "node_type": "item",
-          "title": "78",
-          "description": "Gilead-BioStats/gsmGood Statistical Monitoring R Package 33 8 R Apache License 2.0 2024-06-06 14:03:31",
+          "title": "Gilead-BioStats/gsm",
+          "description": "Good Statistical Monitoring R Package 33 8 R Apache License 2.0 2024-06-06 14:03:31",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1655,8 +1655,8 @@
         },
         {
           "node_type": "item",
-          "title": "79",
-          "description": "pfizer-opensource/TorsionNetA Deep Neural Network to predict small molecule torsion energy profiles with the accuracy of QM 32 15 Jupyter Notebook MIT License 2023-03-13 10:38:57",
+          "title": "pfizer-opensource/TorsionNet",
+          "description": "A Deep Neural Network to predict small molecule torsion energy profiles with the accuracy of QM 32 15 Jupyter Notebook MIT License 2023-03-13 10:38:57",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1670,8 +1670,8 @@
         },
         {
           "node_type": "item",
-          "title": "79",
-          "description": "rdkit/UGM_2023Materials from the 2023 RDKit UGM 32 15 Jupyter Notebook 2024-01-16 16:04:26",
+          "title": "rdkit/UGM_2023",
+          "description": "Materials from the 2023 RDKit UGM 32 15 Jupyter Notebook 2024-01-16 16:04:26",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1685,8 +1685,8 @@
         },
         {
           "node_type": "item",
-          "title": "79",
-          "description": "rdkit/RDKitjs-legacyObsolete codebase, please do not use. 32 12 HTML BSD 3-Clause \"New\" or \"Revised\" License 2023-01-03 22:52:57",
+          "title": "rdkit/RDKitjs-legacy",
+          "description": "Obsolete codebase, please do not use. 32 12 HTML BSD 3-Clause \"New\" or \"Revised\" License 2023-01-03 22:52:57",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1700,8 +1700,8 @@
         },
         {
           "node_type": "item",
-          "title": "79",
-          "description": "rdkit/CheToCheTo - Chemical Topic Modeling 32 13 Jupyter Notebook BSD 3-Clause \"New\" or \"Revised\" License 2021-04-12 13:33:39",
+          "title": "rdkit/CheTo",
+          "description": "CheTo - Chemical Topic Modeling 32 13 Jupyter Notebook BSD 3-Clause \"New\" or \"Revised\" License 2021-04-12 13:33:39",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1715,8 +1715,8 @@
         },
         {
           "node_type": "item",
-          "title": "80",
-          "description": "insightsengineering/r.pkg.templateAn opinionated R package template with CI/CD built-in, , , 31 7 Shell Other 2024-06-05 15:37:35",
+          "title": "insightsengineering/r.pkg.template",
+          "description": "An opinionated R package template with CI/CD built-in, , , 31 7 Shell Other 2024-06-05 15:37:35",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1730,8 +1730,8 @@
         },
         {
           "node_type": "item",
-          "title": "80",
-          "description": "Sanofi-IADC/konviwEnterprise public viewer for your Confluence pages, , , 31 8 TypeScript MIT License 2024-06-07 09:22:49",
+          "title": "Sanofi-IADC/konviw",
+          "description": "Enterprise public viewer for your Confluence pages, , , 31 8 TypeScript MIT License 2024-06-07 09:22:49",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1745,8 +1745,8 @@
         },
         {
           "node_type": "item",
-          "title": "81",
-          "description": "abbvie-external/OmicNavigatorOpen-Source Software for Omic Data Analysis and Visualization, , , , 30 8 R Other 2024-05-06 18:54:00",
+          "title": "abbvie-external/OmicNavigator",
+          "description": "Open-Source Software for Omic Data Analysis and Visualization, , , , 30 8 R Other 2024-05-06 18:54:00",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1760,8 +1760,8 @@
         },
         {
           "node_type": "item",
-          "title": "81",
-          "description": "Novartis/yapHigh throughput, pain-free big data pipelines. 30 7 Python Apache License 2.0 2017-03-11 21:07:30",
+          "title": "Novartis/yap",
+          "description": "High throughput, pain-free big data pipelines. 30 7 Python Apache License 2.0 2017-03-11 21:07:30",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1775,8 +1775,8 @@
         },
         {
           "node_type": "item",
-          "title": "81",
-          "description": "genentech/iterative-perturb-seqSequential Optimal Experimental Design of Perturbation Screens Guided by Multimodal Priors 30 2 Jupyter Notebook Apache License 2.0 2024-05-25 02:27:44",
+          "title": "genentech/iterative-perturb-seq",
+          "description": "Sequential Optimal Experimental Design of Perturbation Screens Guided by Multimodal Priors 30 2 Jupyter Notebook Apache License 2.0 2024-05-25 02:27:44",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1790,8 +1790,8 @@
         },
         {
           "node_type": "item",
-          "title": "81",
-          "description": "bayer-science-for-a-better-life/phc-gnnImplementation of the Paper: \"Parameterized Hypercomplex Graph Neural Networks for Graph Classification\" by Tuan Le, Marco Bertolini, Frank Noé and Djork-Arné Clevert, , , , , , 30 6 Python GNU General Public License v3.0 2021-09-03 09:43:57",
+          "title": "bayer-science-for-a-better-life/phc-gnn",
+          "description": "Implementation of the Paper: \"Parameterized Hypercomplex Graph Neural Networks for Graph Classification\" by Tuan Le, Marco Bertolini, Frank Noé and Djork-Arné Clevert, , , , , , 30 6 Python GNU General Public License v3.0 2021-09-03 09:43:57",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1805,8 +1805,8 @@
         },
         {
           "node_type": "item",
-          "title": "82",
-          "description": "Novartis/pQSARMassively multitask stacked model for predicting activity of thousands of biological assays 29 6 Python Apache License 2.0 2021-08-24 18:01:38",
+          "title": "Novartis/pQSAR",
+          "description": "Massively multitask stacked model for predicting activity of thousands of biological assays 29 6 Python Apache License 2.0 2021-08-24 18:01:38",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1820,8 +1820,8 @@
         },
         {
           "node_type": "item",
-          "title": "82",
-          "description": "Merck/pkgliteCompact Package Representations, , , , , 29 4 R GNU General Public License v3.0 2024-04-26 01:43:37",
+          "title": "Merck/pkglite",
+          "description": "Compact Package Representations, , , , , 29 4 R GNU General Public License v3.0 2024-04-26 01:43:37",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1835,8 +1835,8 @@
         },
         {
           "node_type": "item",
-          "title": "82",
-          "description": "insightsengineering/teal.modules.clinicalProvides teal modules for the standard clinical trials outputs, , , , , 29 13 R Other 2024-06-07 21:36:01",
+          "title": "insightsengineering/teal.modules.clinical",
+          "description": "Provides teal modules for the standard clinical trials outputs, , , , , 29 13 R Other 2024-06-07 21:36:01",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1850,8 +1850,8 @@
         },
         {
           "node_type": "item",
-          "title": "82",
-          "description": "AstraZeneca/kgem-in-drug-discoveryCode to accompany the \"Understanding the Performance of Knowledge Graph Embeddings in Drug Discovery\" manuscript (Artificial Intelligence in the Life Sciences, 2022), , , , , 29 6 Python Apache License 2.0 2024-05-21 08:58:54",
+          "title": "AstraZeneca/kgem-in-drug-discovery",
+          "description": "Code to accompany the \"Understanding the Performance of Knowledge Graph Embeddings in Drug Discovery\" manuscript (Artificial Intelligence in the Life Sciences, 2022), , , , , 29 6 Python Apache License 2.0 2024-05-21 08:58:54",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1865,8 +1865,8 @@
         },
         {
           "node_type": "item",
-          "title": "82",
-          "description": "AstraZeneca/StarGazerStarGazer is a tool designed for rapidly assessing drug repositioning opportunities. It combines multi-source, multi-omics data with a novel target prioritization scoring system in an interactive Python-based Streamlit dashboard. StarGazer displays target prioritization scores for genes associated with 1844 phenotypic traits. 29 13 Python Apache License 2.0 2023-08-14 22:36:23",
+          "title": "AstraZeneca/StarGazer",
+          "description": "StarGazer is a tool designed for rapidly assessing drug repositioning opportunities. It combines multi-source, multi-omics data with a novel target prioritization scoring system in an interactive Python-based Streamlit dashboard. StarGazer displays target prioritization scores for genes associated with 1844 phenotypic traits. 29 13 Python Apache License 2.0 2023-08-14 22:36:23",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1880,8 +1880,8 @@
         },
         {
           "node_type": "item",
-          "title": "82",
-          "description": "GSK-AI/meta-learning-qsarMeta-Learning GNN Initializations for Low-Resource Molecular Property Prediction 29 4 Python MIT License 2020-07-20 18:24:17",
+          "title": "GSK-AI/meta-learning-qsar",
+          "description": "Meta-Learning GNN Initializations for Low-Resource Molecular Property Prediction 29 4 Python MIT License 2020-07-20 18:24:17",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1895,8 +1895,8 @@
         },
         {
           "node_type": "item",
-          "title": "83",
-          "description": "openPfizer/DigitalHealthDataVisualization package for Apple Watch data collected by Healthkit 28 5 Python Apache License 2.0 2019-04-22 14:24:59",
+          "title": "openPfizer/DigitalHealthData",
+          "description": "Visualization package for Apple Watch data collected by Healthkit 28 5 Python Apache License 2.0 2019-04-22 14:24:59",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1910,8 +1910,8 @@
         },
         {
           "node_type": "item",
-          "title": "83",
-          "description": "Novartis/piscesPISCES is a pipeline for rapid transcript quantitation, genetic fingerprinting, and quality control assessment of RNAseq libraries using Salmon., , , , , 28 3 Python Apache License 2.0 2024-05-28 13:38:43",
+          "title": "Novartis/pisces",
+          "description": "PISCES is a pipeline for rapid transcript quantitation, genetic fingerprinting, and quality control assessment of RNAseq libraries using Salmon., , , , , 28 3 Python Apache License 2.0 2024-05-28 13:38:43",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1925,8 +1925,8 @@
         },
         {
           "node_type": "item",
-          "title": "83",
-          "description": "Novartis/pqsar2cpdpqsar2cpd is a deep learning algorithm for translation of activity profiles into novel molecules. 28 6 Python MIT License 2023-07-12 09:10:24",
+          "title": "Novartis/pqsar2cpd",
+          "description": "pqsar2cpd is a deep learning algorithm for translation of activity profiles into novel molecules. 28 6 Python MIT License 2023-07-12 09:10:24",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1940,8 +1940,8 @@
         },
         {
           "node_type": "item",
-          "title": "84",
-          "description": "Novartis/easyTrackHubsThis package provides a function to reformat lists of genome coverage files, such as bigWig of bam files, into the directory structure of a UCSC Track Hub ready to be visualized in the genome browser. For details about it's use, please have a look at the vignette of the package. 27 HTML GNU General Public License v3.0 2024-04-29 14:38:30",
+          "title": "Novartis/easyTrackHubs",
+          "description": "This package provides a function to reformat lists of genome coverage files, such as bigWig of bam files, into the directory structure of a UCSC Track Hub ready to be visualized in the genome browser. For details about it's use, please have a look at the vignette of the package. 27 HTML GNU General Public License v3.0 2024-04-29 14:38:30",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1955,8 +1955,8 @@
         },
         {
           "node_type": "item",
-          "title": "84",
-          "description": "Novartis/ChemBioMultimodalAutoencodersa package for streamlined multidomain data integration and translation based on cross-modal autoencoders architectures 27 3 Python MIT License 2023-07-05 14:07:40",
+          "title": "Novartis/ChemBioMultimodalAutoencoders",
+          "description": "a package for streamlined multidomain data integration and translation based on cross-modal autoencoders architectures 27 3 Python MIT License 2023-07-05 14:07:40",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1970,8 +1970,8 @@
         },
         {
           "node_type": "item",
-          "title": "84",
-          "description": "insightsengineering/random.cdisc.dataCreate random CDISC data, , 27 5 R Other 2024-05-24 00:54:03",
+          "title": "insightsengineering/random.cdisc.data",
+          "description": "Create random CDISC data, , 27 5 R Other 2024-05-24 00:54:03",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1985,8 +1985,8 @@
         },
         {
           "node_type": "item",
-          "title": "84",
-          "description": "AstraZeneca-NGS/disambiguateDisambiguation algorithm for reads aligned to human and mouse genomes using Tophat or BWA mem 27 15 C++ MIT License 2018-05-08 12:07:59",
+          "title": "AstraZeneca-NGS/disambiguate",
+          "description": "Disambiguation algorithm for reads aligned to human and mouse genomes using Tophat or BWA mem 27 15 C++ MIT License 2018-05-08 12:07:59",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2000,8 +2000,8 @@
         },
         {
           "node_type": "item",
-          "title": "84",
-          "description": "astrazeneca-cgr-publications/mantis-ml-releasemantis-ml: Stochastic semi-supervised learning to prioritise genes from high throughput genomic screens, , , , , 27 9 Python Mozilla Public License 2.0 2024-01-26 09:15:43",
+          "title": "astrazeneca-cgr-publications/mantis-ml-release",
+          "description": "mantis-ml: Stochastic semi-supervised learning to prioritise genes from high throughput genomic screens, , , , , 27 9 Python Mozilla Public License 2.0 2024-01-26 09:15:43",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2015,8 +2015,8 @@
         },
         {
           "node_type": "item",
-          "title": "84",
-          "description": "bayer-science-for-a-better-life/data2text-bioleafletsBiomedical Data-to-Text Generation via Fine-Tuning Transformers, , , 27 3 Python Apache License 2.0 2021-12-20 10:49:50",
+          "title": "bayer-science-for-a-better-life/data2text-bioleaflets",
+          "description": "Biomedical Data-to-Text Generation via Fine-Tuning Transformers, , , 27 3 Python Apache License 2.0 2021-12-20 10:49:50",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2030,8 +2030,8 @@
         },
         {
           "node_type": "item",
-          "title": "85",
-          "description": "rdkit/neo4j-rdkit 26 5 Java BSD 2-Clause \"Simplified\" License 2023-03-09 18:52:14",
+          "title": "rdkit/neo4j-rdkit",
+          "description": "26 5 Java BSD 2-Clause \"Simplified\" License 2023-03-09 18:52:14",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2045,8 +2045,8 @@
         },
         {
           "node_type": "item",
-          "title": "85",
-          "description": "Merck/Line-of-Therapy-AlgorithmThis is the Line of Therapy Algorithm, as described in the paper \"Temporal phenotyping by mining healthcare data to derive lines of therapy for cancer\" pending submission in the Journal of Biomedical Informatics. 26 14 Python GNU General Public License v3.0 2024-04-29 14:14:27",
+          "title": "Merck/Line-of-Therapy-Algorithm",
+          "description": "This is the Line of Therapy Algorithm, as described in the paper \"Temporal phenotyping by mining healthcare data to derive lines of therapy for cancer\" pending submission in the Journal of Biomedical Informatics. 26 14 Python GNU General Public License v3.0 2024-04-29 14:14:27",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2060,8 +2060,8 @@
         },
         {
           "node_type": "item",
-          "title": "85",
-          "description": "biosustain/MaudEnzyme models that take into account kinetics, allostery and thermodynamics 26 2 Python GNU General Public License v3.0 2024-06-07 14:54:32",
+          "title": "biosustain/Maud",
+          "description": "Enzyme models that take into account kinetics, allostery and thermodynamics 26 2 Python GNU General Public License v3.0 2024-06-07 14:54:32",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2075,8 +2075,8 @@
         },
         {
           "node_type": "item",
-          "title": "85",
-          "description": "rgcgithub/clammsCLAMMS is a scalable tool for detecting common and rare copy number variants from whole-exome sequencing data. 26 10 C Other 2021-02-20 09:05:58",
+          "title": "rgcgithub/clamms",
+          "description": "CLAMMS is a scalable tool for detecting common and rare copy number variants from whole-exome sequencing data. 26 10 C Other 2021-02-20 09:05:58",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2090,8 +2090,8 @@
         },
         {
           "node_type": "item",
-          "title": "86",
-          "description": "MolecularAI/DockStreamCommunity, , , , , 25 12 Jupyter Notebook Apache License 2.0 2023-03-16 07:06:23",
+          "title": "MolecularAI/DockStreamCommunity",
+          "description": ", , , , , 25 12 Jupyter Notebook Apache License 2.0 2023-03-16 07:06:23",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2105,8 +2105,8 @@
         },
         {
           "node_type": "item",
-          "title": "87",
-          "description": "Novartis/xgxExploratory Graphics for PKPD data 24 8 HTML 2023-10-13 20:07:57",
+          "title": "Novartis/xgx",
+          "description": "Exploratory Graphics for PKPD data 24 8 HTML 2023-10-13 20:07:57",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2120,8 +2120,8 @@
         },
         {
           "node_type": "item",
-          "title": "87",
-          "description": "rdkit/knime-rdkitThe RDKit nodes for the KNIME Analytics Platform 24 14 Java 2024-03-11 16:54:55",
+          "title": "rdkit/knime-rdkit",
+          "description": "The RDKit nodes for the KNIME Analytics Platform 24 14 Java 2024-03-11 16:54:55",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2135,8 +2135,8 @@
         },
         {
           "node_type": "item",
-          "title": "87",
-          "description": "Merck/sonar-r-pluginAdds support for R language into SonarQube. It uses output from lintr tool which is processed by the plugin and uploaded into SonarQube server., 24 18 Java Apache License 2.0 2024-03-04 22:33:44",
+          "title": "Merck/sonar-r-plugin",
+          "description": "Adds support for R language into SonarQube. It uses output from lintr tool which is processed by the plugin and uploaded into SonarQube server., 24 18 Java Apache License 2.0 2024-03-04 22:33:44",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2150,8 +2150,8 @@
         },
         {
           "node_type": "item",
-          "title": "87",
-          "description": "genentech/polygraphPolygraph evaluates and compares groups of nucleic acid sequences based on their sequence and functional content for effective design of regulatory elements. 24 Jupyter Notebook MIT License 2024-04-11 21:51:25",
+          "title": "genentech/polygraph",
+          "description": "Polygraph evaluates and compares groups of nucleic acid sequences based on their sequence and functional content for effective design of regulatory elements. 24 Jupyter Notebook MIT License 2024-04-11 21:51:25",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2165,8 +2165,8 @@
         },
         {
           "node_type": "item",
-          "title": "87",
-          "description": "MolecularAI/maizeA graph-based workflow manager for computational chemistry pipelines 24 1 Python Apache License 2.0 2024-01-23 16:42:58",
+          "title": "MolecularAI/maize",
+          "description": "A graph-based workflow manager for computational chemistry pipelines 24 1 Python Apache License 2.0 2024-01-23 16:42:58",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2180,8 +2180,8 @@
         },
         {
           "node_type": "item",
-          "title": "87",
-          "description": "GSK-Biostatistics/neointerfaceNeoInterface - Neo4j made easy for Python programmers!, , , 24 5 Python Apache License 2.0 2024-03-20 08:38:11",
+          "title": "GSK-Biostatistics/neointerface",
+          "description": "NeoInterface - Neo4j made easy for Python programmers!, , , 24 5 Python Apache License 2.0 2024-03-20 08:38:11",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2195,8 +2195,8 @@
         },
         {
           "node_type": "item",
-          "title": "87",
-          "description": "biosustain/croissanceTool for estimating growth rates from microbial growth curves, , , 24 11 Python Other 2021-08-09 11:56:01",
+          "title": "biosustain/croissance",
+          "description": "Tool for estimating growth rates from microbial growth curves, , , 24 11 Python Other 2021-08-09 11:56:01",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2210,8 +2210,8 @@
         },
         {
           "node_type": "item",
-          "title": "87",
-          "description": "Bayer-Group/celleniumCellenium is a FAIR and scalable interactive visual analytics app for scRNA-Seq data (single-cell RNA sequencing)., , , 24 5 Jupyter Notebook MIT License 2023-11-22 11:49:19",
+          "title": "Bayer-Group/cellenium",
+          "description": "Cellenium is a FAIR and scalable interactive visual analytics app for scRNA-Seq data (single-cell RNA sequencing)., , , 24 5 Jupyter Notebook MIT License 2023-11-22 11:49:19",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2225,8 +2225,8 @@
         },
         {
           "node_type": "item",
-          "title": "87",
-          "description": "bayer-science-for-a-better-life/pKAIpKAI: a fast and interpretable deep learning approach to accurate electrostatics-driven pKa prediction 24 6 Python MIT License 2021-09-16 09:48:09",
+          "title": "bayer-science-for-a-better-life/pKAI",
+          "description": "pKAI: a fast and interpretable deep learning approach to accurate electrostatics-driven pKa prediction 24 6 Python MIT License 2021-09-16 09:48:09",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2240,8 +2240,8 @@
         },
         {
           "node_type": "item",
-          "title": "87",
-          "description": "bayer-science-for-a-better-life/neuraldecipherImplementation of the paper \"Neuraldecipher - Reverse-engineering extended-connectivity fingerprints (ECFPs) to their molecular structures\" by Tuan Le, Robin Winter, Frank Noé and Djork-Arné Clevert, , , , 24 9 Python GNU General Public License v3.0 2020-10-01 14:33:21",
+          "title": "bayer-science-for-a-better-life/neuraldecipher",
+          "description": "Implementation of the paper \"Neuraldecipher - Reverse-engineering extended-connectivity fingerprints (ECFPs) to their molecular structures\" by Tuan Le, Robin Winter, Frank Noé and Djork-Arné Clevert, , , , 24 9 Python GNU General Public License v3.0 2020-10-01 14:33:21",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2255,8 +2255,8 @@
         },
         {
           "node_type": "item",
-          "title": "88",
-          "description": "pfizer-opensource/bigwig-loaderA fast dataloader for bigwig files made for machine learning 23 1 Python Apache License 2.0 2024-04-15 13:26:29",
+          "title": "pfizer-opensource/bigwig-loader",
+          "description": "A fast dataloader for bigwig files made for machine learning 23 1 Python Apache License 2.0 2024-04-15 13:26:29",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2270,8 +2270,8 @@
         },
         {
           "node_type": "item",
-          "title": "88",
-          "description": "AbbVie-ComputationalGenomics/genetic-evidence-approval, 23 11 R Apache License 2.0 2021-01-14 18:06:50",
+          "title": "AbbVie-ComputationalGenomics/genetic-evidence-approval",
+          "description": ", 23 11 R Apache License 2.0 2021-01-14 18:06:50",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2285,8 +2285,8 @@
         },
         {
           "node_type": "item",
-          "title": "88",
-          "description": "rdkit/PREFER 23 3 Python BSD 3-Clause \"New\" or \"Revised\" License 2023-07-28 07:25:31",
+          "title": "rdkit/PREFER",
+          "description": "23 3 Python BSD 3-Clause \"New\" or \"Revised\" License 2023-07-28 07:25:31",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2300,8 +2300,8 @@
         },
         {
           "node_type": "item",
-          "title": "88",
-          "description": "rdkit/benchmarking_platform 23 20 Python 2022-12-19 16:47:27",
+          "title": "rdkit/benchmarking_platform",
+          "description": "23 20 Python 2022-12-19 16:47:27",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2315,8 +2315,8 @@
         },
         {
           "node_type": "item",
-          "title": "88",
-          "description": "insightsengineering/teal.galleryA Gallery of Exploratory Web Apps used for Analyzing Clinical Trial Data, , , , 23 6 R Other 2024-06-08 03:47:14",
+          "title": "insightsengineering/teal.gallery",
+          "description": "A Gallery of Exploratory Web Apps used for Analyzing Clinical Trial Data, , , , 23 6 R Other 2024-06-08 03:47:14",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2330,8 +2330,8 @@
         },
         {
           "node_type": "item",
-          "title": "88",
-          "description": "bioinform/breakseq2BreakSeq2: Ultrafast and accurate nucleotide-resolution analysis of structural variants 23 5 Python BSD 2-Clause \"Simplified\" License 2016-03-17 21:03:54",
+          "title": "bioinform/breakseq2",
+          "description": "BreakSeq2: Ultrafast and accurate nucleotide-resolution analysis of structural variants 23 5 Python BSD 2-Clause \"Simplified\" License 2016-03-17 21:03:54",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2345,8 +2345,8 @@
         },
         {
           "node_type": "item",
-          "title": "88",
-          "description": "AstraZeneca/OmicsfoldMulti-omics data normalisation, model fitting and visualisation. 23 7 R Apache License 2.0 2023-04-06 15:01:06",
+          "title": "AstraZeneca/Omicsfold",
+          "description": "Multi-omics data normalisation, model fitting and visualisation. 23 7 R Apache License 2.0 2023-04-06 15:01:06",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2360,8 +2360,8 @@
         },
         {
           "node_type": "item",
-          "title": "89",
-          "description": "Novartis/JAEGERJAEGER is a deep generative approach for small-molecule design 22 6 Python Apache License 2.0 2021-12-21 01:02:17",
+          "title": "Novartis/JAEGER",
+          "description": "JAEGER is a deep generative approach for small-molecule design 22 6 Python Apache License 2.0 2021-12-21 01:02:17",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2375,8 +2375,8 @@
         },
         {
           "node_type": "item",
-          "title": "89",
-          "description": "rdkit/AutomatedSeriesClassification 22 7 Jupyter Notebook MIT License 2021-06-23 12:33:52",
+          "title": "rdkit/AutomatedSeriesClassification",
+          "description": "22 7 Jupyter Notebook MIT License 2021-06-23 12:33:52",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2390,8 +2390,8 @@
         },
         {
           "node_type": "item",
-          "title": "89",
-          "description": "insightsengineering/cardsCDISC Analysis Results Data, , , 22 R 2024-06-03 15:23:42",
+          "title": "insightsengineering/cards",
+          "description": "CDISC Analysis Results Data, , , 22 R 2024-06-03 15:23:42",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2405,8 +2405,8 @@
         },
         {
           "node_type": "item",
-          "title": "89",
-          "description": "MolecularAI/reinvent-hitlCode for paper \"Human-in-the-Loop Assisted de Novo Molecular Design\". 22 5 Python Apache License 2.0 2023-03-17 15:13:20",
+          "title": "MolecularAI/reinvent-hitl",
+          "description": "Code for paper \"Human-in-the-Loop Assisted de Novo Molecular Design\". 22 5 Python Apache License 2.0 2023-03-17 15:13:20",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2420,8 +2420,8 @@
         },
         {
           "node_type": "item",
-          "title": "89",
-          "description": "astrazeneca-cgr-publications/PEACOKPhenome Exome Association and Correlation Of Key phenotypes 22 4 R GNU General Public License v3.0 2021-08-19 16:57:33",
+          "title": "astrazeneca-cgr-publications/PEACOK",
+          "description": "Phenome Exome Association and Correlation Of Key phenotypes 22 4 R GNU General Public License v3.0 2021-08-19 16:57:33",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2435,8 +2435,8 @@
         },
         {
           "node_type": "item",
-          "title": "89",
-          "description": "biosustain/snakemake_UmetaFlowUntargeted metabolomics workflow for large-scale data processing and analysis implemented in Snakemake 22 8 Python Apache License 2.0 2024-04-02 11:21:40",
+          "title": "biosustain/snakemake_UmetaFlow",
+          "description": "Untargeted metabolomics workflow for large-scale data processing and analysis implemented in Snakemake 22 8 Python Apache License 2.0 2024-04-02 11:21:40",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2450,8 +2450,8 @@
         },
         {
           "node_type": "item",
-          "title": "89",
-          "description": "Bayer-Group/cf-metrics 22 9 Shell Other 2017-10-23 16:07:20",
+          "title": "Bayer-Group/cf-metrics",
+          "description": "22 9 Shell Other 2017-10-23 16:07:20",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2465,8 +2465,8 @@
         },
         {
           "node_type": "item",
-          "title": "90",
-          "description": "rdkit/rdkit-origOlder clone of the RDKit subversion repository at http://sourceforge.net/projects/rdkit/ 21 14 C++ Other 2018-07-24 03:08:00",
+          "title": "rdkit/rdkit-orig",
+          "description": "Older clone of the RDKit subversion repository at http://sourceforge.net/projects/rdkit/ 21 14 C++ Other 2018-07-24 03:08:00",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2480,8 +2480,8 @@
         },
         {
           "node_type": "item",
-          "title": "90",
-          "description": "insightsengineering/rlistingsValue formatting and ASCII rendering infrastructure for tables and listings. 21 5 R 2024-06-07 13:34:58",
+          "title": "insightsengineering/rlistings",
+          "description": "Value formatting and ASCII rendering infrastructure for tables and listings. 21 5 R 2024-06-07 13:34:58",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2495,8 +2495,8 @@
         },
         {
           "node_type": "item",
-          "title": "90",
-          "description": "genentech/covtracerTools for contextualizing tests, built using covr test traces. 21 4 R Other 2024-01-12 14:26:39",
+          "title": "genentech/covtracer",
+          "description": "Tools for contextualizing tests, built using covr test traces. 21 4 R Other 2024-01-12 14:26:39",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2510,8 +2510,8 @@
         },
         {
           "node_type": "item",
-          "title": "90",
-          "description": "genentech/dcdfg 21 4 Python Apache License 2.0 2022-10-04 14:06:27",
+          "title": "genentech/dcdfg",
+          "description": "21 4 Python Apache License 2.0 2022-10-04 14:06:27",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2525,8 +2525,8 @@
         },
         {
           "node_type": "item",
-          "title": "90",
-          "description": "MolecularAI/aizynthtrainTools to train synthesis prediction models 21 6 Python Apache License 2.0 2024-05-29 14:47:11",
+          "title": "MolecularAI/aizynthtrain",
+          "description": "Tools to train synthesis prediction models 21 6 Python Apache License 2.0 2024-05-29 14:47:11",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2540,8 +2540,8 @@
         },
         {
           "node_type": "item",
-          "title": "90",
-          "description": "AstraZeneca-NGS/simple_sv_annotationSimplify snpEff annotations for interesting cases 21 4 Python Other 2019-02-18 10:39:43",
+          "title": "AstraZeneca-NGS/simple_sv_annotation",
+          "description": "Simplify snpEff annotations for interesting cases 21 4 Python Other 2019-02-18 10:39:43",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2555,8 +2555,8 @@
         },
         {
           "node_type": "item",
-          "title": "90",
-          "description": "astrazeneca-cgr-publications/JARVISJARVIS: a comprehensive deep learning framework to prioritise non-coding variants in whole genomes, , , , 21 6 HTML Mozilla Public License 2.0 2023-07-06 21:36:23",
+          "title": "astrazeneca-cgr-publications/JARVIS",
+          "description": "JARVIS: a comprehensive deep learning framework to prioritise non-coding variants in whole genomes, , , , 21 6 HTML Mozilla Public License 2.0 2023-07-06 21:36:23",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2570,8 +2570,8 @@
         },
         {
           "node_type": "item",
-          "title": "90",
-          "description": "bayer-science-for-a-better-life/topefind-publicFinding the pitfalls of deep learning predictors of interacting residues in antibodies 🦠, , , , , 21 Python BSD 3-Clause \"New\" or \"Revised\" License 2024-02-27 13:48:38",
+          "title": "bayer-science-for-a-better-life/topefind-public",
+          "description": "Finding the pitfalls of deep learning predictors of interacting residues in antibodies 🦠, , , , , 21 Python BSD 3-Clause \"New\" or \"Revised\" License 2024-02-27 13:48:38",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2585,8 +2585,8 @@
         },
         {
           "node_type": "item",
-          "title": "91",
-          "description": "pfizer-opensource/torsional-strain 20 7 Python Apache License 2.0 2023-03-14 13:19:09",
+          "title": "pfizer-opensource/torsional-strain",
+          "description": "20 7 Python Apache License 2.0 2023-03-14 13:19:09",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2600,8 +2600,8 @@
         },
         {
           "node_type": "item",
-          "title": "91",
-          "description": "Merck/AlgebraicAgents.jlA lightweight framework to enable hierarchical, heterogeneous dynamical systems co-integration. Batteries included!, , , , 20 3 Julia Other 2024-03-18 14:13:18",
+          "title": "Merck/AlgebraicAgents.jl",
+          "description": "A lightweight framework to enable hierarchical, heterogeneous dynamical systems co-integration. Batteries included!, , , , 20 3 Julia Other 2024-03-18 14:13:18",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2615,8 +2615,8 @@
         },
         {
           "node_type": "item",
-          "title": "91",
-          "description": "genentech/regLMToolkit for training hyenaDNA-based autoregressive language models on DNA sequences. 20 Jupyter Notebook MIT License 2024-02-19 04:41:23",
+          "title": "genentech/regLM",
+          "description": "Toolkit for training hyenaDNA-based autoregressive language models on DNA sequences. 20 Jupyter Notebook MIT License 2024-02-19 04:41:23",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2630,8 +2630,8 @@
         },
         {
           "node_type": "item",
-          "title": "91",
-          "description": "GSK-Biostatistics/gtogt in officeverse 20 1 R Apache License 2.0 2023-04-14 21:43:52",
+          "title": "GSK-Biostatistics/gto",
+          "description": "gt in officeverse 20 1 R Apache License 2.0 2023-04-14 21:43:52",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2645,8 +2645,8 @@
         },
         {
           "node_type": "item",
-          "title": "92",
-          "description": "Roche/gitlab-statsGitlab Stats provides more statistics from the GitLab API services 19 1 TypeScript Apache License 2.0 2022-12-05 15:33:32",
+          "title": "Roche/gitlab-stats",
+          "description": "Gitlab Stats provides more statistics from the GitLab API services 19 1 TypeScript Apache License 2.0 2022-12-05 15:33:32",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2660,8 +2660,8 @@
         },
         {
           "node_type": "item",
-          "title": "92",
-          "description": "AstraZeneca/VecNERA library of tools for dictionary-based Named Entity Recognition (NER), based on word vector representations to expand dictionary terms., , , , 19 Python Apache License 2.0 2023-07-25 21:03:18",
+          "title": "AstraZeneca/VecNER",
+          "description": "A library of tools for dictionary-based Named Entity Recognition (NER), based on word vector representations to expand dictionary terms., , , , 19 Python Apache License 2.0 2023-07-25 21:03:18",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2675,8 +2675,8 @@
         },
         {
           "node_type": "item",
-          "title": "92",
-          "description": "MolecularAI/route-distancesTools and routines to calculate distances between synthesis routes and to cluster them., , 19 5 Python MIT License 2024-01-24 14:37:42",
+          "title": "MolecularAI/route-distances",
+          "description": "Tools and routines to calculate distances between synthesis routes and to cluster them., , 19 5 Python MIT License 2024-01-24 14:37:42",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2690,8 +2690,8 @@
         },
         {
           "node_type": "item",
-          "title": "92",
-          "description": "AstraZeneca-Code-Club/beginners-python (forked from: THargreaves/beginners-python)Session material and solutions for the Beginner's Python course at the AstraZeneca Code Club 19 7 8 Jupyter Notebook MIT license 2023-07-20 14:59:39",
+          "title": "AstraZeneca-Code-Club/beginners-python",
+          "description": "(forked from: THargreaves/beginners-python)Session material and solutions for the Beginner's Python course at the AstraZeneca Code Club 19 7 8 Jupyter Notebook MIT license 2023-07-20 14:59:39",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2705,8 +2705,8 @@
         },
         {
           "node_type": "item",
-          "title": "92",
-          "description": "Bayer-Group/sas2rClinical trial data analytic recipes in R for SAS users 19 8 R MIT License 2023-10-26 15:39:46",
+          "title": "Bayer-Group/sas2r",
+          "description": "Clinical trial data analytic recipes in R for SAS users 19 8 R MIT License 2023-10-26 15:39:46",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2720,8 +2720,8 @@
         },
         {
           "node_type": "item",
-          "title": "92",
-          "description": "Bayer-Group/velocity-dashboardReact dashboard component 19 10 JavaScript Other 2019-04-24 21:19:38",
+          "title": "Bayer-Group/velocity-dashboard",
+          "description": "React dashboard component 19 10 JavaScript Other 2019-04-24 21:19:38",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2735,8 +2735,8 @@
         },
         {
           "node_type": "item",
-          "title": "92",
-          "description": "Bayer-Group/aws2scalaAn idiomatic Scala wrapper of the AWS SDK with both asynchronous and streaming clients. 19 9 Scala 2018-06-08 23:03:36",
+          "title": "Bayer-Group/aws2scala",
+          "description": "An idiomatic Scala wrapper of the AWS SDK with both asynchronous and streaming clients. 19 9 Scala 2018-06-08 23:03:36",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2750,8 +2750,8 @@
         },
         {
           "node_type": "item",
-          "title": "92",
-          "description": "Bayer-Group/spray-kamon-metricsBetter Kamon metrics for Spray services 19 1 HTML Other 2017-04-26 02:11:43",
+          "title": "Bayer-Group/spray-kamon-metrics",
+          "description": "Better Kamon metrics for Spray services 19 1 HTML Other 2017-04-26 02:11:43",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2765,8 +2765,8 @@
         },
         {
           "node_type": "item",
-          "title": "93",
-          "description": "Novartis/Causal-inference-in-RCTsThis repository contains code examples for several methods in a Causal Inference in RCTs short course. 18 R MIT License 2024-06-07 19:03:09",
+          "title": "Novartis/Causal-inference-in-RCTs",
+          "description": "This repository contains code examples for several methods in a Causal Inference in RCTs short course. 18 R MIT License 2024-06-07 19:03:09",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2780,8 +2780,8 @@
         },
         {
           "node_type": "item",
-          "title": "93",
-          "description": "Novartis/DRUG-seqDRUG (Digital RNA with pertUrbation of Genes)-seq data analysis pipeline 18 8 R MIT License 2021-06-10 03:35:35",
+          "title": "Novartis/DRUG-seq",
+          "description": "DRUG (Digital RNA with pertUrbation of Genes)-seq data analysis pipeline 18 8 R MIT License 2021-06-10 03:35:35",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2795,8 +2795,8 @@
         },
         {
           "node_type": "item",
-          "title": "93",
-          "description": "Novartis/patprofileStandard patient profile for shiny apps 18 7 R MIT License 2020-04-17 07:58:03",
+          "title": "Novartis/patprofile",
+          "description": "Standard patient profile for shiny apps 18 7 R MIT License 2020-04-17 07:58:03",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2810,8 +2810,8 @@
         },
         {
           "node_type": "item",
-          "title": "93",
-          "description": "rdkit/rdkit-structure-rendererJavaScript package for interactive rendering of 2D chemical structures in the browser. 18 2 HTML Other 2024-05-23 17:07:13",
+          "title": "rdkit/rdkit-structure-renderer",
+          "description": "JavaScript package for interactive rendering of 2D chemical structures in the browser. 18 2 HTML Other 2024-05-23 17:07:13",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2825,8 +2825,8 @@
         },
         {
           "node_type": "item",
-          "title": "93",
-          "description": "Roche/the-ambassadorThe Ambassador helps users of coding platforms to create findable, well maintained, properly documented and secure projects. It's purpose is to promote creating Open Source and InnerSource software, that others can rely on. It measures project scores (criticality, activity, scorecard), proactively advises projects., , , , , , 18 Kotlin Apache License 2.0 2024-05-30 10:56:41",
+          "title": "Roche/the-ambassador",
+          "description": "The Ambassador helps users of coding platforms to create findable, well maintained, properly documented and secure projects. It's purpose is to promote creating Open Source and InnerSource software, that others can rely on. It measures project scores (criticality, activity, scorecard), proactively advises projects., , , , , , 18 Kotlin Apache License 2.0 2024-05-30 10:56:41",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2840,8 +2840,8 @@
         },
         {
           "node_type": "item",
-          "title": "93",
-          "description": "Bayer-Group/BayerCLAWBayerCLAW workflow orchestration system for AWS, , , , , 18 8 Python BSD 3-Clause \"New\" or \"Revised\" License 2024-06-06 15:45:06",
+          "title": "Bayer-Group/BayerCLAW",
+          "description": "BayerCLAW workflow orchestration system for AWS, , , , , 18 8 Python BSD 3-Clause \"New\" or \"Revised\" License 2024-06-06 15:45:06",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2855,14 +2855,14 @@
         },
         {
           "node_type": "item",
-          "title": "94",
-          "description": "Merck/ReactiveDynamics.jlA Julia package that implements a category of reaction (transportation) network-type dynamical systems., , , , , , 17 3 Julia Other 2024-04-23 13:33:18",
+          "title": "Merck/ReactiveDynamics.jl",
+          "description": "A Julia package that implements a category of reaction (transportation) network-type dynamical systems., , , , , , 17 3 Julia Other 2024-04-23 13:33:18",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 525117052,
             "language": "Julia",
-            "last_commit": "2026-08-24T15:04:19Z",
+            "last_commit": "2026-08-25T02:30:43Z",
             "owner": "Merck",
             "repo": "ReactiveDynamics.jl",
             "stars": 17
@@ -2870,8 +2870,8 @@
         },
         {
           "node_type": "item",
-          "title": "94",
-          "description": "Merck/PepSeA 17 9 Python MIT License 2021-10-27 20:27:01",
+          "title": "Merck/PepSeA",
+          "description": "17 9 Python MIT License 2021-10-27 20:27:01",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2885,8 +2885,8 @@
         },
         {
           "node_type": "item",
-          "title": "94",
-          "description": "insightsengineering/tlg-catalogA catalog of Tables, Listings and Graphs (TLGs) created with NEST R packages 17 4 JavaScript Other 2024-06-05 18:04:25",
+          "title": "insightsengineering/tlg-catalog",
+          "description": "A catalog of Tables, Listings and Graphs (TLGs) created with NEST R packages 17 4 JavaScript Other 2024-06-05 18:04:25",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2900,8 +2900,8 @@
         },
         {
           "node_type": "item",
-          "title": "94",
-          "description": "genentech/jmpost 17 5 R 2024-06-07 16:30:15",
+          "title": "genentech/jmpost",
+          "description": "17 5 R 2024-06-07 16:30:15",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2915,8 +2915,8 @@
         },
         {
           "node_type": "item",
-          "title": "94",
-          "description": "Roche/neuro-meegletComplex-valued Morlet wavelets for EEG signal analysis and feature engineering. 17 2 Jupyter Notebook Apache License 2.0 2024-03-29 09:55:14",
+          "title": "Roche/neuro-meeglet",
+          "description": "Complex-valued Morlet wavelets for EEG signal analysis and feature engineering. 17 2 Jupyter Notebook Apache License 2.0 2024-03-29 09:55:14",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2930,8 +2930,8 @@
         },
         {
           "node_type": "item",
-          "title": "94",
-          "description": "MolecularAI/Deep-Drug-Coder 17 6 Python MIT License 2023-03-11 12:00:04",
+          "title": "MolecularAI/Deep-Drug-Coder",
+          "description": "17 6 Python MIT License 2023-03-11 12:00:04",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2945,8 +2945,8 @@
         },
         {
           "node_type": "item",
-          "title": "94",
-          "description": "Boehringer-Ingelheim/anomaly-detection-in-histologyLearning image representations for anomaly detection: application to discovery of histological alterations in drug development, , , , , , 17 1 Python MIT License 2024-01-09 11:40:11",
+          "title": "Boehringer-Ingelheim/anomaly-detection-in-histology",
+          "description": "Learning image representations for anomaly detection: application to discovery of histological alterations in drug development, , , , , , 17 1 Python MIT License 2024-01-09 11:40:11",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2960,8 +2960,8 @@
         },
         {
           "node_type": "item",
-          "title": "94",
-          "description": "Bayer-Group/padoPAthological Data Obsession - cloud native digital pathology datasets, 17 2 Python BSD 3-Clause \"New\" or \"Revised\" License 2023-03-01 13:46:57",
+          "title": "Bayer-Group/pado",
+          "description": "PAthological Data Obsession - cloud native digital pathology datasets, 17 2 Python BSD 3-Clause \"New\" or \"Revised\" License 2023-03-01 13:46:57",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2975,8 +2975,8 @@
         },
         {
           "node_type": "item",
-          "title": "94",
-          "description": "Bayer-Group/eqgatResearch repository for the proposed equivariant graph attention network that operates on large biomolecules proposed by Le et al. (2022), , , 17 Python BSD 3-Clause \"New\" or \"Revised\" License 2022-12-01 10:38:45",
+          "title": "Bayer-Group/eqgat",
+          "description": "Research repository for the proposed equivariant graph attention network that operates on large biomolecules proposed by Le et al. (2022), , , 17 Python BSD 3-Clause \"New\" or \"Revised\" License 2022-12-01 10:38:45",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2993,7 +2993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:09:16.953Z",
+    "last_updated": "2026-08-25T06:37:10.341Z",
     "original_repository": "servierhub/top-pharma50",
     "original_repository_id": 804105854,
     "original_repository_sha": "7ecbaf13cb7acf69e486cf1529bfc95600772168",
