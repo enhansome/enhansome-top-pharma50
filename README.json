@@ -12,10 +12,10 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-25T10:13:12Z",
+            "last_commit": "2026-08-26T14:35:13Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3562
+            "stars": 3565
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-04-13T08:06:57Z",
             "owner": "MolecularAI",
             "repo": "aizynthfinder",
-            "stars": 880
+            "stars": 882
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-09T12:10:41Z",
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 845
+            "stars": 846
           }
         },
         {
@@ -342,7 +342,7 @@
             "archived": false,
             "id": 383270569,
             "language": "R",
-            "last_commit": "2026-08-25T14:13:46Z",
+            "last_commit": "2026-08-26T14:59:22Z",
             "owner": "insightsengineering",
             "repo": "teal",
             "stars": 263
@@ -915,7 +915,7 @@
             "last_commit": "2024-08-05T06:44:21Z",
             "owner": "MolecularAI",
             "repo": "PaRoutes",
-            "stars": 92
+            "stars": 93
           }
         },
         {
@@ -942,7 +942,7 @@
             "archived": false,
             "id": 473693153,
             "language": "R",
-            "last_commit": "2026-08-25T15:07:20Z",
+            "last_commit": "2026-08-26T15:08:11Z",
             "owner": "GSK-Biostatistics",
             "repo": "tfrmt",
             "stars": 91
@@ -987,7 +987,7 @@
             "archived": false,
             "id": 264192784,
             "language": "Python",
-            "last_commit": "2026-07-28T13:35:20Z",
+            "last_commit": "2026-08-25T16:59:32Z",
             "owner": "pfizer-opensource",
             "repo": "scikit-digital-health",
             "stars": 108
@@ -1215,7 +1215,7 @@
             "last_commit": "2025-11-05T15:37:34Z",
             "owner": "Boehringer-Ingelheim",
             "repo": "pyPept",
-            "stars": 99
+            "stars": 100
           }
         },
         {
@@ -1317,7 +1317,7 @@
             "archived": false,
             "id": 243550957,
             "language": "Python",
-            "last_commit": "2026-08-25T10:52:13Z",
+            "last_commit": "2026-08-26T09:08:26Z",
             "owner": "bedapub",
             "repo": "besca",
             "stars": 50
@@ -1737,7 +1737,7 @@
             "archived": false,
             "id": 347189347,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T16:52:33Z",
+            "last_commit": "2026-08-26T09:32:50Z",
             "owner": "Sanofi-IADC",
             "repo": "konviw",
             "stars": 37
@@ -1815,7 +1815,7 @@
             "last_commit": "2021-08-24T18:01:38Z",
             "owner": "Novartis",
             "repo": "pQSAR",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -2907,7 +2907,7 @@
             "archived": false,
             "id": 498892686,
             "language": "R",
-            "last_commit": "2026-08-19T15:17:29Z",
+            "last_commit": "2026-08-26T04:44:14Z",
             "owner": "Genentech",
             "repo": "jmpost",
             "stars": 17
@@ -2993,7 +2993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:13:37.478Z",
+    "last_updated": "2026-08-26T15:58:23.155Z",
     "original_repository": "servierhub/top-pharma50",
     "original_repository_id": 804105854,
     "original_repository_sha": "7ecbaf13cb7acf69e486cf1529bfc95600772168",
