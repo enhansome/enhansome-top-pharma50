@@ -12,7 +12,7 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-26T14:35:13Z",
+            "last_commit": "2026-08-27T03:32:26Z",
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3565
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-09T12:10:41Z",
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 846
+            "stars": 848
           }
         },
         {
@@ -342,7 +342,7 @@
             "archived": false,
             "id": 383270569,
             "language": "R",
-            "last_commit": "2026-08-26T14:59:22Z",
+            "last_commit": "2026-08-27T07:16:31Z",
             "owner": "insightsengineering",
             "repo": "teal",
             "stars": 263
@@ -657,7 +657,7 @@
             "archived": false,
             "id": 272640341,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T19:12:57Z",
+            "last_commit": "2026-08-26T19:53:22Z",
             "owner": "Sanofi-IADC",
             "repo": "whispr",
             "stars": 87
@@ -705,7 +705,7 @@
             "last_commit": "2025-08-28T19:06:01Z",
             "owner": "EliLillyCo",
             "repo": "LillyMol",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -1737,7 +1737,7 @@
             "archived": false,
             "id": 347189347,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T09:32:50Z",
+            "last_commit": "2026-08-27T12:05:50Z",
             "owner": "Sanofi-IADC",
             "repo": "konviw",
             "stars": 37
@@ -2322,7 +2322,7 @@
             "archived": false,
             "id": 561597397,
             "language": "R",
-            "last_commit": "2026-08-22T17:24:52Z",
+            "last_commit": "2026-08-26T18:03:18Z",
             "owner": "insightsengineering",
             "repo": "teal.gallery",
             "stars": 40
@@ -2892,7 +2892,7 @@
             "archived": false,
             "id": 406157028,
             "language": "Lua",
-            "last_commit": "2026-08-22T18:07:28Z",
+            "last_commit": "2026-08-26T18:46:14Z",
             "owner": "insightsengineering",
             "repo": "tlg-catalog",
             "stars": 32
@@ -2993,9 +2993,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:58:23.155Z",
-    "original_repository": "servierhub/top-pharma50",
-    "original_repository_id": 804105854,
+    "last_updated": "2026-08-27T12:06:22.331Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 804105854,
+      "language": "Makefile",
+      "last_commit": "2024-06-09T21:18:48Z",
+      "owner": "servierhub",
+      "repo": "top-pharma50",
+      "stars": 77
+    },
     "original_repository_sha": "7ecbaf13cb7acf69e486cf1529bfc95600772168",
     "enhanced_repository": "enhansome/enhansome-top-pharma50",
     "enhanced_repository_description": null,
