@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official sources for the RDKit library",
+            "homepage": null,
             "id": 10009991,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T07:20:52Z",
+            "open_issues": 67,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3570
+            "stars": 3570,
+            "topics": [
+              "c-plus-plus",
+              "cheminformatics",
+              "python",
+              "rdkit"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -26,12 +36,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of research papers and software related to explainability in graph machine learning.",
+            "homepage": null,
             "id": 374607129,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-04-04T14:54:08Z",
+            "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-explainable-graph-reasoning",
-            "stars": 1990
+            "stars": 1990,
+            "topics": [
+              "awesome-list",
+              "deep-learning",
+              "explainable-ai",
+              "explainable-ml",
+              "graph",
+              "graph-algorithms",
+              "graphml"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -42,12 +65,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch and TorchDrug based deep learning library for drug pair scoring. (KDD 2022)",
+            "homepage": "https://chemicalx.readthedocs.io",
             "id": 435549806,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-11T08:01:43Z",
+            "open_issues": 9,
             "owner": "AstraZeneca",
             "repo": "chemicalx",
-            "stars": 783
+            "stars": 783,
+            "topics": [
+              "biology",
+              "chemistry",
+              "deep-chemistry",
+              "deep-learning",
+              "drug",
+              "drug-discovery",
+              "drug-interaction",
+              "drug-pair",
+              "geometric-deep-learning",
+              "geometry",
+              "graph-neural-network",
+              "machine-learning",
+              "pharma",
+              "polypharmacy",
+              "pytorch",
+              "smiles",
+              "smiles-strings",
+              "torch",
+              "torchdrug"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -58,12 +106,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for retrosynthetic planning",
+            "homepage": "https://molecularai.github.io/aizynthfinder/",
             "id": 271546468,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-13T08:06:57Z",
+            "open_issues": 9,
             "owner": "MolecularAI",
             "repo": "aizynthfinder",
-            "stars": 882
+            "stars": 882,
+            "topics": [
+              "astrazeneca",
+              "chemical-reactions",
+              "cheminformatics",
+              "monte-carlo-tree-search",
+              "neural-networks",
+              "reaction-informatics"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -74,12 +134,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Flask-Potion is a RESTful API framework for Flask and SQLAlchemy, Peewee or MongoEngine",
+            "homepage": "http://potion.readthedocs.io",
             "id": 24049454,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-04-23T17:00:39Z",
+            "open_issues": 51,
             "owner": "biosustain",
             "repo": "potion",
-            "stars": 487
+            "stars": 487,
+            "topics": [
+              "flask",
+              "flask-extensions",
+              "mongoengine",
+              "peewee",
+              "sqlalchemy"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -90,12 +161,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Graph neural networks for molecular design.",
+            "homepage": null,
             "id": 289293101,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-11T11:55:32Z",
+            "open_issues": 10,
             "owner": "MolecularAI",
             "repo": "GraphINVENT",
-            "stars": 380
+            "stars": 380,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -106,12 +182,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 248080601,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-24T11:22:03Z",
+            "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "Reinvent",
-            "stars": 377
+            "stars": 377,
+            "topics": [
+              "astrazeneca",
+              "cheminformatics",
+              "denovo-design",
+              "neural-networks",
+              "reinforcement-learning",
+              "transfer-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -122,12 +210,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python package to read and write sas, spss and stata files into/from pandas and polars data frames. It is a wrapper for the C library readstat.",
+            "homepage": null,
             "id": 145536189,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-12T13:24:15Z",
+            "open_issues": 15,
             "owner": "Roche",
             "repo": "pyreadstat",
-            "stars": 425
+            "stars": 425,
+            "topics": [
+              "conversion",
+              "pandas-dataframe",
+              "polars-dataframe",
+              "python",
+              "readstat",
+              "sas7bdat",
+              "spss",
+              "stata-files"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -138,12 +240,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A general purpose recommender metrics library for fair evaluation.",
+            "homepage": "https://rexmex.readthedocs.io/",
             "id": 420948708,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-22T09:22:20Z",
+            "open_issues": 3,
             "owner": "AstraZeneca",
             "repo": "rexmex",
-            "stars": 277
+            "stars": 277,
+            "topics": [
+              "coverage",
+              "deep-learning",
+              "evaluation",
+              "machine-learning",
+              "metric",
+              "metrics",
+              "mrr",
+              "personalization",
+              "precision",
+              "rank",
+              "ranking",
+              "recall",
+              "recommender",
+              "recommender-system",
+              "recsys",
+              "rsquared"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -154,12 +278,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI molecular design tool for de novo design, scaffold hopping, R-group replacement, linker design and molecule optimization.",
+            "homepage": null,
             "id": 707552952,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-09T12:10:41Z",
+            "open_issues": 10,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 850
+            "stars": 850,
+            "topics": [
+              "ai",
+              "astrazeneca",
+              "cheminformatics",
+              "chemistry",
+              "deep-learning",
+              "denovo-design",
+              "drug-design",
+              "drug-discovery",
+              "generative-ai",
+              "ml",
+              "molecule-generation",
+              "neural-networks",
+              "reinforcement-learning",
+              "transfer-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -170,12 +314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorials to learn how to work with the RDKit",
+            "homepage": null,
             "id": 70212829,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-19T13:36:55Z",
+            "open_issues": 6,
             "owner": "rdkit",
             "repo": "rdkit-tutorials",
-            "stars": 313
+            "stars": 313,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -186,12 +335,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reporting tables with R",
+            "homepage": "https://pharmaverse.github.io/rtables/",
             "id": 110836137,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T14:03:13Z",
+            "open_issues": 48,
             "owner": "pharmaverse",
             "repo": "rtables",
-            "stars": 259
+            "stars": 259,
+            "topics": [
+              "pharmaceuticals",
+              "r",
+              "tables"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -202,12 +360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A type-safe Scala DSL for generating CloudFormation templates",
+            "homepage": null,
             "id": 38452210,
             "language": "Scala",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-07-29T11:32:04Z",
+            "open_issues": 18,
             "owner": "Bayer-Group",
             "repo": "cloudformation-template-generator",
-            "stars": 208
+            "stars": 208,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -218,12 +381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A container to assist in managing a etcd2 cluster from an Amazon auto scaling group",
+            "homepage": null,
             "id": 35633250,
             "language": "Shell",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-02-01T01:09:05Z",
+            "open_issues": 3,
             "owner": "Bayer-Group",
             "repo": "etcd-aws-cluster",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -234,12 +402,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified biological sequence manipulation in Python",
+            "homepage": "https://modernatx.github.io/seqlike",
             "id": 414609779,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-12T19:49:41Z",
+            "open_issues": 8,
             "owner": "modernatx",
             "repo": "seqlike",
-            "stars": 207
+            "stars": 207,
+            "topics": [
+              "biological-sequences",
+              "biopython",
+              "machine-learning",
+              "sequence"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -250,12 +428,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package to identify matched molecular pairs and use them to predict property changes.",
+            "homepage": null,
             "id": 100089651,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-03T20:21:33Z",
+            "open_issues": 19,
             "owner": "rdkit",
             "repo": "mmpdb",
-            "stars": 300
+            "stars": 300,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -266,12 +449,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ensemble approach to accurately detect somatic mutations using SomaticSeq",
+            "homepage": " http://bioinform.github.io/somaticseq/",
             "id": 33651263,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-23T07:22:54Z",
+            "open_issues": 7,
             "owner": "bioinform",
             "repo": "somaticseq",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "cancer-genomics",
+              "somatic-variants"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -282,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 388016777,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-11T14:58:11Z",
+            "open_issues": 10,
             "owner": "MolecularAI",
             "repo": "Chemformer",
-            "stars": 293
+            "stars": 293,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -298,12 +494,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "VarDict",
+            "homepage": null,
             "id": 21859333,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2024-01-05T14:06:13Z",
+            "open_issues": 44,
             "owner": "AstraZeneca-NGS",
             "repo": "VarDict",
-            "stars": 204
+            "stars": 204,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -314,12 +515,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of research papers, datasets and software related to knowledge graphs for drug discovery. Accompanies the paper \"A review of biomedical datasets relating to drug discovery: a knowledge graph perspective\" (Briefings in Bioinformatics, 2022)",
+            "homepage": "https://academic.oup.com/bib/article-abstract/23/6/bbac404/6712301",
             "id": 417616805,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-07-27T12:46:02Z",
+            "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-drug-discovery-knowledge-graphs",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "awesome-list",
+              "drug-discovery",
+              "drug-discovery-knowledge-graph",
+              "knowledge-graph"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -330,12 +541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "regenie is a C++ program for whole genome regression modelling of large genome-wide association studies.",
+            "homepage": "https://rgcgithub.github.io/regenie",
             "id": 263152515,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-13T03:24:02Z",
+            "open_issues": 148,
             "owner": "rgcgithub",
             "repo": "regenie",
-            "stars": 267
+            "stars": 267,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -346,12 +562,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeuSomatic: Deep convolutional neural networks for accurate somatic mutation detection",
+            "homepage": null,
             "id": 146045763,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-23T10:41:50Z",
+            "open_issues": 31,
             "owner": "bioinform",
             "repo": "neusomatic",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "convolutional-neural-networks",
+              "deep-learning",
+              "genomics",
+              "somatic-variants"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -362,12 +588,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exploratory Web Apps for Analyzing Clinical Trial Data",
+            "homepage": "https://insightsengineering.github.io/teal/",
             "id": 383270569,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:16:58Z",
+            "open_issues": 75,
             "owner": "insightsengineering",
             "repo": "teal",
-            "stars": 263
+            "stars": 263,
+            "topics": [
+              "clinical-trials",
+              "nest",
+              "r",
+              "shiny",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -378,12 +615,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 253503047,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-04-22T16:44:35Z",
+            "open_issues": 3,
             "owner": "MolecularAI",
             "repo": "ReinventCommunity",
-            "stars": 180
+            "stars": 180,
+            "topics": [
+              "astrazeneca",
+              "cheminformatics",
+              "denovo-design",
+              "jupyter-notebook",
+              "neural-networks",
+              "reinforcement-learning",
+              "transfer-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -394,12 +644,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Object-Oriented approach to Shiny modules ",
+            "homepage": "https://opensource.nibr.com/tidymodules",
             "id": 203401748,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-05T17:41:02Z",
+            "open_issues": 25,
             "owner": "Novartis",
             "repo": "tidymodules",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "communication",
+              "inheritance",
+              "oop",
+              "r",
+              "shiny",
+              "shiny-modules",
+              "tidy-operators"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -410,12 +673,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Molecular optimization by capturing chemist’s intuition using the Seq2Seq with attention and the Transformer",
+            "homepage": null,
             "id": 307964836,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-16T07:05:06Z",
+            "open_issues": 3,
             "owner": "MolecularAI",
             "repo": "deep-molecular-optimization",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "molecular-optimization",
+              "multi-property-optimization",
+              "seq2seq",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -426,12 +699,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation of the paper, \"SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning\"",
+            "homepage": null,
             "id": 414183752,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-07-01T09:03:38Z",
+            "open_issues": 1,
             "owner": "AstraZeneca",
             "repo": "SubTab",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "contrastive-learning",
+              "multi-view-learning",
+              "representation-learning",
+              "self-supervised-learning",
+              "tabular-data"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -442,12 +726,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reading list for \"The Shapley Value in Machine Learning\" (JCAI 2022)",
+            "homepage": null,
             "id": 486989600,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-08-08T08:53:10Z",
+            "open_issues": 1,
             "owner": "AstraZeneca",
             "repo": "awesome-shapley-value",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "artificial-intelligence",
+              "data-science",
+              "deep-learning",
+              "explainability",
+              "explainable",
+              "explainable-ai",
+              "explainable-artificial-intelligence",
+              "explainable-ml",
+              "lime",
+              "machine-learning",
+              "owen-value",
+              "shap",
+              "shapley",
+              "shapley-additive-explanations",
+              "shapley-decomposition",
+              "shapley-q-value",
+              "shapley-value",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -458,12 +766,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BioPhi is an open-source antibody design platform. It features methods for automated antibody humanization (Sapiens), humanness evaluation (OASis) and an interface for computer-assisted antibody sequence design.",
+            "homepage": "https://biophi.dichlab.org/",
             "id": 390730203,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-13T21:53:11Z",
+            "open_issues": 44,
             "owner": "Merck",
             "repo": "BioPhi",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "antibody",
+              "humanization",
+              "humanness",
+              "oasis",
+              "sapiens"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -474,12 +793,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "VarDict Java port",
+            "homepage": null,
             "id": 26852732,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-01-05T14:03:51Z",
+            "open_issues": 68,
             "owner": "AstraZeneca-NGS",
             "repo": "VarDictJava",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -490,12 +814,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful cheminformatics and molecule rendering toolbelt for JavaScript, powered by RDKit .",
+            "homepage": "https://rdkitjs.com",
             "id": 368375607,
             "language": "Dockerfile",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-03T18:12:24Z",
+            "open_issues": 32,
             "owner": "rdkit",
             "repo": "rdkit-js",
-            "stars": 247
+            "stars": 247,
+            "topics": [
+              "cheminformatics",
+              "drug-discovery",
+              "javascript",
+              "molecule",
+              "molecule-viewer",
+              "molecule-visualization",
+              "node-js",
+              "npm",
+              "rdkit",
+              "react",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -506,12 +847,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 417096206,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2023-06-12T21:51:15Z",
+            "open_issues": 12,
             "owner": "Roche",
             "repo": "BalancedLossNLP",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -522,12 +868,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BGC Detection and Classification Using Deep Learning",
+            "homepage": "https://doi.org/10.1093/nar/gkz654",
             "id": 162141645,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-11-11T12:48:56Z",
+            "open_issues": 36,
             "owner": "Merck",
             "repo": "deepbgc",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "bidirectional-lstm",
+              "biosynthetic-gene-clusters",
+              "deep-learning",
+              "deepbgc",
+              "natural-products",
+              "pfam2vec",
+              "python",
+              "synthetic-biology"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -538,12 +898,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code repository for EquiFold: Protein Structure Prediction with a Novel Coarse-Grained Structure Representation",
+            "homepage": "https://www.biorxiv.org/content/10.1101/2022.10.07.511322v1",
             "id": 571827406,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-08T19:51:30Z",
+            "open_issues": 2,
             "owner": "Genentech",
             "repo": "equifold",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "machine-learning",
+              "proteins",
+              "structural-biology",
+              "structure-prediction"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -554,12 +924,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cameo - computer aided metabolic engineering & optimization",
+            "homepage": "http://cameo.bio",
             "id": 18134954,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-07T14:54:19Z",
+            "open_issues": 44,
             "owner": "biosustain",
             "repo": "cameo",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -570,12 +945,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Halyard is an extremely horizontally scalable Triplestore with support for Named Graphs, designed for integration of extremely large Semantic Data Models, and for storage and SPARQL 1.1 querying of the whole Linked Data universe snapshots.",
+            "homepage": "https://merck.github.io/Halyard",
             "id": 74616657,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-23T16:59:32Z",
+            "open_issues": 24,
             "owner": "Merck",
             "repo": "Halyard",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -586,12 +966,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 352675317,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-24T18:07:41Z",
+            "open_issues": 1,
             "owner": "bayer-science-for-a-better-life",
             "repo": "Img2Mol",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -602,12 +987,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo the app here: https://bit.ly/tidyCDISC_app",
+            "homepage": "https://biogen-inc.github.io/tidyCDISC/",
             "id": 281265375,
             "language": "R",
+            "license": "AGPL-3.0",
             "last_commit": "2026-02-05T16:41:13Z",
+            "open_issues": 59,
             "owner": "Biogen-Inc",
             "repo": "tidyCDISC",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "pharma",
+              "r",
+              "rinpharma",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -618,12 +1013,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DockStream: A Docking Wrapper to Enhance De Novo Molecular Design",
+            "homepage": null,
             "id": 391943867,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-16T07:07:10Z",
+            "open_issues": 3,
             "owner": "MolecularAI",
             "repo": "DockStream",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "astrazeneca",
+              "chemoinformatics",
+              "denovo-design",
+              "jupyter-notebook",
+              "molecular-docking",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -634,12 +1041,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PAthological QUpath Obsession - QuPath and Python conversations",
+            "homepage": null,
             "id": 277534200,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-30T08:28:33Z",
+            "open_issues": 35,
             "owner": "Bayer-Group",
             "repo": "paquo",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "digital-pathology",
+              "python",
+              "qupath"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -650,12 +1066,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gReLU is a python library to train, interpret, and apply deep learning models to DNA sequences.",
+            "homepage": "https://genentech.github.io/gReLU/",
             "id": 788591787,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-12T21:24:30Z",
+            "open_issues": 24,
             "owner": "Genentech",
             "repo": "gReLU",
-            "stars": 364
+            "stars": 364,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -666,12 +1087,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for mRNA Paper and CodonBERT publication.",
+            "homepage": null,
             "id": 715779818,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-19T13:01:12Z",
+            "open_issues": 8,
             "owner": "Sanofi-Public",
             "repo": "CodonBERT",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -682,12 +1108,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OntoMerger is an ontology alignment library for deduplicating knowledge graph nodes that represent the same domain.",
+            "homepage": null,
             "id": 488946363,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-11T19:22:08Z",
+            "open_issues": 5,
             "owner": "AstraZeneca",
             "repo": "onto_merger",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "algorithm",
+              "alignment",
+              "biological-networks",
+              "biology",
+              "graph",
+              "kg",
+              "knowledge",
+              "knowledge-graph",
+              "mapping",
+              "ontology",
+              "ontology-alignment"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -698,12 +1141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source event, comment and alert processing hub created by Sanofi IADC",
+            "homepage": null,
             "id": 272640341,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T19:53:22Z",
+            "open_issues": 51,
             "owner": "Sanofi-IADC",
             "repo": "whispr",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -714,12 +1162,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 65601597,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2020-11-11T06:42:10Z",
+            "open_issues": 4,
             "owner": "bioinform",
             "repo": "rnacocktail",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "rna-seq"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -730,12 +1185,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Readings for \"A Unified View of Relational Deep Learning for Drug Pair Scoring.\" (IJCAI 2022)",
+            "homepage": null,
             "id": 352453058,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-08-07T17:10:49Z",
+            "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-drug-pair-scoring",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "chemistry",
+              "ddi",
+              "decagon",
+              "deep-chemistry",
+              "deep-learning",
+              "drug",
+              "drug-combination",
+              "drug-design",
+              "drug-drug-interaction",
+              "drug-repurposing",
+              "drug-synergy",
+              "drug-target-interactions",
+              "gcn",
+              "gnn",
+              "graph-neural-network",
+              "knowledge-graph",
+              "machine-learning",
+              "polypharmacy",
+              "relational-learning",
+              "synergy-prediction"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -746,12 +1227,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LillyMol Public Code",
+            "homepage": null,
             "id": 126340941,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-28T19:06:01Z",
+            "open_issues": 2,
             "owner": "EliLillyCo",
             "repo": "LillyMol",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -762,12 +1248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source Data Ops",
+            "homepage": null,
             "id": 50318857,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-16T09:27:33Z",
+            "open_issues": 23,
             "owner": "Novartis",
             "repo": "YADA",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -778,12 +1269,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VarSim: A high-fidelity simulation validation framework for high-throughput genome sequencing with cancer applications",
+            "homepage": "http://bioinform.github.io/varsim/",
             "id": 19718418,
             "language": "Java",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-10-03T17:33:34Z",
+            "open_issues": 41,
             "owner": "bioinform",
             "repo": "varsim",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "genomics",
+              "high-throughput-sequencing",
+              "simulation",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -794,12 +1295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "learning biology syllabus, geared for machine learning folks",
+            "homepage": null,
             "id": 334909828,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-05T16:29:03Z",
+            "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "biology-for-ai",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -810,12 +1316,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Reference data: BED files, genes, transcripts, variations.",
+            "homepage": null,
             "id": 75207462,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-11-28T14:42:42Z",
+            "open_issues": 4,
             "owner": "AstraZeneca-NGS",
             "repo": "reference_data",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -826,12 +1337,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TiffSlide - cloud native openslide-python replacement based on tifffile",
+            "homepage": null,
             "id": 349027019,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-03T01:22:38Z",
+            "open_issues": 21,
             "owner": "Bayer-Group",
             "repo": "tiffslide",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "digital-pathology",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -842,12 +1361,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily Create Production-Ready Rich Text Format (RTF) Table and Figure",
+            "homepage": "https://merck.github.io/r2rtf",
             "id": 241737369,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-09T17:58:52Z",
+            "open_issues": 2,
             "owner": "Merck",
             "repo": "r2rtf",
-            "stars": 84
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -858,12 +1382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A unifying representation of single cell expression profiles that quantifies similarity between expression states and generalizes to represent new studies without additional training.",
+            "homepage": "https://genentech.github.io/scimilarity/",
             "id": 675918345,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-14T21:49:09Z",
+            "open_issues": 22,
             "owner": "Genentech",
             "repo": "scimilarity",
-            "stars": 259
+            "stars": 259,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -874,12 +1403,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Easy to use, open source React/Openlayers geospatial component toolkit.",
+            "homepage": "https://ol-kit.com",
             "id": 234365805,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-07T20:44:37Z",
+            "open_issues": 12,
             "owner": "Bayer-Group",
             "repo": "ol-kit",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "bayer",
+              "components",
+              "deprecated",
+              "geospatial",
+              "maps",
+              "openlayers",
+              "react",
+              "toolkit"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -890,12 +1433,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Table, Listings, and Graphs (TLG) library for common outputs used in clinical trials",
+            "homepage": "https://pharmaverse.github.io/tern/",
             "id": 383270824,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T09:11:33Z",
+            "open_issues": 54,
             "owner": "pharmaverse",
             "repo": "tern",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "clinical-trials",
+              "graphs",
+              "listings",
+              "nest",
+              "outputs",
+              "r",
+              "tables"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -906,12 +1462,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast calculation of hydrogen-bond strengths and free energy of hydration of small molecules.",
+            "homepage": "https://jazzy.readthedocs.io/en/latest/",
             "id": 457425054,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-05T13:03:18Z",
+            "open_issues": 23,
             "owner": "AstraZeneca",
             "repo": "jazzy",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -922,12 +1483,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pviz",
+            "homepage": null,
             "id": 12253407,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2016-09-13T06:28:27Z",
+            "open_issues": 4,
             "owner": "Genentech",
             "repo": "pviz",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -938,12 +1504,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Peax is a tool for interactive visual pattern search and exploration in epigenomic data based on unsupervised representation learning with autoencoders",
+            "homepage": "http://peax.lekschas.de",
             "id": 150585972,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-14T18:38:58Z",
+            "open_issues": 21,
             "owner": "Novartis",
             "repo": "peax",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "autoencoder",
+              "data-visualization",
+              "deep-learning",
+              "epigenomics",
+              "interactive-machine-learning",
+              "pattern-search",
+              "sequential-data"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -954,12 +1533,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Utilities for working with SMILES based encodings of molecules for deep learning (PyTorch oriented)",
+            "homepage": null,
             "id": 381345000,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-11T15:00:35Z",
+            "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "pysmilesutils",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -970,12 +1554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Home of the PaRoutes framework for benchmarking multi-step retrosynthesis predictions.",
+            "homepage": null,
             "id": 463084412,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-05T06:44:21Z",
+            "open_issues": 0,
             "owner": "MolecularAI",
             "repo": "PaRoutes",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -986,12 +1575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 81585711,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2018-10-24T20:07:27Z",
+            "open_issues": 1,
             "owner": "Merck",
             "repo": "DeepNeuralNet-QSAR",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1002,12 +1596,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "r package for formatting tables ",
+            "homepage": "https://gsk-biostatistics.github.io/tfrmt/",
             "id": 473693153,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T15:08:11Z",
+            "open_issues": 45,
             "owner": "GSK-Biostatistics",
             "repo": "tfrmt",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1018,12 +1617,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, world class biomedical NER",
+            "homepage": "https://AstraZeneca.github.io/KAZU/",
             "id": 549271080,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-04T15:22:44Z",
+            "open_issues": 34,
             "owner": "AstraZeneca",
             "repo": "KAZU",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "biomedical-text-mining",
+              "natural-language-processing",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1034,12 +1642,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 321465754,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-15T15:20:55Z",
+            "open_issues": 3,
             "owner": "molecularinformatics",
             "repo": "Computational-ADME",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1050,12 +1663,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python package for the processing and analysis of Inertial Measurement Unit Data",
+            "homepage": "https://scikit-digital-health.readthedocs.io/en/latest/index.html",
             "id": 264192784,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:23:22Z",
+            "open_issues": 5,
             "owner": "pfizer-opensource",
             "repo": "scikit-digital-health",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "actigraphy",
+              "imu-sensor",
+              "python",
+              "sensors",
+              "wearables"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1066,12 +1690,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficiently calculate 3D-features for quantitative structure-activity relationship approaches.",
+            "homepage": "https://ehjc.gitbook.io/kallisto/",
             "id": 333407935,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-01T10:34:54Z",
+            "open_issues": 5,
             "owner": "AstraZeneca",
             "repo": "kallisto",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "chemistry",
+              "computational-chemistry",
+              "machinelearning",
+              "quantum-chemistry"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1082,12 +1716,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Forecasting for knowable future events using Bayesian informative priors (forecasting with judgmental-adjustment). ",
+            "homepage": null,
             "id": 471090166,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-14T09:16:16Z",
+            "open_issues": 2,
             "owner": "AstraZeneca",
             "repo": "judgyprophet",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "ai",
+              "bayesian",
+              "data-science",
+              "forecasting",
+              "machine-learning",
+              "python",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1098,12 +1745,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities for working with datasets of chemical reactions, reaction templates and template extraction.",
+            "homepage": "https://molecularai.github.io/reaction_utils/",
             "id": 514200476,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-13T08:11:18Z",
+            "open_issues": 3,
             "owner": "MolecularAI",
             "repo": "reaction_utils",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1114,12 +1766,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Github Action that generates R Package Validation documentation 🏁",
+            "homepage": "https://github.com/marketplace/actions/r-package-validation-report",
             "id": 398193453,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2026-04-07T07:43:02Z",
+            "open_issues": 7,
             "owner": "insightsengineering",
             "repo": "thevalidatoR",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "github-actions",
+              "r",
+              "r-package-automation",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1130,12 +1792,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://django-rdkit.readthedocs.org/en/latest/",
             "id": 30267723,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-12-12T08:18:32Z",
+            "open_issues": 9,
             "owner": "rdkit",
             "repo": "django-rdkit",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1146,12 +1813,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MetaSV: An accurate and integrative structural-variant caller for next generation sequencing",
+            "homepage": "http://bioinform.github.io/metasv/",
             "id": 19718529,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2017-06-30T00:32:20Z",
+            "open_issues": 31,
             "owner": "bioinform",
             "repo": "metasv",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1162,12 +1834,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Icolos: A workflow manager for structure based post-processing of de novo generated small molecules",
+            "homepage": null,
             "id": 453119719,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-16T16:16:25Z",
+            "open_issues": 5,
             "owner": "MolecularAI",
             "repo": "Icolos",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1178,12 +1855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An adapter for Oracle GoldenGate to push change capture data directly to an Apache Kafka cluster",
+            "homepage": null,
             "id": 44399358,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2015-10-26T19:08:32Z",
+            "open_issues": 2,
             "owner": "Bayer-Group",
             "repo": "goldengate-kafka-adapter",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1194,12 +1876,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cellxgene Gateway allows you to use the Cellxgene Server provided by the Chan Zuckerberg Institute (https://github.com/chanzuckerberg/cellxgene) with multiple datasets.",
+            "homepage": null,
             "id": 204782560,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-03T01:17:59Z",
+            "open_issues": 17,
             "owner": "Novartis",
             "repo": "cellxgene-gateway",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "dataviz",
+              "h5ad",
+              "rna-seq",
+              "scientific",
+              "scrna-seq",
+              "transcriptomics",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1210,12 +1905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials from the (virtual) 2020 RDKit UGM",
+            "homepage": null,
             "id": 295968146,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2020-10-26T03:39:26Z",
+            "open_issues": 0,
             "owner": "rdkit",
             "repo": "UGM_2020",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1226,12 +1926,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Matcher is a tool for understanding how chemical structure optimization problems have been solved. Matcher enables deep control over searching structure/activity relationships (SAR) derived from large datasets, and takes the form of an accessible web application with simple deployment. Matcher is built around the mmpdb platform.",
+            "homepage": null,
             "id": 526592063,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-21T15:13:53Z",
+            "open_issues": 1,
             "owner": "Merck",
             "repo": "matcher",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "chemistry",
+              "docker-compose",
+              "drug-discovery",
+              "search-algorithm",
+              "search-engine",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1242,12 +1954,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 562713629,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-21T14:07:07Z",
+            "open_issues": 4,
             "owner": "Genentech",
             "repo": "sVAE",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1258,12 +1975,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1095592475,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-06-30T20:06:34Z",
+            "open_issues": 5,
             "owner": "MolecularAI",
             "repo": "QSARtuna",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1274,12 +1996,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 356301051,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-11T11:39:46Z",
+            "open_issues": 5,
             "owner": "MolecularAI",
             "repo": "Lib-INVENT",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1290,12 +2017,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pyPept: a python library to generate atomistic 2D and 3D representations of peptides",
+            "homepage": null,
             "id": 590348490,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-05T15:37:34Z",
+            "open_issues": 11,
             "owner": "Boehringer-Ingelheim",
             "repo": "pyPept",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1306,12 +2038,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conda build recipe for the rdkit",
+            "homepage": null,
             "id": 18814208,
             "language": "C",
+            "license": null,
             "last_commit": "2022-01-11T05:44:22Z",
+            "open_issues": 21,
             "owner": "rdkit",
             "repo": "conda-rdkit",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1322,12 +2059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWS CloudFormation stack manager",
+            "homepage": null,
             "id": 36682629,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2015-08-31T18:03:41Z",
+            "open_issues": 1,
             "owner": "Bayer-Group",
             "repo": "stax",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1338,12 +2080,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage GitLab configuration as code to make GitLab easily managable, traceable and reproducible.",
+            "homepage": null,
             "id": 221479942,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-01T12:18:52Z",
+            "open_issues": 0,
             "owner": "Roche",
             "repo": "gitlab-configuration-as-code",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "configuration-as-code",
+              "configuration-management",
+              "gitlab",
+              "gitlab-api",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1354,12 +2107,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for discrete Walk-Jump Sampling (dWJS)",
+            "homepage": "https://arxiv.org/abs/2306.12360",
             "id": 645969895,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-17T18:15:08Z",
+            "open_issues": 1,
             "owner": "Genentech",
             "repo": "walk-jump",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "antibody",
+              "machine-learning",
+              "protein-design",
+              "protein-sequences",
+              "proteins"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1370,12 +2134,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "WDL plugin for pytest",
+            "homepage": "https://pytest-wdl.readthedocs.io",
             "id": 174266035,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-01T23:14:28Z",
+            "open_issues": 25,
             "owner": "EliLillyCo",
             "repo": "pytest-wdl",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1386,12 +2155,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RDF2X converts big RDF datasets to the relational database model, CSV, JSON and ElasticSearch.",
+            "homepage": null,
             "id": 108145196,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-15T12:37:25Z",
+            "open_issues": 7,
             "owner": "Merck",
             "repo": "rdf2x",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "conversion",
+              "json",
+              "linked-data",
+              "postgresql",
+              "rdf",
+              "spark",
+              "sparql",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1402,12 +2185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BESCA (Beyond Single Cell Analysis) offers python functions for single-cell analysis",
+            "homepage": "https://bedapub.github.io/besca/",
             "id": 243550957,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T09:08:26Z",
+            "open_issues": 36,
             "owner": "bedapub",
             "repo": "besca",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1418,12 +2206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds resizable columns to tables",
+            "homepage": null,
             "id": 94680016,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-26T02:34:31Z",
+            "open_issues": 23,
             "owner": "Bayer-Group",
             "repo": "column-resizer",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1434,12 +2227,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "scAR (single-cell Ambient Remover) is a deep learning model for removal of the ambient signals in droplet-based single cell omics",
+            "homepage": "https://scar-tutorials.readthedocs.io/en/main/",
             "id": 470323565,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-17T11:43:51Z",
+            "open_issues": 5,
             "owner": "Novartis",
             "repo": "scar",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "cite-seq",
+              "crispr-screen",
+              "denoising-algorithm",
+              "generative-model",
+              "machine-learning",
+              "probabilistic-graphical-models",
+              "pytorch",
+              "single-cell-rna-seq",
+              "variational-autoencoder"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1450,12 +2258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Homebrew formula for rdkit",
+            "homepage": null,
             "id": 4046075,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2022-06-22T08:12:35Z",
+            "open_issues": 5,
             "owner": "rdkit",
             "repo": "homebrew-rdkit",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1466,12 +2279,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code for Gogleva et al manuscript ",
+            "homepage": null,
             "id": 371064106,
             "language": "R",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-30T11:08:58Z",
+            "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "skywalkR",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "drug-discovery",
+              "knowledge-graph",
+              "recommender-system",
+              "shiny-apps",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1482,12 +2306,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monadic Scala API for CouchDB",
+            "homepage": null,
             "id": 28884316,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2015-01-13T17:13:53Z",
+            "open_issues": 1,
             "owner": "Bayer-Group",
             "repo": "stoop",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "beat-not-applicable"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1498,12 +2329,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The documentation repository is part of the Corporate Linked  Data Catalog - short: COLID - application. ",
+            "homepage": "https://bayer-group.github.io/COLID-Documentation/",
             "id": 277841528,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-12-11T16:08:53Z",
+            "open_issues": 0,
             "owner": "Bayer-Group",
             "repo": "COLID-Documentation",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "cloud-native",
+              "colid",
+              "data-catalog",
+              "data-catalogue",
+              "elasticsearch",
+              "fair",
+              "fair-data",
+              "findable",
+              "linked-data",
+              "rdf",
+              "shacl",
+              "triplestore"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1514,12 +2363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials from the 2022 UGM",
+            "homepage": null,
             "id": 520332905,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-10-31T16:30:51Z",
+            "open_issues": 0,
             "owner": "rdkit",
             "repo": "UGM_2022",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1530,12 +2384,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pretrained SMILES transformation model for finetuning for diverse molecular tasks.",
+            "homepage": null,
             "id": 337707054,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-02-22T19:17:46Z",
+            "open_issues": 2,
             "owner": "MolecularAI",
             "repo": "MolBART",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1546,12 +2405,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "iOS pod about a curious fish named Guppy",
+            "homepage": null,
             "id": 181016675,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2022-02-03T20:25:07Z",
+            "open_issues": 2,
             "owner": "johnsonandjohnson",
             "repo": "Guppy-iOS",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "guppy",
+              "ios",
+              "network-monitoring",
+              "networking",
+              "swift",
+              "urlsession"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1562,12 +2433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials from the (virtual) 2021 RDKit UGM",
+            "homepage": null,
             "id": 412709880,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-10-22T11:44:33Z",
+            "open_issues": 0,
             "owner": "rdkit",
             "repo": "UGM_2021",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1578,12 +2454,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sapiens is a human antibody language model based on BERT.",
+            "homepage": null,
             "id": 454865559,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-01-22T09:55:25Z",
+            "open_issues": 1,
             "owner": "Merck",
             "repo": "Sapiens",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "antibody",
+              "bert",
+              "embeddings",
+              "language-model",
+              "sapiens"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1594,12 +2481,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualize atom and non-atom attributions and SMILES strings",
+            "homepage": null,
             "id": 530813680,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-20T05:56:31Z",
+            "open_issues": 9,
             "owner": "Bayer-Group",
             "repo": "xsmiles",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1610,12 +2502,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audit your Shiny apps at each commit. Multiple levels of testings are offered: startup and crash tests, performance tests (load test and global code profiling), reactivity audit as well as output tests. All results are gathered in an HTML report uploaded and available to everyone on any CI/CD plaform or RStudio Connect",
+            "homepage": "http://opensource.nibr.com/shinyValidator/",
             "id": 483034445,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-10T10:49:42Z",
+            "open_issues": 10,
             "owner": "Novartis",
             "repo": "shinyValidator",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "audit",
+              "headless",
+              "profiling",
+              "r",
+              "shiny",
+              "shinyloadtest",
+              "shinytest2"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1626,12 +2531,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Templating for Git Repositories",
+            "homepage": "https://foxops.readthedocs.io",
             "id": 509066038,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T15:17:07Z",
+            "open_issues": 41,
             "owner": "Roche",
             "repo": "foxops",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1642,12 +2552,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Runnable",
+            "homepage": null,
             "id": 449367132,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-27T21:23:02Z",
+            "open_issues": 10,
             "owner": "AstraZeneca",
             "repo": "runnable",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1658,12 +2573,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Kamon backend to support Prometheus",
+            "homepage": null,
             "id": 43456387,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2017-06-22T19:33:30Z",
+            "open_issues": 7,
             "owner": "Bayer-Group",
             "repo": "kamon-prometheus",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1674,12 +2594,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Updated version of Silicos-it's shape-based alignment tool",
+            "homepage": null,
             "id": 329819761,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-09-27T03:21:03Z",
+            "open_issues": 4,
             "owner": "rdkit",
             "repo": "shape-it",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1690,12 +2615,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-dimensional, trans-omics metabolic maps.",
+            "homepage": "https://biosustain.github.io/shu",
             "id": 568898618,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-13T17:11:26Z",
+            "open_issues": 4,
             "owner": "biosustain",
             "repo": "shu",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "metabolism",
+              "systems-biology",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1706,12 +2640,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep survival analysis made easy ",
+            "homepage": "http://opensource.nibr.com/torchsurv/",
             "id": 765325999,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:42:42Z",
+            "open_issues": 9,
             "owner": "Novartis",
             "repo": "torchsurv",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "deep-learning",
+              "pytorch",
+              "survival-analysis"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1722,12 +2665,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OntoBrowser is a web-based application for managing ontologies",
+            "homepage": "http://opensource.nibr.com/projects/ontobrowser/",
             "id": 32369451,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-15T10:40:14Z",
+            "open_issues": 3,
             "owner": "Novartis",
             "repo": "ontobrowser",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1738,12 +2686,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials from the 2016 RDKit UGM",
+            "homepage": null,
             "id": 71631178,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2017-01-09T08:40:28Z",
+            "open_issues": 2,
             "owner": "rdkit",
             "repo": "UGM_2016",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1754,12 +2707,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Good Statistical Monitoring R Package",
+            "homepage": "https://gilead-public.github.io/gsm/",
             "id": 445568398,
             "language": "R",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-28T14:48:31Z",
+            "open_issues": 5,
             "owner": "Gilead-Public",
             "repo": "gsm",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1770,12 +2728,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Deep Neural Network to predict small molecule torsion energy profiles with the accuracy of QM ",
+            "homepage": null,
             "id": 324026487,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-03-13T10:38:57Z",
+            "open_issues": 1,
             "owner": "pfizer-opensource",
             "repo": "TorsionNet",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1786,12 +2749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials from the 2023 RDKit UGM",
+            "homepage": null,
             "id": 670481810,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-01-16T16:04:26Z",
+            "open_issues": 0,
             "owner": "rdkit",
             "repo": "UGM_2023",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1802,12 +2770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Obsolete codebase, please do not use.",
+            "homepage": null,
             "id": 35491363,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-01-03T22:52:57Z",
+            "open_issues": 8,
             "owner": "rdkit",
             "repo": "RDKitjs-legacy",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1818,12 +2791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CheTo - Chemical Topic Modeling",
+            "homepage": null,
             "id": 90148270,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-04-12T13:33:39Z",
+            "open_issues": 2,
             "owner": "rdkit",
             "repo": "CheTo",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1834,12 +2812,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opinionated R package template with CI/CD built-in",
+            "homepage": "https://insightsengineering.github.io/r.pkg.template/",
             "id": 383270673,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-02T12:37:56Z",
+            "open_issues": 8,
             "owner": "insightsengineering",
             "repo": "r.pkg.template",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "git",
+              "github-actions",
+              "r",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1850,12 +2838,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enterprise public viewer for your Confluence pages",
+            "homepage": "https://sanofi-iadc.github.io/konviw/",
             "id": 347189347,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T22:39:30Z",
+            "open_issues": 18,
             "owner": "Sanofi-IADC",
             "repo": "konviw",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "cms",
+              "confluence",
+              "headless-cms",
+              "viewer"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1866,12 +2864,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-Source Software for Omic Data Analysis and Visualization",
+            "homepage": null,
             "id": 337707855,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-25T04:37:55Z",
+            "open_issues": 3,
             "owner": "abbvie-external",
             "repo": "OmicNavigator",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "bioinformatics",
+              "genomics",
+              "omics",
+              "opencpu",
+              "r"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1882,12 +2891,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High throughput, pain-free big data pipelines.",
+            "homepage": "http://opensource.nibr.com/yap/",
             "id": 23973161,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2017-03-11T21:07:30Z",
+            "open_issues": 2,
             "owner": "Novartis",
             "repo": "yap",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1898,12 +2912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sequential Optimal Experimental Design of Perturbation Screens Guided by Multimodal Priors",
+            "homepage": null,
             "id": 699145349,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-25T02:27:44Z",
+            "open_issues": 1,
             "owner": "Genentech",
             "repo": "iterative-perturb-seq",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1914,12 +2933,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of the Paper: \"Parameterized Hypercomplex Graph Neural Networks for Graph Classification\" by Tuan Le, Marco Bertolini, Frank Noé and Djork-Arné Clevert",
+            "homepage": null,
             "id": 319905851,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-09-03T09:43:57Z",
+            "open_issues": 1,
             "owner": "bayer-science-for-a-better-life",
             "repo": "phc-gnn",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "deep-learning",
+              "graph-classification",
+              "graph-neural-networks",
+              "graph-representation-learning",
+              "hypercomplex",
+              "neural-message-passing",
+              "quaternion"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1930,12 +2962,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Massively multitask stacked model for predicting activity of thousands of biological assays",
+            "homepage": null,
             "id": 397396303,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-24T18:01:38Z",
+            "open_issues": 1,
             "owner": "Novartis",
             "repo": "pQSAR",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1946,12 +2983,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compact Package Representations",
+            "homepage": "https://merck.github.io/pkglite/",
             "id": 341974672,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-11T19:58:53Z",
+            "open_issues": 6,
             "owner": "Merck",
             "repo": "pkglite",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "clinical-trials",
+              "ectd",
+              "package",
+              "packaging-tool",
+              "pharmaverse",
+              "r"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1962,12 +3011,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides teal modules for the standard clinical trials outputs",
+            "homepage": "https://insightsengineering.github.io/teal.modules.clinical/",
             "id": 383270623,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-23T04:03:02Z",
+            "open_issues": 108,
             "owner": "insightsengineering",
             "repo": "teal.modules.clinical",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "clinical-trials",
+              "modules",
+              "nest",
+              "outputs",
+              "r",
+              "shiny"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1978,12 +3039,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code to accompany the \"Understanding the Performance of Knowledge Graph Embeddings in Drug Discovery\" manuscript (Artificial Intelligence in the Life Sciences, 2022)",
+            "homepage": "https://doi.org/10.1016/j.ailsci.2022.100036",
             "id": 481285416,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-08T06:00:12Z",
+            "open_issues": 2,
             "owner": "AstraZeneca",
             "repo": "kgem-in-drug-discovery",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "drug-discovery",
+              "drug-discovery-knowledge-graph",
+              "knowledge-graph",
+              "knowledge-graph-embedding-models",
+              "knowledge-graph-embeddings",
+              "target-prediction"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1994,12 +3067,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "StarGazer is a tool designed for rapidly assessing drug repositioning opportunities. It combines multi-source, multi-omics data with a novel target prioritization scoring system in an interactive Python-based Streamlit dashboard. StarGazer displays target prioritization scores for genes associated with 1844 phenotypic traits.",
+            "homepage": null,
             "id": 429862773,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-14T22:36:23Z",
+            "open_issues": 17,
             "owner": "AstraZeneca",
             "repo": "StarGazer",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2010,12 +3088,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meta-Learning GNN Initializations for Low-Resource Molecular Property Prediction",
+            "homepage": null,
             "id": 275019261,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-07-20T18:24:17Z",
+            "open_issues": 0,
             "owner": "GSK-AI",
             "repo": "meta-learning-qsar",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2026,12 +3109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualization package for Apple Watch data collected by Healthkit",
+            "homepage": null,
             "id": 121767495,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-04-22T14:24:59Z",
+            "open_issues": 0,
             "owner": "openPfizer",
             "repo": "DigitalHealthData",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2042,12 +3130,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PISCES is a pipeline for rapid transcript quantitation, genetic fingerprinting, and quality control assessment of RNAseq libraries using Salmon.",
+            "homepage": null,
             "id": 317351444,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-01T02:39:08Z",
+            "open_issues": 12,
             "owner": "Novartis",
             "repo": "pisces",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "bioinformatics",
+              "bioinformatics-pipeline",
+              "rnaseq",
+              "rnaseq-pipeline",
+              "salmon",
+              "transcriptomics"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2058,12 +3158,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pqsar2cpd is a deep learning algorithm for translation of activity profiles into novel molecules.",
+            "homepage": null,
             "id": 665104866,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-12T09:10:24Z",
+            "open_issues": 0,
             "owner": "Novartis",
             "repo": "pqsar2cpd",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2074,12 +3179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package provides a function to reformat lists of genome coverage files, such as bigWig of bam files, into the directory structure of a UCSC Track Hub ready to be visualized in the genome browser. For details about it's use, please have a look at the vignette of the package.",
+            "homepage": null,
             "id": 722684849,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-29T14:38:30Z",
+            "open_issues": 0,
             "owner": "Novartis",
             "repo": "easyTrackHubs",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2090,12 +3200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a package for streamlined multidomain data integration and translation based on cross-modal autoencoders architectures",
+            "homepage": null,
             "id": 614852008,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-05T14:07:40Z",
+            "open_issues": 0,
             "owner": "Novartis",
             "repo": "ChemBioMultimodalAutoencoders",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2106,12 +3221,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create random CDISC data",
+            "homepage": "https://insightsengineering.github.io/random.cdisc.data/",
             "id": 383270784,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-15T04:31:29Z",
+            "open_issues": 16,
             "owner": "insightsengineering",
             "repo": "random.cdisc.data",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "cdisc",
+              "dataset",
+              "r"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2122,12 +3246,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Disambiguation algorithm for reads aligned to human and mouse genomes using Tophat or BWA mem",
+            "homepage": null,
             "id": 14137469,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2018-05-08T12:07:59Z",
+            "open_issues": 7,
             "owner": "AstraZeneca-NGS",
             "repo": "disambiguate",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "migrated-to-azu-oncology-rd"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2138,12 +3269,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mantis-ml: Stochastic semi-supervised learning to prioritise genes from high throughput genomic screens",
+            "homepage": null,
             "id": 189016912,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2024-01-26T09:15:43Z",
+            "open_issues": 1,
             "owner": "astrazeneca-cgr-publications",
             "repo": "mantis-ml-release",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "auto-ml",
+              "genomics",
+              "keras",
+              "machine-learning",
+              "scikit-learn",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2154,12 +3297,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Biomedical Data-to-Text Generation via Fine-Tuning Transformers",
+            "homepage": null,
             "id": 364582680,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-20T10:49:50Z",
+            "open_issues": 0,
             "owner": "bayer-science-for-a-better-life",
             "repo": "data2text-bioleaflets",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "biomedical-text-mining",
+              "data-to-text",
+              "nlp-machine-learning",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2170,12 +3323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 186569910,
             "language": "Java",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-03-09T18:52:14Z",
+            "open_issues": 4,
             "owner": "rdkit",
             "repo": "neo4j-rdkit",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2186,12 +3344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the Line of Therapy Algorithm, as described in the paper \"Temporal phenotyping by mining healthcare data to derive lines of therapy for cancer\" pending submission in the Journal of Biomedical Informatics.",
+            "homepage": null,
             "id": 209385947,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-29T14:14:27Z",
+            "open_issues": 3,
             "owner": "Merck",
             "repo": "Line-of-Therapy-Algorithm",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2202,12 +3365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enzyme models that take into account kinetics, allostery and thermodynamics",
+            "homepage": "https://maud-metabolic-models.readthedocs.io/en/latest/",
             "id": 175003505,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-03T22:26:17Z",
+            "open_issues": 24,
             "owner": "biosustain",
             "repo": "Maud",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2218,12 +3386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLAMMS is a scalable tool for detecting common and rare copy number variants from whole-exome sequencing data.",
+            "homepage": null,
             "id": 42680804,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2021-02-20T09:05:58Z",
+            "open_issues": 23,
             "owner": "rgcgithub",
             "repo": "clamms",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2234,12 +3407,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 391943541,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-16T07:06:23Z",
+            "open_issues": 2,
             "owner": "MolecularAI",
             "repo": "DockStreamCommunity",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "astrazeneca",
+              "chemoinformatics",
+              "denovo-design",
+              "jupyter-notebook",
+              "molecular-docking",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2250,12 +3435,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exploratory Graphics for PKPD data",
+            "homepage": null,
             "id": 150161811,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2026-08-18T12:28:47Z",
+            "open_issues": 21,
             "owner": "Novartis",
             "repo": "xgx",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2266,12 +3456,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The RDKit nodes for the KNIME Analytics Platform",
+            "homepage": null,
             "id": 68794904,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-11-06T08:20:56Z",
+            "open_issues": 25,
             "owner": "rdkit",
             "repo": "knime-rdkit",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2282,12 +3477,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds support for R language into SonarQube. It uses output from lintr tool which is processed by the plugin and uploaded into SonarQube server.",
+            "homepage": null,
             "id": 142319389,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-04T22:33:44Z",
+            "open_issues": 9,
             "owner": "Merck",
             "repo": "sonar-r-plugin",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "rlanguage",
+              "sonarqube"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2298,12 +3501,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polygraph evaluates and compares groups of nucleic acid sequences based on their sequence and functional content for effective design of regulatory elements.",
+            "homepage": null,
             "id": 699144469,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-03-27T22:22:52Z",
+            "open_issues": 1,
             "owner": "Genentech",
             "repo": "polygraph",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2314,12 +3522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A graph-based workflow manager for computational chemistry pipelines",
+            "homepage": "https://molecularai.github.io/maize/",
             "id": 683077052,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-18T06:55:14Z",
+            "open_issues": 3,
             "owner": "MolecularAI",
             "repo": "maize",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2330,12 +3543,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeoInterface - Neo4j made easy for Python programmers!",
+            "homepage": null,
             "id": 434594037,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-20T08:38:11Z",
+            "open_issues": 4,
             "owner": "GSK-Biostatistics",
             "repo": "neointerface",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "database",
+              "graph-database",
+              "neo4j",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2346,12 +3569,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool for estimating growth rates from microbial growth curves",
+            "homepage": null,
             "id": 70239371,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-04T15:35:17Z",
+            "open_issues": 3,
             "owner": "biosustain",
             "repo": "croissance",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "bioinformatics",
+              "biology",
+              "curve-fitting",
+              "growth-curves"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2362,12 +3595,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cellenium is a FAIR and scalable interactive visual analytics app for scRNA-Seq data (single-cell RNA sequencing).",
+            "homepage": null,
             "id": 595323139,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-11-22T11:49:19Z",
+            "open_issues": 18,
             "owner": "Bayer-Group",
             "repo": "cellenium",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "bioinformatics",
+              "dataviz",
+              "scrna-seq",
+              "transcriptomics"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2378,12 +3621,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pKAI: a fast and interpretable deep learning approach to accurate electrostatics-driven pKa prediction",
+            "homepage": null,
             "id": 318145083,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-09-16T09:48:09Z",
+            "open_issues": 1,
             "owner": "bayer-science-for-a-better-life",
             "repo": "pKAI",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2394,12 +3642,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of the paper \"Neuraldecipher - Reverse-engineering extended-connectivity fingerprints (ECFPs) to their molecular structures\" by Tuan Le, Robin Winter, Frank Noé and Djork-Arné Clevert",
+            "homepage": null,
             "id": 294731780,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-10-01T14:33:21Z",
+            "open_issues": 0,
             "owner": "bayer-science-for-a-better-life",
             "repo": "neuraldecipher",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "computational-chemistry",
+              "deep-learning",
+              "extended-connectivity-fingerprints",
+              "representation-learning",
+              "smiles"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2410,12 +3669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast dataloader for bigwig files made for machine learning",
+            "homepage": null,
             "id": 698534038,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-16T21:31:41Z",
+            "open_issues": 0,
             "owner": "pfizer-opensource",
             "repo": "bigwig-loader",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2426,12 +3690,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 163896158,
             "language": "R",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-14T18:06:50Z",
+            "open_issues": 0,
             "owner": "AbbVie-ComputationalGenomics",
             "repo": "genetic-evidence-approval",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "drug-target-prioritization",
+              "genetic-associations"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2442,12 +3714,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 605667538,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-07-28T07:25:31Z",
+            "open_issues": 2,
             "owner": "rdkit",
             "repo": "PREFER",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2458,12 +3735,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 11143762,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-19T16:47:27Z",
+            "open_issues": 4,
             "owner": "rdkit",
             "repo": "benchmarking_platform",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2474,12 +3756,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Gallery of Exploratory Web Apps used for Analyzing Clinical Trial Data",
+            "homepage": "https://insightsengineering.github.io/teal.gallery/",
             "id": 561597397,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T16:07:40Z",
+            "open_issues": 33,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "clinical-trials",
+              "nest",
+              "r",
+              "shiny",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2490,12 +3783,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BreakSeq2: Ultrafast and accurate nucleotide-resolution analysis of structural variants",
+            "homepage": null,
             "id": 19719489,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-03-17T21:03:54Z",
+            "open_issues": 7,
             "owner": "bioinform",
             "repo": "breakseq2",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2506,12 +3804,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-omics data normalisation, model fitting and visualisation.",
+            "homepage": null,
             "id": 330646423,
             "language": "R",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-06T15:01:06Z",
+            "open_issues": 1,
             "owner": "AstraZeneca",
             "repo": "Omicsfold",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2522,12 +3825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JAEGER is a deep generative approach for small-molecule design",
+            "homepage": null,
             "id": 426423154,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-21T01:02:17Z",
+            "open_issues": 0,
             "owner": "Novartis",
             "repo": "JAEGER",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2538,12 +3846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 299891699,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-06-23T12:33:52Z",
+            "open_issues": 2,
             "owner": "rdkit",
             "repo": "AutomatedSeriesClassification",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2554,12 +3867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redirect to https://github.com/pharmaverse/cards",
+            "homepage": null,
             "id": 1291438552,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-07-07T02:36:07Z",
+            "open_issues": 0,
             "owner": "insightsengineering",
             "repo": "cards",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2570,12 +3888,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for paper \"Human-in-the-Loop Assisted de Novo Molecular Design\".",
+            "homepage": null,
             "id": 508318490,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-17T15:13:20Z",
+            "open_issues": 0,
             "owner": "MolecularAI",
             "repo": "reinvent-hitl",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2586,12 +3909,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phenome Exome Association and Correlation Of Key phenotypes",
+            "homepage": null,
             "id": 296375192,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2021-08-19T16:57:33Z",
+            "open_issues": 7,
             "owner": "astrazeneca-cgr-publications",
             "repo": "PEACOK",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2602,12 +3930,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Untargeted metabolomics workflow for large-scale data processing and analysis implemented in Snakemake",
+            "homepage": null,
             "id": 523297682,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-05T17:25:41Z",
+            "open_issues": 2,
             "owner": "biosustain",
             "repo": "snakemake_UmetaFlow",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2618,12 +3951,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 34289222,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2017-10-23T16:07:20Z",
+            "open_issues": 0,
             "owner": "Bayer-Group",
             "repo": "cf-metrics",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2634,12 +3972,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Older clone of the RDKit subversion repository at http://sourceforge.net/projects/rdkit/",
+            "homepage": null,
             "id": 5449882,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2018-07-24T03:08:00Z",
+            "open_issues": 10,
             "owner": "rdkit",
             "repo": "rdkit-orig",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2650,12 +3993,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Value formatting and ASCII rendering infrastructure for tables and listings.",
+            "homepage": "https://pharmaverse.github.io/rlistings/",
             "id": 433595589,
             "language": "R",
+            "license": null,
             "last_commit": "2026-07-23T10:35:12Z",
+            "open_issues": 0,
             "owner": "pharmaverse",
             "repo": "rlistings",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2666,12 +4014,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for contextualizing tests, built using covr test traces.",
+            "homepage": "https://genentech.github.io/covtracer/",
             "id": 401475569,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-27T16:23:35Z",
+            "open_issues": 10,
             "owner": "Genentech",
             "repo": "covtracer",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2682,12 +4035,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 542349328,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-04T14:06:27Z",
+            "open_issues": 1,
             "owner": "Genentech",
             "repo": "dcdfg",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2698,12 +4056,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tools to train synthesis prediction models",
+            "homepage": null,
             "id": 568706015,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-11T14:59:15Z",
+            "open_issues": 3,
             "owner": "MolecularAI",
             "repo": "aizynthtrain",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2714,12 +4077,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simplify snpEff annotations for interesting cases",
+            "homepage": null,
             "id": 40991130,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-02-18T10:39:43Z",
+            "open_issues": 1,
             "owner": "AstraZeneca-NGS",
             "repo": "simple_sv_annotation",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "migrated-to-azu-oncology-rd"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2730,12 +4100,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JARVIS: a comprehensive deep learning framework to prioritise non-coding variants in whole genomes",
+            "homepage": null,
             "id": 243394919,
             "language": "HTML",
+            "license": "MPL-2.0",
             "last_commit": "2025-01-08T20:12:34Z",
+            "open_issues": 4,
             "owner": "astrazeneca-cgr-publications",
             "repo": "JARVIS",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "deeplearning",
+              "genomics",
+              "non-coding-variants",
+              "tensorflow",
+              "whole-genome-sequencing"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2746,12 +4127,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Finding the pitfalls of deep learning predictors of interacting residues in antibodies 🦠",
+            "homepage": null,
             "id": 667521182,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-09-08T17:18:57Z",
+            "open_issues": 2,
             "owner": "bayer-science-for-a-better-life",
             "repo": "topefind-public",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "antibodies",
+              "artificial-intelligence",
+              "biology",
+              "deep-learning",
+              "neural-network",
+              "protein"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2762,12 +4155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 164144809,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-14T13:19:09Z",
+            "open_issues": 0,
             "owner": "pfizer-opensource",
             "repo": "torsional-strain",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2778,12 +4176,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for hierarchical dynamical systems modeling that treats formalism as a per-node choice rather than a global constraint.",
+            "homepage": "https://merck.github.io/AlgebraicAgents.jl/",
             "id": 545749992,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2026-06-27T02:14:51Z",
+            "open_issues": 0,
             "owner": "Merck",
             "repo": "AlgebraicAgents.jl",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "differential-equations",
+              "dynamical-systems",
+              "julia",
+              "julia-language",
+              "stochastic-processes"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2794,12 +4203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toolkit for training hyenaDNA-based autoregressive language models on DNA sequences.",
+            "homepage": null,
             "id": 699144851,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-10-04T18:29:29Z",
+            "open_issues": 2,
             "owner": "Genentech",
             "repo": "regLM",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2810,12 +4224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gt in officeverse",
+            "homepage": "https://gsk-biostatistics.github.io/gto/",
             "id": 590511752,
             "language": "R",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-26T16:56:36Z",
+            "open_issues": 3,
             "owner": "GSK-Biostatistics",
             "repo": "gto",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2826,12 +4245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gitlab Stats provides more statistics from the GitLab API services",
+            "homepage": null,
             "id": 249438027,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-20T15:13:42Z",
+            "open_issues": 3,
             "owner": "Roche",
             "repo": "gitlab-stats",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2842,12 +4266,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of tools for dictionary-based Named Entity Recognition (NER), based on word vector representations to expand dictionary terms.",
+            "homepage": null,
             "id": 535673971,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-25T21:03:18Z",
+            "open_issues": 2,
             "owner": "AstraZeneca",
             "repo": "VecNER",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "dictionary-based-ner",
+              "entity-extraction",
+              "natural-language-processing",
+              "ner",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2858,12 +4293,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tools and routines to calculate distances between synthesis routes and to cluster them.",
+            "homepage": "https://molecularai.github.io/route-distances/",
             "id": 355475331,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-11T15:02:01Z",
+            "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "route-distances",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "astrazeneca",
+              "cheminformatics",
+              "clustering"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2874,12 +4318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Session material and solutions for the Beginner's Python course at the AstraZeneca Code Club",
+            "homepage": null,
             "id": 261451454,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-07-20T14:59:39Z",
+            "open_issues": 1,
             "owner": "AstraZeneca-Code-Club",
             "repo": "beginners-python",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2890,12 +4339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clinical trial data analytic recipes in R for SAS users",
+            "homepage": "https://bayer-group.github.io/sas2r/",
             "id": 554832451,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2024-09-03T22:15:27Z",
+            "open_issues": 5,
             "owner": "Bayer-Group",
             "repo": "sas2r",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2906,12 +4360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React dashboard component",
+            "homepage": null,
             "id": 66977118,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-04-24T21:19:38Z",
+            "open_issues": 4,
             "owner": "Bayer-Group",
             "repo": "velocity-dashboard",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2922,12 +4381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An idiomatic Scala wrapper of the AWS SDK with both asynchronous and streaming clients.",
+            "homepage": null,
             "id": 52184958,
             "language": "Scala",
+            "license": null,
             "last_commit": "2018-06-08T23:03:36Z",
+            "open_issues": 4,
             "owner": "Bayer-Group",
             "repo": "aws2scala",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2938,12 +4402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Better Kamon metrics for Spray services ",
+            "homepage": "https://monsantoco.github.io/spray-kamon-metrics",
             "id": 40486220,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2017-04-26T02:11:43Z",
+            "open_issues": 0,
             "owner": "Bayer-Group",
             "repo": "spray-kamon-metrics",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2954,12 +4423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains code examples for several methods in a Causal Inference in RCTs short course. ",
+            "homepage": null,
             "id": 650309677,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2026-07-06T20:00:25Z",
+            "open_issues": 0,
             "owner": "Novartis",
             "repo": "Causal-inference-in-RCTs",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2970,12 +4444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DRUG (Digital RNA with pertUrbation of Genes)-seq data analysis pipeline",
+            "homepage": null,
             "id": 367070314,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2025-03-19T02:34:09Z",
+            "open_issues": 0,
             "owner": "Novartis",
             "repo": "DRUG-seq",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2986,12 +4465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standard patient profile for shiny apps",
+            "homepage": null,
             "id": 202215812,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2020-04-17T07:58:03Z",
+            "open_issues": 0,
             "owner": "Novartis",
             "repo": "patprofile",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -3002,12 +4486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript package for interactive rendering of 2D chemical structures in the browser.",
+            "homepage": null,
             "id": 470916069,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-13T14:06:20Z",
+            "open_issues": 2,
             "owner": "rdkit",
             "repo": "rdkit-structure-renderer",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -3018,12 +4507,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Ambassador helps users of coding platforms to create findable, well maintained, properly documented and secure projects. It's purpose is to promote creating Open Source and InnerSource software, that others can rely on. It measures project scores (criticality, activity, scorecard), proactively advises projects.",
+            "homepage": null,
             "id": 409076487,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T13:06:04Z",
+            "open_issues": 12,
             "owner": "Roche",
             "repo": "the-ambassador",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "inner-source",
+              "innersource",
+              "innersource-advisor",
+              "open-source",
+              "scorecard",
+              "scores",
+              "software-quality"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -3034,12 +4536,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BayerCLAW workflow orchestration system for AWS",
+            "homepage": null,
             "id": 353039568,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-06T14:46:33Z",
+            "open_issues": 1,
             "owner": "Bayer-Group",
             "repo": "BayerCLAW",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "aws",
+              "bayer-not-classified",
+              "bayer-reg-none",
+              "beat-not-applicable",
+              "pipeline",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -3050,12 +4564,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A timed, stochastic, resource-constrained Petri net / discrete-event engine for modeling business & R&D processes as living systems — budgets, portfolios, what-ifs, rNPV.",
+            "homepage": "https://merck.github.io/ReactiveDynamics.jl/stable/",
             "id": 525117052,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2026-08-25T12:50:38Z",
+            "open_issues": 0,
             "owner": "Merck",
             "repo": "ReactiveDynamics.jl",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "agent-based-modeling",
+              "decision-making",
+              "discrete-event-simulation",
+              "julia",
+              "julia-language",
+              "petri-nets",
+              "portfolio-management",
+              "resource-allocation",
+              "simulation",
+              "stochastic-simulation",
+              "strategic-planning",
+              "system-dynamics"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -3066,12 +4598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 421962143,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-10-27T20:27:01Z",
+            "open_issues": 3,
             "owner": "Merck",
             "repo": "PepSeA",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -3082,12 +4619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A catalog of Tables, Listings and Graphs (TLGs) created with NEST R packages",
+            "homepage": "https://insightsengineering.github.io/tlg-catalog/",
             "id": 406157028,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T18:46:14Z",
+            "open_issues": 23,
             "owner": "insightsengineering",
             "repo": "tlg-catalog",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -3098,12 +4640,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://genentech.github.io/jmpost/",
             "id": 498892686,
             "language": "R",
+            "license": null,
             "last_commit": "2026-08-28T13:21:19Z",
+            "open_issues": 32,
             "owner": "Genentech",
             "repo": "jmpost",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -3114,12 +4661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Complex-valued Morlet wavelets for EEG signal analysis and feature engineering.",
+            "homepage": "https://roche.github.io/neuro-meeglet/",
             "id": 744214980,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-07T18:51:20Z",
+            "open_issues": 1,
             "owner": "Roche",
             "repo": "neuro-meeglet",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -3130,12 +4682,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 337695432,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-11T12:00:04Z",
+            "open_issues": 0,
             "owner": "MolecularAI",
             "repo": "Deep-Drug-Coder",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -3146,12 +4703,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning image representations for anomaly detection: application to discovery of histological alterations in drug development",
+            "homepage": null,
             "id": 550160775,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-09T11:40:11Z",
+            "open_issues": 1,
             "owner": "Boehringer-Ingelheim",
             "repo": "anomaly-detection-in-histology",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "anomaly-detection",
+              "convolutional-neural-networks",
+              "deep-features",
+              "deep-learning",
+              "drug-toxicity",
+              "one-class-classfiation",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -3162,12 +4732,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PAthological Data Obsession - cloud native digital pathology datasets",
+            "homepage": null,
             "id": 533992100,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-03-01T13:46:57Z",
+            "open_issues": 19,
             "owner": "Bayer-Group",
             "repo": "pado",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "digital-pathology",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -3178,12 +4756,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Research repository for the proposed equivariant graph attention network that operates on large biomolecules proposed by Le et al. (2022)",
+            "homepage": null,
             "id": 571741079,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-12-01T10:38:45Z",
+            "open_issues": 0,
             "owner": "Bayer-Group",
             "repo": "eqgat",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "deeplearning",
+              "graphneuralnetwork",
+              "neural-network",
+              "protein-structure"
+            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         }
@@ -3192,15 +4780,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:36:44.591Z",
+    "last_updated": "2026-08-29T04:59:59.486Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Top open source software from the top 50 pharmaceutical companies",
+      "homepage": null,
       "id": 804105854,
       "language": "Makefile",
+      "license": null,
       "last_commit": "2024-06-09T21:18:48Z",
+      "open_issues": 0,
       "owner": "servierhub",
       "repo": "top-pharma50",
-      "stars": 77
+      "stars": 77,
+      "topics": [
+        "ai",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "bioinformatics",
+        "biology-ai",
+        "computational-biology",
+        "computational-chemistry",
+        "ebiology",
+        "life-sciences",
+        "lifescience",
+        "lifesciences",
+        "pharma",
+        "pharmaceuticals",
+        "servier"
+      ]
     },
     "original_repository_sha": "7ecbaf13cb7acf69e486cf1529bfc95600772168",
     "enhanced_repository": "enhansome/enhansome-top-pharma50",
