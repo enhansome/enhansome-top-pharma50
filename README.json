@@ -16,10 +16,10 @@
             "language": "HTML",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T07:20:52Z",
-            "open_issues": 67,
+            "open_issues": 73,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3570,
+            "stars": 3571,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -287,7 +287,7 @@
             "open_issues": 10,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 850,
+            "stars": 851,
             "topics": [
               "ai",
               "astrazeneca",
@@ -1439,7 +1439,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-08-24T09:11:33Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "pharmaverse",
             "repo": "tern",
             "stars": 105,
@@ -3761,7 +3761,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T16:07:40Z",
+            "last_commit": "2026-08-29T17:21:43Z",
             "open_issues": 33,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:59:59.486Z",
+    "last_updated": "2026-08-29T17:46:29.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
