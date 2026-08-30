@@ -15,8 +15,8 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T07:20:52Z",
-            "open_issues": 73,
+            "last_commit": "2026-08-30T02:56:36Z",
+            "open_issues": 74,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3571,
@@ -74,7 +74,7 @@
             "open_issues": 9,
             "owner": "AstraZeneca",
             "repo": "chemicalx",
-            "stars": 783,
+            "stars": 784,
             "topics": [
               "biology",
               "chemistry",
@@ -524,7 +524,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-drug-discovery-knowledge-graphs",
-            "stars": 268,
+            "stars": 269,
             "topics": [
               "awesome-list",
               "drug-discovery",
@@ -2843,7 +2843,7 @@
             "id": 347189347,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-27T22:39:30Z",
+            "last_commit": "2026-08-30T16:48:36Z",
             "open_issues": 18,
             "owner": "Sanofi-IADC",
             "repo": "konviw",
@@ -2873,7 +2873,7 @@
             "open_issues": 3,
             "owner": "abbvie-external",
             "repo": "OmicNavigator",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "bioinformatics",
               "genomics",
@@ -4624,7 +4624,7 @@
             "id": 406157028,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-26T18:46:14Z",
+            "last_commit": "2026-08-29T18:03:13Z",
             "open_issues": 23,
             "owner": "insightsengineering",
             "repo": "tlg-catalog",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:46:29.871Z",
+    "last_updated": "2026-08-30T18:08:06.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
