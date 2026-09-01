@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-31T15:11:20Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-01T15:00:04Z",
+            "open_issues": 74,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3572,
+            "stars": 3573,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -74,7 +74,7 @@
             "open_issues": 9,
             "owner": "AstraZeneca",
             "repo": "chemicalx",
-            "stars": 784,
+            "stars": 785,
             "topics": [
               "biology",
               "chemistry",
@@ -1072,7 +1072,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-12T21:24:30Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "Genentech",
             "repo": "gReLU",
             "stars": 364,
@@ -1935,7 +1935,7 @@
             "open_issues": 1,
             "owner": "Merck",
             "repo": "matcher",
-            "stars": 70,
+            "stars": 71,
             "topics": [
               "chemistry",
               "docker-compose",
@@ -3761,8 +3761,8 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T17:21:43Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-01T07:36:50Z",
+            "open_issues": 32,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
             "stars": 40,
@@ -4254,7 +4254,7 @@
             "open_issues": 3,
             "owner": "Roche",
             "repo": "gitlab-stats",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -4645,7 +4645,7 @@
             "id": 498892686,
             "language": "R",
             "license": null,
-            "last_commit": "2026-08-28T13:21:19Z",
+            "last_commit": "2026-09-01T07:09:20Z",
             "open_issues": 32,
             "owner": "Genentech",
             "repo": "jmpost",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:14:55.601Z",
+    "last_updated": "2026-09-01T17:54:00.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
