@@ -15,8 +15,8 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T14:41:38Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-05T03:49:52Z",
+            "open_issues": 60,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3575,
@@ -287,7 +287,7 @@
             "open_issues": 7,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 852,
+            "stars": 853,
             "topics": [
               "ai",
               "astrazeneca",
@@ -503,7 +503,7 @@
             "open_issues": 44,
             "owner": "AstraZeneca-NGS",
             "repo": "VarDict",
-            "stars": 204,
+            "stars": 205,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -546,7 +546,7 @@
             "id": 263152515,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T22:39:32Z",
+            "last_commit": "2026-09-05T00:37:49Z",
             "open_issues": 147,
             "owner": "rgcgithub",
             "repo": "regenie",
@@ -571,7 +571,7 @@
             "open_issues": 31,
             "owner": "bioinform",
             "repo": "neusomatic",
-            "stars": 175,
+            "stars": 176,
             "topics": [
               "convolutional-neural-networks",
               "deep-learning",
@@ -1325,7 +1325,7 @@
             "open_issues": 4,
             "owner": "AstraZeneca-NGS",
             "repo": "reference_data",
-            "stars": 91,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1754,7 +1754,7 @@
             "open_issues": 4,
             "owner": "MolecularAI",
             "repo": "reaction_utils",
-            "stars": 99,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -4512,7 +4512,7 @@
             "id": 409076487,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-04T13:06:04Z",
+            "last_commit": "2026-09-04T18:41:13Z",
             "open_issues": 12,
             "owner": "Roche",
             "repo": "the-ambassador",
@@ -4645,8 +4645,8 @@
             "id": 498892686,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-04T13:54:24Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-05T14:36:38Z",
+            "open_issues": 31,
             "owner": "Genentech",
             "repo": "jmpost",
             "stars": 17,
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:41:41.969Z",
+    "last_updated": "2026-09-05T16:53:21.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
