@@ -16,7 +16,7 @@
             "language": "HTML",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-05T03:49:52Z",
-            "open_issues": 60,
+            "open_issues": 59,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3575,
@@ -219,7 +219,7 @@
             "open_issues": 15,
             "owner": "Roche",
             "repo": "pyreadstat",
-            "stars": 426,
+            "stars": 427,
             "topics": [
               "conversion",
               "pandas-dataframe",
@@ -340,7 +340,7 @@
             "id": 110836137,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T11:44:49Z",
+            "last_commit": "2026-09-06T08:07:55Z",
             "open_issues": 48,
             "owner": "pharmaverse",
             "repo": "rtables",
@@ -2603,7 +2603,7 @@
             "open_issues": 4,
             "owner": "rdkit",
             "repo": "shape-it",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -3761,7 +3761,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T19:21:42Z",
+            "last_commit": "2026-09-05T17:21:00Z",
             "open_issues": 32,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -4624,7 +4624,7 @@
             "id": 406157028,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T18:07:26Z",
+            "last_commit": "2026-09-05T18:03:23Z",
             "open_issues": 23,
             "owner": "insightsengineering",
             "repo": "tlg-catalog",
@@ -4645,7 +4645,7 @@
             "id": 498892686,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-05T14:36:38Z",
+            "last_commit": "2026-09-06T10:12:21Z",
             "open_issues": 31,
             "owner": "Genentech",
             "repo": "jmpost",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:53:21.234Z",
+    "last_updated": "2026-09-06T17:12:34.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
