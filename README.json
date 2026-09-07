@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-05T03:49:52Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-07T11:57:52Z",
+            "open_issues": 58,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3575,
+            "stars": 3580,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -115,7 +115,7 @@
             "open_issues": 9,
             "owner": "MolecularAI",
             "repo": "aizynthfinder",
-            "stars": 888,
+            "stars": 889,
             "topics": [
               "astrazeneca",
               "chemical-reactions",
@@ -323,7 +323,7 @@
             "open_issues": 6,
             "owner": "rdkit",
             "repo": "rdkit-tutorials",
-            "stars": 313,
+            "stars": 314,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -593,8 +593,8 @@
             "id": 383270569,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T09:08:35Z",
-            "open_issues": 74,
+            "last_commit": "2026-09-07T13:26:56Z",
+            "open_issues": 73,
             "owner": "insightsengineering",
             "repo": "teal",
             "stars": 263,
@@ -2649,7 +2649,7 @@
             "open_issues": 9,
             "owner": "Novartis",
             "repo": "torchsurv",
-            "stars": 215,
+            "stars": 216,
             "topics": [
               "deep-learning",
               "pytorch",
@@ -2843,7 +2843,7 @@
             "id": 347189347,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T22:33:25Z",
+            "last_commit": "2026-09-07T16:38:14Z",
             "open_issues": 17,
             "owner": "Sanofi-IADC",
             "repo": "konviw",
@@ -3762,7 +3762,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-09-05T17:21:00Z",
-            "open_issues": 32,
+            "open_issues": 31,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
             "stars": 40,
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:12:34.513Z",
+    "last_updated": "2026-09-07T18:47:52.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
