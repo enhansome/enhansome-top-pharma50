@@ -115,7 +115,7 @@
             "open_issues": 9,
             "owner": "MolecularAI",
             "repo": "aizynthfinder",
-            "stars": 889,
+            "stars": 890,
             "topics": [
               "astrazeneca",
               "chemical-reactions",
@@ -458,7 +458,7 @@
             "open_issues": 7,
             "owner": "bioinform",
             "repo": "somaticseq",
-            "stars": 206,
+            "stars": 207,
             "topics": [
               "cancer-genomics",
               "somatic-variants"
@@ -524,7 +524,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-drug-discovery-knowledge-graphs",
-            "stars": 269,
+            "stars": 270,
             "topics": [
               "awesome-list",
               "drug-discovery",
@@ -546,11 +546,11 @@
             "id": 263152515,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T00:37:49Z",
+            "last_commit": "2026-09-08T13:20:04Z",
             "open_issues": 147,
             "owner": "rgcgithub",
             "repo": "regenie",
-            "stars": 267,
+            "stars": 268,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -593,8 +593,8 @@
             "id": 383270569,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T13:26:56Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-08T16:21:54Z",
+            "open_issues": 74,
             "owner": "insightsengineering",
             "repo": "teal",
             "stars": 263,
@@ -933,7 +933,7 @@
             "open_issues": 44,
             "owner": "biosustain",
             "repo": "cameo",
-            "stars": 128,
+            "stars": 129,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1146,7 +1146,7 @@
             "id": 272640341,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T00:41:39Z",
+            "last_commit": "2026-09-07T23:17:33Z",
             "open_issues": 52,
             "owner": "Sanofi-IADC",
             "repo": "whispr",
@@ -1304,7 +1304,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "biology-for-ai",
-            "stars": 154,
+            "stars": 153,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1367,7 +1367,7 @@
             "language": "R",
             "license": "GPL-3.0",
             "last_commit": "2026-06-09T17:58:52Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "Merck",
             "repo": "r2rtf",
             "stars": 85,
@@ -1439,7 +1439,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-09-02T13:59:29Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "pharmaverse",
             "repo": "tern",
             "stars": 106,
@@ -1601,7 +1601,7 @@
             "id": 473693153,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-26T15:08:11Z",
+            "last_commit": "2026-09-08T14:30:42Z",
             "open_issues": 45,
             "owner": "GSK-Biostatistics",
             "repo": "tfrmt",
@@ -2536,8 +2536,8 @@
             "id": 509066038,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T22:59:56Z",
-            "open_issues": 42,
+            "last_commit": "2026-09-08T17:02:53Z",
+            "open_issues": 43,
             "owner": "Roche",
             "repo": "foxops",
             "stars": 48,
@@ -2561,7 +2561,7 @@
             "open_issues": 10,
             "owner": "AstraZeneca",
             "repo": "runnable",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -3206,7 +3206,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-07-05T14:07:40Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Novartis",
             "repo": "ChemBioMultimodalAutoencoders",
             "stars": 29,
@@ -4645,8 +4645,8 @@
             "id": 498892686,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-06T10:12:21Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-08T15:15:43Z",
+            "open_issues": 32,
             "owner": "Genentech",
             "repo": "jmpost",
             "stars": 17,
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:47:52.323Z",
+    "last_updated": "2026-09-08T17:59:18.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
