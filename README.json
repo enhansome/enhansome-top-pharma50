@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-11T15:38:03Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-12T02:22:46Z",
+            "open_issues": 56,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3584,
+            "stars": 3585,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -219,7 +219,7 @@
             "open_issues": 15,
             "owner": "Roche",
             "repo": "pyreadstat",
-            "stars": 427,
+            "stars": 428,
             "topics": [
               "conversion",
               "pandas-dataframe",
@@ -340,8 +340,8 @@
             "id": 110836137,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T06:27:22Z",
-            "open_issues": 49,
+            "last_commit": "2026-09-11T21:45:17Z",
+            "open_issues": 51,
             "owner": "pharmaverse",
             "repo": "rtables",
             "stars": 260,
@@ -819,8 +819,8 @@
             "id": 368375607,
             "language": "Dockerfile",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-03T18:12:24Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-12T14:08:47Z",
+            "open_issues": 29,
             "owner": "rdkit",
             "repo": "rdkit-js",
             "stars": 247,
@@ -1439,7 +1439,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T03:05:01Z",
-            "open_issues": 59,
+            "open_issues": 61,
             "owner": "pharmaverse",
             "repo": "tern",
             "stars": 106,
@@ -1563,7 +1563,7 @@
             "open_issues": 0,
             "owner": "MolecularAI",
             "repo": "PaRoutes",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:48:14.552Z",
+    "last_updated": "2026-09-12T17:20:33.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
