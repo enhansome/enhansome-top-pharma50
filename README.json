@@ -19,7 +19,7 @@
             "open_issues": 56,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3585,
+            "stars": 3586,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -287,7 +287,7 @@
             "open_issues": 7,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 856,
+            "stars": 857,
             "topics": [
               "ai",
               "astrazeneca",
@@ -340,7 +340,7 @@
             "id": 110836137,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T21:45:17Z",
+            "last_commit": "2026-09-13T08:32:41Z",
             "open_issues": 51,
             "owner": "pharmaverse",
             "repo": "rtables",
@@ -817,10 +817,10 @@
             "description": "A powerful cheminformatics and molecule rendering toolbelt for JavaScript, powered by RDKit .",
             "homepage": "https://rdkitjs.com",
             "id": 368375607,
-            "language": "Dockerfile",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-09-12T14:08:47Z",
-            "open_issues": 29,
+            "language": "SCSS",
+            "license": null,
+            "last_commit": "2026-09-13T13:04:03Z",
+            "open_issues": 27,
             "owner": "rdkit",
             "repo": "rdkit-js",
             "stars": 247,
@@ -1438,8 +1438,8 @@
             "id": 383270824,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T03:05:01Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-13T08:42:31Z",
+            "open_issues": 62,
             "owner": "pharmaverse",
             "repo": "tern",
             "stars": 106,
@@ -1754,7 +1754,7 @@
             "open_issues": 4,
             "owner": "MolecularAI",
             "repo": "reaction_utils",
-            "stars": 100,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1984,7 +1984,7 @@
             "open_issues": 5,
             "owner": "MolecularAI",
             "repo": "QSARtuna",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2536,8 +2536,8 @@
             "id": 509066038,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T12:43:33Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-13T07:48:28Z",
+            "open_issues": 45,
             "owner": "Roche",
             "repo": "foxops",
             "stars": 48,
@@ -3531,7 +3531,7 @@
             "open_issues": 3,
             "owner": "MolecularAI",
             "repo": "maize",
-            "stars": 84,
+            "stars": 85,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -3761,7 +3761,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T17:23:51Z",
+            "last_commit": "2026-09-12T17:21:12Z",
             "open_issues": 33,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -4624,7 +4624,7 @@
             "id": 406157028,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T18:06:53Z",
+            "last_commit": "2026-09-12T18:03:10Z",
             "open_issues": 23,
             "owner": "insightsengineering",
             "repo": "tlg-catalog",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:20:33.670Z",
+    "last_updated": "2026-09-13T17:30:44.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
