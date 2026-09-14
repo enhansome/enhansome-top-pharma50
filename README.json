@@ -287,7 +287,7 @@
             "open_issues": 7,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 857,
+            "stars": 859,
             "topics": [
               "ai",
               "astrazeneca",
@@ -340,8 +340,8 @@
             "id": 110836137,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T08:32:41Z",
-            "open_issues": 51,
+            "last_commit": "2026-09-14T11:27:33Z",
+            "open_issues": 52,
             "owner": "pharmaverse",
             "repo": "rtables",
             "stars": 260,
@@ -1438,8 +1438,8 @@
             "id": 383270824,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T08:42:31Z",
-            "open_issues": 62,
+            "last_commit": "2026-09-14T16:28:49Z",
+            "open_issues": 60,
             "owner": "pharmaverse",
             "repo": "tern",
             "stars": 106,
@@ -2603,7 +2603,7 @@
             "open_issues": 4,
             "owner": "rdkit",
             "repo": "shape-it",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2843,7 +2843,7 @@
             "id": 347189347,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T19:45:52Z",
+            "last_commit": "2026-09-14T06:40:39Z",
             "open_issues": 17,
             "owner": "Sanofi-IADC",
             "repo": "konviw",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:30:44.176Z",
+    "last_updated": "2026-09-14T19:31:10.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
