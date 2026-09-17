@@ -16,10 +16,10 @@
             "language": "HTML",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-15T07:59:34Z",
-            "open_issues": 74,
+            "open_issues": 76,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3589,
+            "stars": 3590,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -115,7 +115,7 @@
             "open_issues": 10,
             "owner": "MolecularAI",
             "repo": "aizynthfinder",
-            "stars": 892,
+            "stars": 893,
             "topics": [
               "astrazeneca",
               "chemical-reactions",
@@ -287,7 +287,7 @@
             "open_issues": 7,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 860,
+            "stars": 859,
             "topics": [
               "ai",
               "astrazeneca",
@@ -340,7 +340,7 @@
             "id": 110836137,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T00:41:10Z",
+            "last_commit": "2026-09-17T10:22:30Z",
             "open_issues": 52,
             "owner": "pharmaverse",
             "repo": "rtables",
@@ -411,7 +411,7 @@
             "open_issues": 8,
             "owner": "modernatx",
             "repo": "seqlike",
-            "stars": 207,
+            "stars": 208,
             "topics": [
               "biological-sequences",
               "biopython",
@@ -437,7 +437,7 @@
             "open_issues": 19,
             "owner": "rdkit",
             "repo": "mmpdb",
-            "stars": 301,
+            "stars": 300,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -482,7 +482,7 @@
             "open_issues": 10,
             "owner": "MolecularAI",
             "repo": "Chemformer",
-            "stars": 293,
+            "stars": 292,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -524,7 +524,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-drug-discovery-knowledge-graphs",
-            "stars": 271,
+            "stars": 272,
             "topics": [
               "awesome-list",
               "drug-discovery",
@@ -593,8 +593,8 @@
             "id": 383270569,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T14:01:07Z",
-            "open_issues": 75,
+            "last_commit": "2026-09-17T13:42:04Z",
+            "open_issues": 73,
             "owner": "insightsengineering",
             "repo": "teal",
             "stars": 263,
@@ -823,7 +823,7 @@
             "open_issues": 27,
             "owner": "rdkit",
             "repo": "rdkit-js",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "cheminformatics",
               "drug-discovery",
@@ -1071,8 +1071,8 @@
             "id": 788591787,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-06-12T21:24:30Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-17T00:28:27Z",
+            "open_issues": 29,
             "owner": "Genentech",
             "repo": "gReLU",
             "stars": 364,
@@ -1096,7 +1096,7 @@
             "open_issues": 8,
             "owner": "Sanofi-Public",
             "repo": "CodonBERT",
-            "stars": 146,
+            "stars": 147,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1438,8 +1438,8 @@
             "id": 383270824,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T11:18:31Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-17T09:43:52Z",
+            "open_issues": 57,
             "owner": "pharmaverse",
             "repo": "tern",
             "stars": 106,
@@ -2695,7 +2695,7 @@
             "open_issues": 2,
             "owner": "rdkit",
             "repo": "UGM_2016",
-            "stars": 41,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -3744,7 +3744,7 @@
             "open_issues": 4,
             "owner": "rdkit",
             "repo": "benchmarking_platform",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:17:09.942Z",
+    "last_updated": "2026-09-17T18:24:23.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
