@@ -16,7 +16,7 @@
             "language": "HTML",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-15T07:59:34Z",
-            "open_issues": 76,
+            "open_issues": 82,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3590,
@@ -115,7 +115,7 @@
             "open_issues": 10,
             "owner": "MolecularAI",
             "repo": "aizynthfinder",
-            "stars": 893,
+            "stars": 894,
             "topics": [
               "astrazeneca",
               "chemical-reactions",
@@ -287,7 +287,7 @@
             "open_issues": 7,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 859,
+            "stars": 860,
             "topics": [
               "ai",
               "astrazeneca",
@@ -437,7 +437,7 @@
             "open_issues": 19,
             "owner": "rdkit",
             "repo": "mmpdb",
-            "stars": 300,
+            "stars": 301,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1146,7 +1146,7 @@
             "id": 272640341,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T14:35:37Z",
+            "last_commit": "2026-09-18T15:53:50Z",
             "open_issues": 52,
             "owner": "Sanofi-IADC",
             "repo": "whispr",
@@ -1304,7 +1304,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "biology-for-ai",
-            "stars": 152,
+            "stars": 153,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1438,8 +1438,8 @@
             "id": 383270824,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T09:43:52Z",
-            "open_issues": 57,
+            "last_commit": "2026-09-18T09:49:02Z",
+            "open_issues": 55,
             "owner": "pharmaverse",
             "repo": "tern",
             "stars": 106,
@@ -2536,8 +2536,8 @@
             "id": 509066038,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T07:48:28Z",
-            "open_issues": 45,
+            "last_commit": "2026-09-18T01:33:43Z",
+            "open_issues": 46,
             "owner": "Roche",
             "repo": "foxops",
             "stars": 48,
@@ -4603,8 +4603,8 @@
             "id": 421962143,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T17:11:41Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-18T17:23:51Z",
+            "open_issues": 9,
             "owner": "Merck",
             "repo": "PepSeA",
             "stars": 35,
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:24:23.583Z",
+    "last_updated": "2026-09-18T17:46:06.149Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
