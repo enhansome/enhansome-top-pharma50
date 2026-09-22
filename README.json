@@ -16,10 +16,10 @@
             "language": "HTML",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-20T05:57:49Z",
-            "open_issues": 86,
+            "open_issues": 85,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3592,
+            "stars": 3594,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -115,7 +115,7 @@
             "open_issues": 10,
             "owner": "MolecularAI",
             "repo": "aizynthfinder",
-            "stars": 894,
+            "stars": 895,
             "topics": [
               "astrazeneca",
               "chemical-reactions",
@@ -287,7 +287,7 @@
             "open_issues": 7,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 861,
+            "stars": 862,
             "topics": [
               "ai",
               "astrazeneca",
@@ -323,7 +323,7 @@
             "open_issues": 6,
             "owner": "rdkit",
             "repo": "rdkit-tutorials",
-            "stars": 314,
+            "stars": 315,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -340,8 +340,8 @@
             "id": 110836137,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T13:24:32Z",
-            "open_issues": 53,
+            "last_commit": "2026-09-21T22:50:07Z",
+            "open_issues": 54,
             "owner": "pharmaverse",
             "repo": "rtables",
             "stars": 260,
@@ -1438,7 +1438,7 @@
             "id": 383270824,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T13:25:11Z",
+            "last_commit": "2026-09-22T08:40:55Z",
             "open_issues": 56,
             "owner": "pharmaverse",
             "repo": "tern",
@@ -2843,7 +2843,7 @@
             "id": 347189347,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T20:17:30Z",
+            "last_commit": "2026-09-22T17:05:10Z",
             "open_issues": 17,
             "owner": "Sanofi-IADC",
             "repo": "konviw",
@@ -3998,7 +3998,7 @@
             "id": 433595589,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-21T13:19:32Z",
+            "last_commit": "2026-09-22T08:34:03Z",
             "open_issues": 1,
             "owner": "pharmaverse",
             "repo": "rlistings",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:38:25.562Z",
+    "last_updated": "2026-09-22T18:11:38.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
