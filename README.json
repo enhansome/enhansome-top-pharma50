@@ -16,10 +16,10 @@
             "language": "HTML",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-20T05:57:49Z",
-            "open_issues": 85,
+            "open_issues": 88,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3594,
+            "stars": 3596,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -283,11 +283,11 @@
             "id": 707552952,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T06:17:18Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-23T12:47:33Z",
+            "open_issues": 4,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 862,
+            "stars": 865,
             "topics": [
               "ai",
               "astrazeneca",
@@ -340,7 +340,7 @@
             "id": 110836137,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T22:50:07Z",
+            "last_commit": "2026-09-23T18:27:10Z",
             "open_issues": 54,
             "owner": "pharmaverse",
             "repo": "rtables",
@@ -550,7 +550,7 @@
             "open_issues": 148,
             "owner": "rgcgithub",
             "repo": "regenie",
-            "stars": 268,
+            "stars": 269,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -975,7 +975,7 @@
             "open_issues": 1,
             "owner": "bayer-science-for-a-better-life",
             "repo": "Img2Mol",
-            "stars": 132,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1075,7 +1075,7 @@
             "open_issues": 27,
             "owner": "Genentech",
             "repo": "gReLU",
-            "stars": 364,
+            "stars": 365,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1304,7 +1304,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "biology-for-ai",
-            "stars": 153,
+            "stars": 154,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1366,8 +1366,8 @@
             "id": 241737369,
             "language": "R",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T02:53:21Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-22T18:55:19Z",
+            "open_issues": 2,
             "owner": "Merck",
             "repo": "r2rtf",
             "stars": 85,
@@ -1438,7 +1438,7 @@
             "id": 383270824,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T08:40:55Z",
+            "last_commit": "2026-09-23T08:24:24Z",
             "open_issues": 56,
             "owner": "pharmaverse",
             "repo": "tern",
@@ -1754,7 +1754,7 @@
             "open_issues": 2,
             "owner": "MolecularAI",
             "repo": "reaction_utils",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2372,7 +2372,7 @@
             "open_issues": 0,
             "owner": "rdkit",
             "repo": "UGM_2022",
-            "stars": 45,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2843,8 +2843,8 @@
             "id": 347189347,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T17:05:10Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-23T08:44:33Z",
+            "open_issues": 18,
             "owner": "Sanofi-IADC",
             "repo": "konviw",
             "stars": 37,
@@ -3761,7 +3761,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T17:21:37Z",
+            "last_commit": "2026-09-23T17:26:04Z",
             "open_issues": 33,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -4624,7 +4624,7 @@
             "id": 406157028,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T18:01:13Z",
+            "last_commit": "2026-09-23T18:07:26Z",
             "open_issues": 23,
             "owner": "insightsengineering",
             "repo": "tlg-catalog",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:11:38.085Z",
+    "last_updated": "2026-09-23T18:30:10.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
