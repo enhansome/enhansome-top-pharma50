@@ -15,8 +15,8 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-20T05:57:49Z",
-            "open_issues": 88,
+            "last_commit": "2026-09-24T15:38:03Z",
+            "open_issues": 82,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3596,
@@ -287,7 +287,7 @@
             "open_issues": 4,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 865,
+            "stars": 866,
             "topics": [
               "ai",
               "astrazeneca",
@@ -340,7 +340,7 @@
             "id": 110836137,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T18:27:10Z",
+            "last_commit": "2026-09-23T19:00:55Z",
             "open_issues": 54,
             "owner": "pharmaverse",
             "repo": "rtables",
@@ -593,8 +593,8 @@
             "id": 383270569,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T07:49:28Z",
-            "open_issues": 72,
+            "last_commit": "2026-09-24T15:51:40Z",
+            "open_issues": 73,
             "owner": "insightsengineering",
             "repo": "teal",
             "stars": 263,
@@ -1391,7 +1391,7 @@
             "open_issues": 22,
             "owner": "Genentech",
             "repo": "scimilarity",
-            "stars": 260,
+            "stars": 261,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1439,7 +1439,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-09-23T08:24:24Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "pharmaverse",
             "repo": "tern",
             "stars": 106,
@@ -2674,7 +2674,7 @@
             "open_issues": 3,
             "owner": "Novartis",
             "repo": "ontobrowser",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2843,7 +2843,7 @@
             "id": 347189347,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T08:44:33Z",
+            "last_commit": "2026-09-24T12:08:29Z",
             "open_issues": 18,
             "owner": "Sanofi-IADC",
             "repo": "konviw",
@@ -4645,7 +4645,7 @@
             "id": 498892686,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-15T06:43:22Z",
+            "last_commit": "2026-09-24T09:40:38Z",
             "open_issues": 32,
             "owner": "Genentech",
             "repo": "jmpost",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:30:10.882Z",
+    "last_updated": "2026-09-24T18:31:15.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
