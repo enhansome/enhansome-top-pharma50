@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-26T07:23:28Z",
-            "open_issues": 80,
+            "last_commit": "2026-09-27T03:22:28Z",
+            "open_issues": 82,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3598,
+            "stars": 3600,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-explainable-graph-reasoning",
-            "stars": 1990,
+            "stars": 1991,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -1438,8 +1438,8 @@
             "id": 383270824,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T09:05:37Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-27T09:33:37Z",
+            "open_issues": 58,
             "owner": "pharmaverse",
             "repo": "tern",
             "stars": 106,
@@ -2942,7 +2942,7 @@
             "open_issues": 1,
             "owner": "bayer-science-for-a-better-life",
             "repo": "phc-gnn",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "deep-learning",
               "graph-classification",
@@ -4624,7 +4624,7 @@
             "id": 406157028,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T18:07:26Z",
+            "last_commit": "2026-09-26T18:06:37Z",
             "open_issues": 23,
             "owner": "insightsengineering",
             "repo": "tlg-catalog",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:52:28.442Z",
+    "last_updated": "2026-09-27T18:34:10.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
