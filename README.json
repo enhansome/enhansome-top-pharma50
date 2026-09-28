@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-27T03:22:28Z",
-            "open_issues": 82,
+            "last_commit": "2026-09-28T13:10:18Z",
+            "open_issues": 83,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3600,
+            "stars": 3601,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -115,7 +115,7 @@
             "open_issues": 10,
             "owner": "MolecularAI",
             "repo": "aizynthfinder",
-            "stars": 895,
+            "stars": 896,
             "topics": [
               "astrazeneca",
               "chemical-reactions",
@@ -215,7 +215,7 @@
             "id": 145536189,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-12T13:24:15Z",
+            "last_commit": "2026-09-28T15:13:06Z",
             "open_issues": 15,
             "owner": "Roche",
             "repo": "pyreadstat",
@@ -287,7 +287,7 @@
             "open_issues": 4,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 866,
+            "stars": 870,
             "topics": [
               "ai",
               "astrazeneca",
@@ -340,8 +340,8 @@
             "id": 110836137,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T12:08:39Z",
-            "open_issues": 49,
+            "last_commit": "2026-09-28T09:35:58Z",
+            "open_issues": 48,
             "owner": "pharmaverse",
             "repo": "rtables",
             "stars": 260,
@@ -593,8 +593,8 @@
             "id": 383270569,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T14:03:37Z",
-            "open_issues": 72,
+            "last_commit": "2026-09-28T12:56:07Z",
+            "open_issues": 73,
             "owner": "insightsengineering",
             "repo": "teal",
             "stars": 263,
@@ -775,7 +775,7 @@
             "open_issues": 44,
             "owner": "Merck",
             "repo": "BioPhi",
-            "stars": 265,
+            "stars": 266,
             "topics": [
               "antibody",
               "humanization",
@@ -802,7 +802,7 @@
             "open_issues": 68,
             "owner": "AstraZeneca-NGS",
             "repo": "VarDictJava",
-            "stars": 140,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1388,10 +1388,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-03-14T21:49:09Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "Genentech",
             "repo": "scimilarity",
-            "stars": 261,
+            "stars": 262,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1560,7 +1560,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-08-05T06:44:21Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "PaRoutes",
             "stars": 94,
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:34:10.786Z",
+    "last_updated": "2026-09-28T20:39:11.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
