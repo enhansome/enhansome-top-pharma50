@@ -15,8 +15,8 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T03:44:43Z",
-            "open_issues": 91,
+            "last_commit": "2026-10-03T06:52:46Z",
+            "open_issues": 92,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3604,
@@ -115,7 +115,7 @@
             "open_issues": 10,
             "owner": "MolecularAI",
             "repo": "aizynthfinder",
-            "stars": 900,
+            "stars": 901,
             "topics": [
               "astrazeneca",
               "chemical-reactions",
@@ -2843,7 +2843,7 @@
             "id": 347189347,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T04:22:16Z",
+            "last_commit": "2026-10-03T11:11:47Z",
             "open_issues": 17,
             "owner": "Sanofi-IADC",
             "repo": "konviw",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:09:45.390Z",
+    "last_updated": "2026-10-03T18:05:44.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
