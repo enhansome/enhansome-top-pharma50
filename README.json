@@ -15,8 +15,8 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-30T04:22:49Z",
-            "open_issues": 90,
+            "last_commit": "2026-10-03T03:44:43Z",
+            "open_issues": 91,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3604,
@@ -546,7 +546,7 @@
             "id": 263152515,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T16:02:43Z",
+            "last_commit": "2026-10-02T19:38:53Z",
             "open_issues": 147,
             "owner": "rgcgithub",
             "repo": "regenie",
@@ -593,7 +593,7 @@
             "id": 383270569,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T17:16:19Z",
+            "last_commit": "2026-10-02T21:16:36Z",
             "open_issues": 77,
             "owner": "insightsengineering",
             "repo": "teal",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:26:06.950Z",
+    "last_updated": "2026-10-03T05:09:45.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
