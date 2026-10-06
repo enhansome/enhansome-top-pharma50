@@ -16,7 +16,7 @@
             "language": "HTML",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-03T06:52:46Z",
-            "open_issues": 97,
+            "open_issues": 98,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3606,
@@ -593,7 +593,7 @@
             "id": 383270569,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T21:41:12Z",
+            "last_commit": "2026-10-06T10:47:24Z",
             "open_issues": 75,
             "owner": "insightsengineering",
             "repo": "teal",
@@ -1075,7 +1075,7 @@
             "open_issues": 28,
             "owner": "Genentech",
             "repo": "gReLU",
-            "stars": 366,
+            "stars": 365,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2537,7 +2537,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-19T01:50:57Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "Roche",
             "repo": "foxops",
             "stars": 48,
@@ -3761,8 +3761,8 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T19:48:02Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-06T09:45:34Z",
+            "open_issues": 36,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
             "stars": 40,
@@ -4327,7 +4327,7 @@
             "open_issues": 1,
             "owner": "AstraZeneca-Code-Club",
             "repo": "beginners-python",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:33:42.697Z",
+    "last_updated": "2026-10-06T10:49:05.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
