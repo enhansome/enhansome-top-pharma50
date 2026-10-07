@@ -16,7 +16,7 @@
             "language": "HTML",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-03T06:52:46Z",
-            "open_issues": 100,
+            "open_issues": 105,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3607,
@@ -112,7 +112,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-04-13T08:06:57Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "MolecularAI",
             "repo": "aizynthfinder",
             "stars": 902,
@@ -287,7 +287,7 @@
             "open_issues": 4,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 873,
+            "stars": 874,
             "topics": [
               "ai",
               "astrazeneca",
@@ -1391,7 +1391,7 @@
             "open_issues": 23,
             "owner": "Genentech",
             "repo": "scimilarity",
-            "stars": 262,
+            "stars": 263,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -3761,7 +3761,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T09:45:34Z",
+            "last_commit": "2026-10-07T17:31:13Z",
             "open_issues": 36,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:39:18.894Z",
+    "last_updated": "2026-10-07T20:03:25.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
