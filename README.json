@@ -16,10 +16,10 @@
             "language": "HTML",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-03T06:52:46Z",
-            "open_issues": 108,
+            "open_issues": 121,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3610,
+            "stars": 3613,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -1146,7 +1146,7 @@
             "id": 272640341,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T01:49:04Z",
+            "last_commit": "2026-10-09T19:05:12Z",
             "open_issues": 52,
             "owner": "Sanofi-IADC",
             "repo": "whispr",
@@ -1438,8 +1438,8 @@
             "id": 383270824,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T16:25:41Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-09T04:57:27Z",
+            "open_issues": 55,
             "owner": "pharmaverse",
             "repo": "tern",
             "stars": 107,
@@ -2194,7 +2194,7 @@
             "open_issues": 36,
             "owner": "bedapub",
             "repo": "besca",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2463,7 +2463,7 @@
             "open_issues": 1,
             "owner": "Merck",
             "repo": "Sapiens",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "antibody",
               "bert",
@@ -2536,8 +2536,8 @@
             "id": 509066038,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T01:50:57Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-09T17:08:03Z",
+            "open_issues": 49,
             "owner": "Roche",
             "repo": "foxops",
             "stars": 48,
@@ -2971,7 +2971,7 @@
             "open_issues": 1,
             "owner": "Novartis",
             "repo": "pQSAR",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -3016,7 +3016,7 @@
             "id": 383270623,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T23:34:49Z",
+            "last_commit": "2026-10-09T18:42:53Z",
             "open_issues": 108,
             "owner": "insightsengineering",
             "repo": "teal.modules.clinical",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:01:14.878Z",
+    "last_updated": "2026-10-09T19:36:23.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
