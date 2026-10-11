@@ -15,8 +15,8 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-10T16:54:16Z",
-            "open_issues": 117,
+            "last_commit": "2026-10-11T13:58:53Z",
+            "open_issues": 115,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3614,
@@ -115,7 +115,7 @@
             "open_issues": 11,
             "owner": "MolecularAI",
             "repo": "aizynthfinder",
-            "stars": 902,
+            "stars": 903,
             "topics": [
               "astrazeneca",
               "chemical-reactions",
@@ -287,7 +287,7 @@
             "open_issues": 5,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 876,
+            "stars": 877,
             "topics": [
               "ai",
               "astrazeneca",
@@ -437,7 +437,7 @@
             "open_issues": 21,
             "owner": "rdkit",
             "repo": "mmpdb",
-            "stars": 302,
+            "stars": 303,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1438,8 +1438,8 @@
             "id": 383270824,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T04:57:27Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-11T12:14:05Z",
+            "open_issues": 54,
             "owner": "pharmaverse",
             "repo": "tern",
             "stars": 107,
@@ -3761,8 +3761,8 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T17:24:24Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-11T03:06:38Z",
+            "open_issues": 38,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
             "stars": 40,
@@ -4136,7 +4136,7 @@
             "open_issues": 2,
             "owner": "bayer-science-for-a-better-life",
             "repo": "topefind-public",
-            "stars": 25,
+            "stars": 24,
             "topics": [
               "antibodies",
               "artificial-intelligence",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:45:01.991Z",
+    "last_updated": "2026-10-11T19:05:26.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
