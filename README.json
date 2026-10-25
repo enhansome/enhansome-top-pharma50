@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-24T05:16:58Z",
-            "open_issues": 100,
+            "last_commit": "2026-10-25T17:01:23Z",
+            "open_issues": 99,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3636,
+            "stars": 3639,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -115,7 +115,7 @@
             "open_issues": 11,
             "owner": "MolecularAI",
             "repo": "aizynthfinder",
-            "stars": 907,
+            "stars": 906,
             "topics": [
               "astrazeneca",
               "chemical-reactions",
@@ -215,8 +215,8 @@
             "id": 145536189,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T16:05:56Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-25T12:52:16Z",
+            "open_issues": 6,
             "owner": "Roche",
             "repo": "pyreadstat",
             "stars": 429,
@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 882,
+            "stars": 883,
             "topics": [
               "ai",
               "astrazeneca",
@@ -593,7 +593,7 @@
             "id": 383270569,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T12:14:44Z",
+            "last_commit": "2026-10-25T03:54:13Z",
             "open_issues": 75,
             "owner": "pharmaverse",
             "repo": "teal",
@@ -1391,7 +1391,7 @@
             "open_issues": 23,
             "owner": "Genentech",
             "repo": "scimilarity",
-            "stars": 266,
+            "stars": 267,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -3761,7 +3761,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T17:23:28Z",
+            "last_commit": "2026-10-25T03:42:22Z",
             "open_issues": 29,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -4254,7 +4254,7 @@
             "open_issues": 3,
             "owner": "Roche",
             "repo": "gitlab-stats",
-            "stars": 24,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -4512,7 +4512,7 @@
             "id": 409076487,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T22:46:34Z",
+            "last_commit": "2026-10-25T16:28:09Z",
             "open_issues": 12,
             "owner": "Roche",
             "repo": "the-ambassador",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:31:02.758Z",
+    "last_updated": "2026-10-25T17:44:32.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
