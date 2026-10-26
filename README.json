@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-25T17:01:23Z",
-            "open_issues": 99,
+            "last_commit": "2026-10-26T06:16:21Z",
+            "open_issues": 100,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3639,
+            "stars": 3643,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -115,7 +115,7 @@
             "open_issues": 11,
             "owner": "MolecularAI",
             "repo": "aizynthfinder",
-            "stars": 906,
+            "stars": 907,
             "topics": [
               "astrazeneca",
               "chemical-reactions",
@@ -191,7 +191,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "Reinvent",
-            "stars": 378,
+            "stars": 379,
             "topics": [
               "astrazeneca",
               "cheminformatics",
@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 883,
+            "stars": 884,
             "topics": [
               "ai",
               "astrazeneca",
@@ -344,7 +344,7 @@
             "open_issues": 48,
             "owner": "pharmaverse",
             "repo": "rtables",
-            "stars": 261,
+            "stars": 262,
             "topics": [
               "pharmaceuticals",
               "r",
@@ -547,10 +547,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T19:38:53Z",
-            "open_issues": 146,
+            "open_issues": 145,
             "owner": "rgcgithub",
             "repo": "regenie",
-            "stars": 271,
+            "stars": 270,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -593,11 +593,11 @@
             "id": 383270569,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T03:54:13Z",
-            "open_issues": 75,
+            "last_commit": "2026-10-26T14:59:43Z",
+            "open_issues": 74,
             "owner": "pharmaverse",
             "repo": "teal",
-            "stars": 264,
+            "stars": 265,
             "topics": [
               "clinical-trials",
               "nest",
@@ -823,7 +823,7 @@
             "open_issues": 27,
             "owner": "rdkit",
             "repo": "rdkit-js",
-            "stars": 253,
+            "stars": 254,
             "topics": [
               "cheminformatics",
               "drug-discovery",
@@ -1075,7 +1075,7 @@
             "open_issues": 26,
             "owner": "Genentech",
             "repo": "gReLU",
-            "stars": 366,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2190,7 +2190,7 @@
             "id": 243550957,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T07:04:54Z",
+            "last_commit": "2026-10-26T16:09:07Z",
             "open_issues": 36,
             "owner": "bedapub",
             "repo": "besca",
@@ -3761,8 +3761,8 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T03:42:22Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-26T11:28:50Z",
+            "open_issues": 30,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
             "stars": 40,
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:44:32.951Z",
+    "last_updated": "2026-10-26T20:02:46.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
