@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-29T10:37:58Z",
-            "open_issues": 102,
+            "last_commit": "2026-10-30T10:00:54Z",
+            "open_issues": 112,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3650,
+            "stars": 3652,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-explainable-graph-reasoning",
-            "stars": 1994,
+            "stars": 1993,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -191,7 +191,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "Reinvent",
-            "stars": 380,
+            "stars": 378,
             "topics": [
               "astrazeneca",
               "cheminformatics",
@@ -216,7 +216,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-28T13:46:27Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "Roche",
             "repo": "pyreadstat",
             "stars": 429,
@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 890,
+            "stars": 891,
             "topics": [
               "ai",
               "astrazeneca",
@@ -323,7 +323,7 @@
             "open_issues": 6,
             "owner": "rdkit",
             "repo": "rdkit-tutorials",
-            "stars": 314,
+            "stars": 315,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -437,7 +437,7 @@
             "open_issues": 19,
             "owner": "rdkit",
             "repo": "mmpdb",
-            "stars": 303,
+            "stars": 304,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -593,8 +593,8 @@
             "id": 383270569,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T13:54:32Z",
-            "open_issues": 72,
+            "last_commit": "2026-10-30T08:29:36Z",
+            "open_issues": 70,
             "owner": "pharmaverse",
             "repo": "teal",
             "stars": 265,
@@ -823,7 +823,7 @@
             "open_issues": 27,
             "owner": "rdkit",
             "repo": "rdkit-js",
-            "stars": 255,
+            "stars": 256,
             "topics": [
               "cheminformatics",
               "drug-discovery",
@@ -1963,7 +1963,7 @@
             "open_issues": 4,
             "owner": "Genentech",
             "repo": "sVAE",
-            "stars": 72,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2338,7 +2338,7 @@
             "open_issues": 0,
             "owner": "Bayer-Group",
             "repo": "COLID-Documentation",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "cloud-native",
               "colid",
@@ -2536,8 +2536,8 @@
             "id": 509066038,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T12:14:43Z",
-            "open_issues": 56,
+            "last_commit": "2026-10-29T22:55:08Z",
+            "open_issues": 57,
             "owner": "Roche",
             "repo": "foxops",
             "stars": 48,
@@ -3762,7 +3762,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-10-29T03:40:57Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
             "stars": 40,
@@ -4628,7 +4628,7 @@
             "open_issues": 24,
             "owner": "insightsengineering",
             "repo": "tlg-catalog",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -4645,7 +4645,7 @@
             "id": 498892686,
             "language": "R",
             "license": null,
-            "last_commit": "2026-10-28T14:36:15Z",
+            "last_commit": "2026-10-30T06:49:35Z",
             "open_issues": 33,
             "owner": "Genentech",
             "repo": "jmpost",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:45:03.491Z",
+    "last_updated": "2026-10-30T19:33:43.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
