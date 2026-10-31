@@ -16,10 +16,10 @@
             "language": "HTML",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-30T10:00:54Z",
-            "open_issues": 112,
+            "open_issues": 115,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3652,
+            "stars": 3654,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -215,7 +215,7 @@
             "id": 145536189,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T13:46:27Z",
+            "last_commit": "2026-10-31T11:59:27Z",
             "open_issues": 7,
             "owner": "Roche",
             "repo": "pyreadstat",
@@ -524,7 +524,7 @@
             "open_issues": 1,
             "owner": "AstraZeneca",
             "repo": "awesome-drug-discovery-knowledge-graphs",
-            "stars": 273,
+            "stars": 275,
             "topics": [
               "awesome-list",
               "drug-discovery",
@@ -3531,7 +3531,7 @@
             "open_issues": 3,
             "owner": "MolecularAI",
             "repo": "maize",
-            "stars": 87,
+            "stars": 88,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -3761,7 +3761,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T03:40:57Z",
+            "last_commit": "2026-10-31T17:19:23Z",
             "open_issues": 29,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:33:43.891Z",
+    "last_updated": "2026-10-31T18:40:18.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
