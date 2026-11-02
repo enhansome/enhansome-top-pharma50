@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-01T17:29:17Z",
-            "open_issues": 109,
+            "last_commit": "2026-11-02T18:21:13Z",
+            "open_issues": 106,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3657,
+            "stars": 3662,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -215,7 +215,7 @@
             "id": 145536189,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T11:59:27Z",
+            "last_commit": "2026-11-02T08:50:32Z",
             "open_issues": 7,
             "owner": "Roche",
             "repo": "pyreadstat",
@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 891,
+            "stars": 892,
             "topics": [
               "ai",
               "astrazeneca",
@@ -323,7 +323,7 @@
             "open_issues": 6,
             "owner": "rdkit",
             "repo": "rdkit-tutorials",
-            "stars": 315,
+            "stars": 316,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -975,7 +975,7 @@
             "open_issues": 1,
             "owner": "bayer-science-for-a-better-life",
             "repo": "Img2Mol",
-            "stars": 134,
+            "stars": 135,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1047,7 +1047,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-04-30T08:28:33Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "Bayer-Group",
             "repo": "paquo",
             "stars": 138,
@@ -1391,7 +1391,7 @@
             "open_issues": 23,
             "owner": "Genentech",
             "repo": "scimilarity",
-            "stars": 267,
+            "stars": 268,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2164,7 +2164,7 @@
             "open_issues": 7,
             "owner": "Merck",
             "repo": "rdf2x",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "conversion",
               "json",
@@ -2536,7 +2536,7 @@
             "id": 509066038,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T22:55:08Z",
+            "last_commit": "2026-11-02T16:30:49Z",
             "open_issues": 57,
             "owner": "Roche",
             "repo": "foxops",
@@ -2649,7 +2649,7 @@
             "open_issues": 8,
             "owner": "Novartis",
             "repo": "torchsurv",
-            "stars": 216,
+            "stars": 217,
             "topics": [
               "deep-learning",
               "pytorch",
@@ -2843,7 +2843,7 @@
             "id": 347189347,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T00:35:04Z",
+            "last_commit": "2026-11-02T18:47:02Z",
             "open_issues": 16,
             "owner": "Sanofi-IADC",
             "repo": "konviw",
@@ -2921,7 +2921,7 @@
             "open_issues": 1,
             "owner": "Genentech",
             "repo": "iterative-perturb-seq",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:01:41.539Z",
+    "last_updated": "2026-11-02T22:50:11.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
