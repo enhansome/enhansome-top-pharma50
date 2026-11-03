@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-02T18:21:13Z",
-            "open_issues": 106,
+            "last_commit": "2026-11-03T08:03:47Z",
+            "open_issues": 110,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3662,
+            "stars": 3665,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 892,
+            "stars": 893,
             "topics": [
               "ai",
               "astrazeneca",
@@ -597,7 +597,7 @@
             "open_issues": 70,
             "owner": "pharmaverse",
             "repo": "teal",
-            "stars": 265,
+            "stars": 266,
             "topics": [
               "clinical-trials",
               "nest",
@@ -1439,7 +1439,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-10-11T12:14:05Z",
-            "open_issues": 54,
+            "open_issues": 56,
             "owner": "pharmaverse",
             "repo": "tern",
             "stars": 108,
@@ -1651,7 +1651,7 @@
             "open_issues": 3,
             "owner": "molecularinformatics",
             "repo": "Computational-ADME",
-            "stars": 105,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2536,7 +2536,7 @@
             "id": 509066038,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T16:30:49Z",
+            "last_commit": "2026-11-03T12:34:44Z",
             "open_issues": 57,
             "owner": "Roche",
             "repo": "foxops",
@@ -3761,8 +3761,8 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T03:54:49Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-03T10:44:06Z",
+            "open_issues": 27,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
             "stars": 40,
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:50:11.188Z",
+    "last_updated": "2026-11-03T20:33:16.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
