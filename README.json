@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-03T08:03:47Z",
-            "open_issues": 110,
+            "last_commit": "2026-11-04T05:09:15Z",
+            "open_issues": 112,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3665,
+            "stars": 3666,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 893,
+            "stars": 894,
             "topics": [
               "ai",
               "astrazeneca",
@@ -437,7 +437,7 @@
             "open_issues": 19,
             "owner": "rdkit",
             "repo": "mmpdb",
-            "stars": 304,
+            "stars": 303,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -482,7 +482,7 @@
             "open_issues": 10,
             "owner": "MolecularAI",
             "repo": "Chemformer",
-            "stars": 291,
+            "stars": 290,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -597,7 +597,7 @@
             "open_issues": 70,
             "owner": "pharmaverse",
             "repo": "teal",
-            "stars": 266,
+            "stars": 267,
             "topics": [
               "clinical-trials",
               "nest",
@@ -823,7 +823,7 @@
             "open_issues": 27,
             "owner": "rdkit",
             "repo": "rdkit-js",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "cheminformatics",
               "drug-discovery",
@@ -1194,7 +1194,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-drug-pair-scoring",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "chemistry",
               "ddi",
@@ -1391,7 +1391,7 @@
             "open_issues": 23,
             "owner": "Genentech",
             "repo": "scimilarity",
-            "stars": 268,
+            "stars": 269,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1600,9 +1600,9 @@
             "homepage": "https://gsk-biostatistics.github.io/tfrmt/",
             "id": 473693153,
             "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-08T14:30:42Z",
-            "open_issues": 46,
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-04T17:04:29Z",
+            "open_issues": 45,
             "owner": "GSK-Biostatistics",
             "repo": "tfrmt",
             "stars": 92,
@@ -1668,8 +1668,8 @@
             "id": 264192784,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T17:49:16Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-04T17:48:38Z",
+            "open_issues": 6,
             "owner": "pfizer-opensource",
             "repo": "scikit-digital-health",
             "stars": 109,
@@ -1751,10 +1751,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T15:50:00Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "MolecularAI",
             "repo": "reaction_utils",
-            "stars": 102,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1797,7 +1797,7 @@
             "id": 30267723,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2025-12-12T08:18:32Z",
+            "last_commit": "2026-11-03T22:54:24Z",
             "open_issues": 9,
             "owner": "rdkit",
             "repo": "django-rdkit",
@@ -2190,8 +2190,8 @@
             "id": 243550957,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T10:28:03Z",
-            "open_issues": 36,
+            "last_commit": "2026-11-04T01:10:31Z",
+            "open_issues": 38,
             "owner": "bedapub",
             "repo": "besca",
             "stars": 51,
@@ -3017,7 +3017,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-10-28T18:19:16Z",
-            "open_issues": 105,
+            "open_issues": 104,
             "owner": "insightsengineering",
             "repo": "teal.modules.clinical",
             "stars": 42,
@@ -3374,7 +3374,7 @@
             "open_issues": 24,
             "owner": "biosustain",
             "repo": "Maud",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -3761,8 +3761,8 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T10:44:06Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-04T17:19:18Z",
+            "open_issues": 28,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
             "stars": 40,
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:33:16.487Z",
+    "last_updated": "2026-11-04T20:52:25.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
