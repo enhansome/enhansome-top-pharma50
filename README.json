@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T05:09:15Z",
-            "open_issues": 112,
+            "last_commit": "2026-11-05T14:04:05Z",
+            "open_issues": 110,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3666,
+            "stars": 3670,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -74,7 +74,7 @@
             "open_issues": 10,
             "owner": "AstraZeneca",
             "repo": "chemicalx",
-            "stars": 788,
+            "stars": 789,
             "topics": [
               "biology",
               "chemistry",
@@ -115,7 +115,7 @@
             "open_issues": 11,
             "owner": "MolecularAI",
             "repo": "aizynthfinder",
-            "stars": 911,
+            "stars": 912,
             "topics": [
               "astrazeneca",
               "chemical-reactions",
@@ -219,7 +219,7 @@
             "open_issues": 7,
             "owner": "Roche",
             "repo": "pyreadstat",
-            "stars": 429,
+            "stars": 431,
             "topics": [
               "conversion",
               "pandas-dataframe",
@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 894,
+            "stars": 896,
             "topics": [
               "ai",
               "astrazeneca",
@@ -482,7 +482,7 @@
             "open_issues": 10,
             "owner": "MolecularAI",
             "repo": "Chemformer",
-            "stars": 290,
+            "stars": 291,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1146,7 +1146,7 @@
             "id": 272640341,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T23:57:43Z",
+            "last_commit": "2026-11-05T10:16:25Z",
             "open_issues": 52,
             "owner": "Sanofi-IADC",
             "repo": "whispr",
@@ -1601,8 +1601,8 @@
             "id": 473693153,
             "language": "R",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T17:04:29Z",
-            "open_issues": 45,
+            "last_commit": "2026-11-05T14:41:44Z",
+            "open_issues": 43,
             "owner": "GSK-Biostatistics",
             "repo": "tfrmt",
             "stars": 92,
@@ -1651,7 +1651,7 @@
             "open_issues": 3,
             "owner": "molecularinformatics",
             "repo": "Computational-ADME",
-            "stars": 106,
+            "stars": 107,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1754,7 +1754,7 @@
             "open_issues": 3,
             "owner": "MolecularAI",
             "repo": "reaction_utils",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2047,7 +2047,7 @@
             "open_issues": 21,
             "owner": "rdkit",
             "repo": "conda-rdkit",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -3761,8 +3761,8 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T17:19:18Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-05T03:43:41Z",
+            "open_issues": 29,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
             "stars": 40,
@@ -4212,7 +4212,7 @@
             "open_issues": 2,
             "owner": "Genentech",
             "repo": "regLM",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:52:25.894Z",
+    "last_updated": "2026-11-05T21:09:17.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
