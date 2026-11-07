@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-06T12:11:22Z",
-            "open_issues": 111,
+            "last_commit": "2026-11-07T15:27:01Z",
+            "open_issues": 112,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3671,
+            "stars": 3672,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -191,7 +191,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "Reinvent",
-            "stars": 378,
+            "stars": 379,
             "topics": [
               "astrazeneca",
               "cheminformatics",
@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 897,
+            "stars": 899,
             "topics": [
               "ai",
               "astrazeneca",
@@ -3630,7 +3630,7 @@
             "open_issues": 1,
             "owner": "bayer-science-for-a-better-life",
             "repo": "pKAI",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -3761,7 +3761,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T03:50:39Z",
+            "last_commit": "2026-11-07T17:19:18Z",
             "open_issues": 28,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:29:21.880Z",
+    "last_updated": "2026-11-07T18:57:51.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
