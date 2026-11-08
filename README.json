@@ -15,8 +15,8 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-07T15:27:01Z",
-            "open_issues": 112,
+            "last_commit": "2026-11-08T05:34:00Z",
+            "open_issues": 111,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3672,
@@ -143,7 +143,7 @@
             "open_issues": 51,
             "owner": "biosustain",
             "repo": "potion",
-            "stars": 487,
+            "stars": 486,
             "topics": [
               "flask",
               "flask-extensions",
@@ -1304,7 +1304,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "biology-for-ai",
-            "stars": 156,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -3016,7 +3016,7 @@
             "id": 383270623,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T18:19:16Z",
+            "last_commit": "2026-11-08T03:50:11Z",
             "open_issues": 104,
             "owner": "insightsengineering",
             "repo": "teal.modules.clinical",
@@ -3761,7 +3761,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T17:19:18Z",
+            "last_commit": "2026-11-08T03:48:40Z",
             "open_issues": 28,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -4512,7 +4512,7 @@
             "id": 409076487,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T22:16:16Z",
+            "last_commit": "2026-11-08T01:45:33Z",
             "open_issues": 12,
             "owner": "Roche",
             "repo": "the-ambassador",
@@ -4780,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:57:51.519Z",
+    "last_updated": "2026-11-08T18:55:44.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
