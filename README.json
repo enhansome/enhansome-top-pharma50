@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-08T05:34:00Z",
+            "last_commit": "2026-11-09T09:03:31Z",
             "open_issues": 111,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3672,
+            "stars": 3676,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -170,7 +170,7 @@
             "open_issues": 10,
             "owner": "MolecularAI",
             "repo": "GraphINVENT",
-            "stars": 380,
+            "stars": 379,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -191,7 +191,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "Reinvent",
-            "stars": 379,
+            "stars": 381,
             "topics": [
               "astrazeneca",
               "cheminformatics",
@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 899,
+            "stars": 902,
             "topics": [
               "ai",
               "astrazeneca",
@@ -350,48 +350,6 @@
               "r",
               "tables"
             ]
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/cloudformation-template-generator",
-          "description": "A type-safe Scala DSL for generating CloudFormation templates 211 71 Scala BSD 3-Clause \"New\" or \"Revised\" License 2022-07-29 11:32:04",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A type-safe Scala DSL for generating CloudFormation templates",
-            "homepage": null,
-            "id": 38452210,
-            "language": "Scala",
-            "license": "BSD-3-Clause",
-            "last_commit": "2022-07-29T11:32:04Z",
-            "open_issues": 18,
-            "owner": "Bayer-Group",
-            "repo": "cloudformation-template-generator",
-            "stars": 207,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/etcd-aws-cluster",
-          "description": "A container to assist in managing a etcd2 cluster from an Amazon auto scaling group 202 102 Shell BSD 3-Clause \"New\" or \"Revised\" License 2017-02-01 01:09:05",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A container to assist in managing a etcd2 cluster from an Amazon auto scaling group",
-            "homepage": null,
-            "id": 35633250,
-            "language": "Shell",
-            "license": "BSD-3-Clause",
-            "last_commit": "2017-02-01T01:09:05Z",
-            "open_issues": 3,
-            "owner": "Bayer-Group",
-            "repo": "etcd-aws-cluster",
-            "stars": 200,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -550,7 +508,7 @@
             "open_issues": 145,
             "owner": "rgcgithub",
             "repo": "regenie",
-            "stars": 270,
+            "stars": 271,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1036,31 +994,6 @@
         },
         {
           "node_type": "item",
-          "title": "Bayer-Group/paquo",
-          "description": "PAthological QUpath Obsession - QuPath and Python conversations, , 100 16 Python GNU General Public License v3.0 2024-06-02 18:21:27",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "PAthological QUpath Obsession - QuPath and Python conversations",
-            "homepage": null,
-            "id": 277534200,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-04-30T08:28:33Z",
-            "open_issues": 36,
-            "owner": "Bayer-Group",
-            "repo": "paquo",
-            "stars": 138,
-            "topics": [
-              "digital-pathology",
-              "python",
-              "qupath"
-            ]
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
           "title": "genentech/gReLU",
           "description": "gReLU is a python library to train, interpret, and apply deep learning models to DNA sequences. 99 5 Python MIT License 2024-06-07 20:29:13",
           "children": [],
@@ -1327,30 +1260,6 @@
             "repo": "reference_data",
             "stars": 90,
             "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/tiffslide",
-          "description": "TiffSlide - cloud native openslide-python replacement based on tifffile, 77 11 Python Other 2024-02-14 16:52:45",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "TiffSlide - cloud native openslide-python replacement based on tifffile",
-            "homepage": null,
-            "id": 349027019,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-07-03T01:22:38Z",
-            "open_issues": 21,
-            "owner": "Bayer-Group",
-            "repo": "tiffslide",
-            "stars": 107,
-            "topics": [
-              "digital-pathology",
-              "python"
-            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -1751,7 +1660,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T15:50:00Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "MolecularAI",
             "repo": "reaction_utils",
             "stars": 102,
@@ -1844,27 +1753,6 @@
             "owner": "MolecularAI",
             "repo": "Icolos",
             "stars": 61,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/goldengate-kafka-adapter",
-          "description": "An adapter for Oracle GoldenGate to push change capture data directly to an Apache Kafka cluster 53 15 Java Other 2015-10-26 19:08:32",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An adapter for Oracle GoldenGate to push change capture data directly to an Apache Kafka cluster",
-            "homepage": null,
-            "id": 44399358,
-            "language": "Java",
-            "license": "NOASSERTION",
-            "last_commit": "2015-10-26T19:08:32Z",
-            "open_issues": 2,
-            "owner": "Bayer-Group",
-            "repo": "goldengate-kafka-adapter",
-            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2026,7 +1914,7 @@
             "open_issues": 11,
             "owner": "Boehringer-Ingelheim",
             "repo": "pyPept",
-            "stars": 102,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2048,27 +1936,6 @@
             "owner": "rdkit",
             "repo": "conda-rdkit",
             "stars": 51,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/stax",
-          "description": "AWS CloudFormation stack manager 49 8 Shell Other 2015-08-31 18:03:41",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "AWS CloudFormation stack manager",
-            "homepage": null,
-            "id": 36682629,
-            "language": "Shell",
-            "license": "NOASSERTION",
-            "last_commit": "2015-08-31T18:03:41Z",
-            "open_issues": 1,
-            "owner": "Bayer-Group",
-            "repo": "stax",
-            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2201,27 +2068,6 @@
         },
         {
           "node_type": "item",
-          "title": "Bayer-Group/column-resizer",
-          "description": "Adds resizable columns to tables 45 23 JavaScript Other 2023-10-26 02:34:31",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Adds resizable columns to tables",
-            "homepage": null,
-            "id": 94680016,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2023-10-26T02:34:31Z",
-            "open_issues": 23,
-            "owner": "Bayer-Group",
-            "repo": "column-resizer",
-            "stars": 46,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
           "title": "Novartis/scar",
           "description": "scAR (single-cell Ambient Remover) is a deep learning model for removal of the ambient signals in droplet-based single cell omics, , , , , , , , 44 4 Python 2024-05-28 21:20:32",
           "children": [],
@@ -2295,63 +2141,6 @@
               "recommender-system",
               "shiny-apps",
               "ui"
-            ]
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/stoop",
-          "description": "Monadic Scala API for CouchDB 44 4 Scala Other 2015-01-13 17:13:53",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Monadic Scala API for CouchDB",
-            "homepage": null,
-            "id": 28884316,
-            "language": "Scala",
-            "license": "NOASSERTION",
-            "last_commit": "2015-01-13T17:13:53Z",
-            "open_issues": 1,
-            "owner": "Bayer-Group",
-            "repo": "stoop",
-            "stars": 44,
-            "topics": [
-              "beat-not-applicable"
-            ]
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/COLID-Documentation",
-          "description": "The documentation repository is part of the Corporate Linked Data Catalog - short: COLID - application., , , , , , , , , , , 43 6 HTML BSD 3-Clause \"New\" or \"Revised\" License 2023-02-10 16:19:23",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The documentation repository is part of the Corporate Linked  Data Catalog - short: COLID - application. ",
-            "homepage": "https://bayer-group.github.io/COLID-Documentation/",
-            "id": 277841528,
-            "language": "HTML",
-            "license": "BSD-3-Clause",
-            "last_commit": "2025-12-11T16:08:53Z",
-            "open_issues": 0,
-            "owner": "Bayer-Group",
-            "repo": "COLID-Documentation",
-            "stars": 50,
-            "topics": [
-              "cloud-native",
-              "colid",
-              "data-catalog",
-              "data-catalogue",
-              "elasticsearch",
-              "fair",
-              "fair-data",
-              "findable",
-              "linked-data",
-              "rdf",
-              "shacl",
-              "triplestore"
             ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2476,27 +2265,6 @@
         },
         {
           "node_type": "item",
-          "title": "Bayer-Group/xsmiles",
-          "description": "Visualize atom and non-atom attributions and SMILES strings 40 4 TypeScript BSD 3-Clause \"New\" or \"Revised\" License 2023-07-12 06:10:57",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Visualize atom and non-atom attributions and SMILES strings",
-            "homepage": null,
-            "id": 530813680,
-            "language": "TypeScript",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-06-20T05:56:31Z",
-            "open_issues": 9,
-            "owner": "Bayer-Group",
-            "repo": "xsmiles",
-            "stars": 50,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
           "title": "Novartis/shinyValidator",
           "description": "Audit your Shiny apps at each commit. Multiple levels of testings are offered: startup and crash tests, performance tests (load test and global code profiling), reactivity audit as well as output tests. All results are gathered in an HTML report uploaded and available to everyone on any CI/CD plaform or RStudio Connect, , , , , , 39 3 HTML Other 2023-08-10 10:49:42",
           "children": [],
@@ -2536,7 +2304,7 @@
             "id": 509066038,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T22:58:22Z",
+            "last_commit": "2026-11-09T15:20:06Z",
             "open_issues": 57,
             "owner": "Roche",
             "repo": "foxops",
@@ -2562,27 +2330,6 @@
             "owner": "AstraZeneca",
             "repo": "runnable",
             "stars": 53,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/kamon-prometheus",
-          "description": "A Kamon backend to support Prometheus 38 19 HTML Other 2017-06-22 19:33:30",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Kamon backend to support Prometheus",
-            "homepage": null,
-            "id": 43456387,
-            "language": "HTML",
-            "license": "NOASSERTION",
-            "last_commit": "2017-06-22T19:33:30Z",
-            "open_issues": 7,
-            "owner": "Bayer-Group",
-            "repo": "kamon-prometheus",
-            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -3590,32 +3337,6 @@
         },
         {
           "node_type": "item",
-          "title": "Bayer-Group/cellenium",
-          "description": "Cellenium is a FAIR and scalable interactive visual analytics app for scRNA-Seq data (single-cell RNA sequencing)., , , 24 5 Jupyter Notebook MIT License 2023-11-22 11:49:19",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Cellenium is a FAIR and scalable interactive visual analytics app for scRNA-Seq data (single-cell RNA sequencing).",
-            "homepage": null,
-            "id": 595323139,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2023-11-22T11:49:19Z",
-            "open_issues": 18,
-            "owner": "Bayer-Group",
-            "repo": "cellenium",
-            "stars": 29,
-            "topics": [
-              "bioinformatics",
-              "dataviz",
-              "scrna-seq",
-              "transcriptomics"
-            ]
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
           "title": "bayer-science-for-a-better-life/pKAI",
           "description": "pKAI: a fast and interpretable deep learning approach to accurate electrostatics-driven pKa prediction 24 6 Python MIT License 2021-09-16 09:48:09",
           "children": [],
@@ -3761,7 +3482,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T03:48:40Z",
+            "last_commit": "2026-11-09T03:35:37Z",
             "open_issues": 28,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -3940,27 +3661,6 @@
             "owner": "biosustain",
             "repo": "snakemake_UmetaFlow",
             "stars": 33,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/cf-metrics",
-          "description": "22 9 Shell Other 2017-10-23 16:07:20",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 34289222,
-            "language": "Shell",
-            "license": "NOASSERTION",
-            "last_commit": "2017-10-23T16:07:20Z",
-            "open_issues": 0,
-            "owner": "Bayer-Group",
-            "repo": "cf-metrics",
-            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -4334,90 +4034,6 @@
         },
         {
           "node_type": "item",
-          "title": "Bayer-Group/sas2r",
-          "description": "Clinical trial data analytic recipes in R for SAS users 19 8 R MIT License 2023-10-26 15:39:46",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Clinical trial data analytic recipes in R for SAS users",
-            "homepage": "https://bayer-group.github.io/sas2r/",
-            "id": 554832451,
-            "language": "R",
-            "license": "MIT",
-            "last_commit": "2024-09-03T22:15:27Z",
-            "open_issues": 5,
-            "owner": "Bayer-Group",
-            "repo": "sas2r",
-            "stars": 31,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/velocity-dashboard",
-          "description": "React dashboard component 19 10 JavaScript Other 2019-04-24 21:19:38",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "React dashboard component",
-            "homepage": null,
-            "id": 66977118,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2019-04-24T21:19:38Z",
-            "open_issues": 4,
-            "owner": "Bayer-Group",
-            "repo": "velocity-dashboard",
-            "stars": 19,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/aws2scala",
-          "description": "An idiomatic Scala wrapper of the AWS SDK with both asynchronous and streaming clients. 19 9 Scala 2018-06-08 23:03:36",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An idiomatic Scala wrapper of the AWS SDK with both asynchronous and streaming clients.",
-            "homepage": null,
-            "id": 52184958,
-            "language": "Scala",
-            "license": null,
-            "last_commit": "2018-06-08T23:03:36Z",
-            "open_issues": 4,
-            "owner": "Bayer-Group",
-            "repo": "aws2scala",
-            "stars": 19,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/spray-kamon-metrics",
-          "description": "Better Kamon metrics for Spray services 19 1 HTML Other 2017-04-26 02:11:43",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": " Better Kamon metrics for Spray services ",
-            "homepage": "https://monsantoco.github.io/spray-kamon-metrics",
-            "id": 40486220,
-            "language": "HTML",
-            "license": "NOASSERTION",
-            "last_commit": "2017-04-26T02:11:43Z",
-            "open_issues": 0,
-            "owner": "Bayer-Group",
-            "repo": "spray-kamon-metrics",
-            "stars": 20,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
           "title": "Novartis/Causal-inference-in-RCTs",
           "description": "This repository contains code examples for several methods in a Causal Inference in RCTs short course. 18 R MIT License 2024-06-07 19:03:09",
           "children": [],
@@ -4525,34 +4141,6 @@
               "scorecard",
               "scores",
               "software-quality"
-            ]
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/BayerCLAW",
-          "description": "BayerCLAW workflow orchestration system for AWS, , , , , 18 8 Python BSD 3-Clause \"New\" or \"Revised\" License 2024-06-06 15:45:06",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "BayerCLAW workflow orchestration system for AWS",
-            "homepage": null,
-            "id": 353039568,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-07-06T14:46:33Z",
-            "open_issues": 1,
-            "owner": "Bayer-Group",
-            "repo": "BayerCLAW",
-            "stars": 28,
-            "topics": [
-              "aws",
-              "bayer-not-classified",
-              "bayer-reg-none",
-              "beat-not-applicable",
-              "pipeline",
-              "workflow"
             ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -4724,63 +4312,13 @@
             ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/pado",
-          "description": "PAthological Data Obsession - cloud native digital pathology datasets, 17 2 Python BSD 3-Clause \"New\" or \"Revised\" License 2023-03-01 13:46:57",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "PAthological Data Obsession - cloud native digital pathology datasets",
-            "homepage": null,
-            "id": 533992100,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2023-03-01T13:46:57Z",
-            "open_issues": 19,
-            "owner": "Bayer-Group",
-            "repo": "pado",
-            "stars": 18,
-            "topics": [
-              "digital-pathology",
-              "python"
-            ]
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/eqgat",
-          "description": "Research repository for the proposed equivariant graph attention network that operates on large biomolecules proposed by Le et al. (2022), , , 17 Python BSD 3-Clause \"New\" or \"Revised\" License 2022-12-01 10:38:45",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Research repository for the proposed equivariant graph attention network that operates on large biomolecules proposed by Le et al. (2022)",
-            "homepage": null,
-            "id": 571741079,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2022-12-01T10:38:45Z",
-            "open_issues": 0,
-            "owner": "Bayer-Group",
-            "repo": "eqgat",
-            "stars": 20,
-            "topics": [
-              "deeplearning",
-              "graphneuralnetwork",
-              "neural-network",
-              "protein-structure"
-            ]
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
         }
       ],
       "title": "Ranked by starred repositories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:55:44.420Z",
+    "last_updated": "2026-11-09T23:29:44.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
