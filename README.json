@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-09T09:03:31Z",
-            "open_issues": 111,
+            "last_commit": "2026-11-10T16:40:54Z",
+            "open_issues": 119,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3676,
+            "stars": 3679,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -74,7 +74,7 @@
             "open_issues": 10,
             "owner": "AstraZeneca",
             "repo": "chemicalx",
-            "stars": 789,
+            "stars": 790,
             "topics": [
               "biology",
               "chemistry",
@@ -115,7 +115,7 @@
             "open_issues": 11,
             "owner": "MolecularAI",
             "repo": "aizynthfinder",
-            "stars": 913,
+            "stars": 914,
             "topics": [
               "astrazeneca",
               "chemical-reactions",
@@ -219,7 +219,7 @@
             "open_issues": 7,
             "owner": "Roche",
             "repo": "pyreadstat",
-            "stars": 432,
+            "stars": 433,
             "topics": [
               "conversion",
               "pandas-dataframe",
@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 902,
+            "stars": 904,
             "topics": [
               "ai",
               "astrazeneca",
@@ -440,7 +440,7 @@
             "open_issues": 10,
             "owner": "MolecularAI",
             "repo": "Chemformer",
-            "stars": 291,
+            "stars": 292,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1008,7 +1008,7 @@
             "open_issues": 26,
             "owner": "Genentech",
             "repo": "gReLU",
-            "stars": 367,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1302,36 +1302,6 @@
             "repo": "scimilarity",
             "stars": 269,
             "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:44.591Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bayer-Group/ol-kit",
-          "description": "Easy to use, open source React/Openlayers geospatial component toolkit., , , , , , , 72 19 JavaScript Other 2022-12-07 20:44:37",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Easy to use, open source React/Openlayers geospatial component toolkit.",
-            "homepage": "https://ol-kit.com",
-            "id": 234365805,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2022-12-07T20:44:37Z",
-            "open_issues": 12,
-            "owner": "Bayer-Group",
-            "repo": "ol-kit",
-            "stars": 73,
-            "topics": [
-              "bayer",
-              "components",
-              "deprecated",
-              "geospatial",
-              "maps",
-              "openlayers",
-              "react",
-              "toolkit"
-            ]
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
         },
@@ -2134,7 +2104,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "skywalkR",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "drug-discovery",
               "knowledge-graph",
@@ -3482,7 +3452,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T03:35:37Z",
+            "last_commit": "2026-11-10T03:43:47Z",
             "open_issues": 28,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -4318,7 +4288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:29:44.215Z",
+    "last_updated": "2026-11-10T20:56:23.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
