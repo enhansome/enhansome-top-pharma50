@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-11T05:46:12Z",
-            "open_issues": 122,
+            "last_commit": "2026-11-12T15:46:06Z",
+            "open_issues": 111,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3684,
+            "stars": 3686,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -215,11 +215,11 @@
             "id": 145536189,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T12:37:47Z",
+            "last_commit": "2026-11-12T13:50:19Z",
             "open_issues": 7,
             "owner": "Roche",
             "repo": "pyreadstat",
-            "stars": 434,
+            "stars": 435,
             "topics": [
               "conversion",
               "pandas-dataframe",
@@ -980,7 +980,7 @@
             "open_issues": 3,
             "owner": "MolecularAI",
             "repo": "DockStream",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "astrazeneca",
               "chemoinformatics",
@@ -1169,7 +1169,7 @@
             "open_issues": 3,
             "owner": "EliLillyCo",
             "repo": "LillyMol",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1350,7 +1350,7 @@
             "open_issues": 23,
             "owner": "AstraZeneca",
             "repo": "jazzy",
-            "stars": 116,
+            "stars": 117,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1480,7 +1480,7 @@
             "id": 473693153,
             "language": "R",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T15:43:49Z",
+            "last_commit": "2026-11-12T16:48:21Z",
             "open_issues": 42,
             "owner": "GSK-Biostatistics",
             "repo": "tfrmt",
@@ -1551,7 +1551,7 @@
             "open_issues": 6,
             "owner": "pfizer-opensource",
             "repo": "scikit-digital-health",
-            "stars": 109,
+            "stars": 110,
             "topics": [
               "actigraphy",
               "imu-sensor",
@@ -1884,7 +1884,7 @@
             "open_issues": 11,
             "owner": "Boehringer-Ingelheim",
             "repo": "pyPept",
-            "stars": 103,
+            "stars": 104,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2560,7 +2560,7 @@
             "id": 347189347,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T14:03:37Z",
+            "last_commit": "2026-11-12T05:55:11Z",
             "open_issues": 16,
             "owner": "Sanofi-IADC",
             "repo": "konviw",
@@ -3452,7 +3452,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T17:19:09Z",
+            "last_commit": "2026-11-12T03:33:31Z",
             "open_issues": 28,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -3668,8 +3668,8 @@
             "id": 433595589,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-22T08:34:03Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-12T03:58:06Z",
+            "open_issues": 3,
             "owner": "pharmaverse",
             "repo": "rlistings",
             "stars": 29,
@@ -4288,7 +4288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:29:11.160Z",
+    "last_updated": "2026-11-12T21:31:15.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
