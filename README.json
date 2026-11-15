@@ -16,10 +16,10 @@
             "language": "HTML",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-14T07:06:57Z",
-            "open_issues": 116,
+            "open_issues": 117,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3687,
+            "stars": 3688,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-explainable-graph-reasoning",
-            "stars": 1993,
+            "stars": 1994,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 904,
+            "stars": 905,
             "topics": [
               "ai",
               "astrazeneca",
@@ -3452,7 +3452,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T17:18:39Z",
+            "last_commit": "2026-11-15T03:30:44Z",
             "open_issues": 28,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -4288,7 +4288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:21:16.824Z",
+    "last_updated": "2026-11-15T19:53:06.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
