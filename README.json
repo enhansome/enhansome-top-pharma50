@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-14T07:06:57Z",
-            "open_issues": 117,
+            "last_commit": "2026-11-16T16:03:52Z",
+            "open_issues": 122,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3688,
+            "stars": 3692,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -508,7 +508,7 @@
             "open_issues": 148,
             "owner": "rgcgithub",
             "repo": "regenie",
-            "stars": 271,
+            "stars": 272,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -555,7 +555,7 @@
             "open_issues": 71,
             "owner": "pharmaverse",
             "repo": "teal",
-            "stars": 267,
+            "stars": 268,
             "topics": [
               "clinical-trials",
               "nest",
@@ -835,7 +835,7 @@
             "open_issues": 36,
             "owner": "Merck",
             "repo": "deepbgc",
-            "stars": 162,
+            "stars": 163,
             "topics": [
               "bidirectional-lstm",
               "biosynthetic-gene-clusters",
@@ -1079,7 +1079,7 @@
             "id": 272640341,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T12:15:21Z",
+            "last_commit": "2026-11-16T13:45:58Z",
             "open_issues": 52,
             "owner": "Sanofi-IADC",
             "repo": "whispr",
@@ -1442,7 +1442,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "PaRoutes",
-            "stars": 94,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1481,7 +1481,7 @@
             "language": "R",
             "license": "Apache-2.0",
             "last_commit": "2026-11-12T16:48:21Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "GSK-Biostatistics",
             "repo": "tfrmt",
             "stars": 92,
@@ -1548,7 +1548,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-04T17:48:38Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "pfizer-opensource",
             "repo": "scikit-digital-health",
             "stars": 110,
@@ -2560,8 +2560,8 @@
             "id": 347189347,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T08:47:55Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-16T18:12:23Z",
+            "open_issues": 17,
             "owner": "Sanofi-IADC",
             "repo": "konviw",
             "stars": 37,
@@ -4203,8 +4203,8 @@
             "id": 498892686,
             "language": "R",
             "license": null,
-            "last_commit": "2026-11-06T07:50:18Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-16T15:40:09Z",
+            "open_issues": 32,
             "owner": "Genentech",
             "repo": "jmpost",
             "stars": 17,
@@ -4288,7 +4288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:53:06.888Z",
+    "last_updated": "2026-11-16T23:27:36.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
@@ -4300,7 +4300,7 @@
       "open_issues": 0,
       "owner": "servierhub",
       "repo": "top-pharma50",
-      "stars": 77,
+      "stars": 78,
       "topics": [
         "ai",
         "awesome",
