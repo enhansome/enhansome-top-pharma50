@@ -16,7 +16,7 @@
             "language": "HTML",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-17T22:26:14Z",
-            "open_issues": 120,
+            "open_issues": 125,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3698,
@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 906,
+            "stars": 907,
             "topics": [
               "ai",
               "astrazeneca",
@@ -508,7 +508,7 @@
             "open_issues": 148,
             "owner": "rgcgithub",
             "repo": "regenie",
-            "stars": 272,
+            "stars": 274,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -551,8 +551,8 @@
             "id": 383270569,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T08:29:36Z",
-            "open_issues": 71,
+            "last_commit": "2026-11-18T11:20:13Z",
+            "open_issues": 70,
             "owner": "pharmaverse",
             "repo": "teal",
             "stars": 268,
@@ -1005,7 +1005,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-07T22:32:31Z",
-            "open_issues": 26,
+            "open_issues": 32,
             "owner": "Genentech",
             "repo": "gReLU",
             "stars": 368,
@@ -1300,7 +1300,7 @@
             "open_issues": 23,
             "owner": "Genentech",
             "repo": "scimilarity",
-            "stars": 270,
+            "stars": 271,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2027,7 +2027,7 @@
             "id": 243550957,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T03:33:30Z",
+            "last_commit": "2026-11-18T01:10:31Z",
             "open_issues": 40,
             "owner": "bedapub",
             "repo": "besca",
@@ -2560,8 +2560,8 @@
             "id": 347189347,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T18:12:23Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-18T04:59:08Z",
+            "open_issues": 16,
             "owner": "Sanofi-IADC",
             "repo": "konviw",
             "stars": 37,
@@ -3452,7 +3452,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T03:41:23Z",
+            "last_commit": "2026-11-18T17:18:50Z",
             "open_issues": 28,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -4288,7 +4288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:31:48.258Z",
+    "last_updated": "2026-11-18T22:12:06.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
@@ -4300,7 +4300,7 @@
       "open_issues": 0,
       "owner": "servierhub",
       "repo": "top-pharma50",
-      "stars": 78,
+      "stars": 79,
       "topics": [
         "ai",
         "awesome",
