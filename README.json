@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-17T22:26:14Z",
-            "open_issues": 125,
+            "last_commit": "2026-11-19T15:48:12Z",
+            "open_issues": 118,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3698,
+            "stars": 3700,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-explainable-graph-reasoning",
-            "stars": 1994,
+            "stars": 1993,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -216,10 +216,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-14T08:02:42Z",
-            "open_issues": 5,
+            "open_issues": 7,
             "owner": "Roche",
             "repo": "pyreadstat",
-            "stars": 435,
+            "stars": 432,
             "topics": [
               "conversion",
               "pandas-dataframe",
@@ -461,7 +461,7 @@
             "open_issues": 44,
             "owner": "AstraZeneca-NGS",
             "repo": "VarDict",
-            "stars": 204,
+            "stars": 203,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -482,7 +482,7 @@
             "open_issues": 1,
             "owner": "AstraZeneca",
             "repo": "awesome-drug-discovery-knowledge-graphs",
-            "stars": 275,
+            "stars": 276,
             "topics": [
               "awesome-list",
               "drug-discovery",
@@ -760,7 +760,7 @@
             "open_issues": 68,
             "owner": "AstraZeneca-NGS",
             "repo": "VarDictJava",
-            "stars": 141,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -3452,7 +3452,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T17:18:50Z",
+            "last_commit": "2026-11-19T03:34:18Z",
             "open_issues": 28,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -4288,7 +4288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:12:06.110Z",
+    "last_updated": "2026-11-19T22:20:38.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
