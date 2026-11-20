@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-19T15:48:12Z",
-            "open_issues": 118,
+            "last_commit": "2026-11-20T05:00:43Z",
+            "open_issues": 124,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3700,
+            "stars": 3701,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -74,7 +74,7 @@
             "open_issues": 10,
             "owner": "AstraZeneca",
             "repo": "chemicalx",
-            "stars": 790,
+            "stars": 791,
             "topics": [
               "biology",
               "chemistry",
@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "MolecularAI",
             "repo": "REINVENT4",
-            "stars": 907,
+            "stars": 910,
             "topics": [
               "ai",
               "astrazeneca",
@@ -1008,7 +1008,7 @@
             "open_issues": 32,
             "owner": "Genentech",
             "repo": "gReLU",
-            "stars": 368,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -1079,7 +1079,7 @@
             "id": 272640341,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T13:45:58Z",
+            "last_commit": "2026-11-20T06:35:21Z",
             "open_issues": 52,
             "owner": "Sanofi-IADC",
             "repo": "whispr",
@@ -2274,7 +2274,7 @@
             "id": 509066038,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T21:58:29Z",
+            "last_commit": "2026-11-19T23:00:54Z",
             "open_issues": 57,
             "owner": "Roche",
             "repo": "foxops",
@@ -2366,7 +2366,7 @@
             "open_issues": 9,
             "owner": "Novartis",
             "repo": "torchsurv",
-            "stars": 217,
+            "stars": 218,
             "topics": [
               "deep-learning",
               "pytorch",
@@ -2496,7 +2496,7 @@
             "open_issues": 8,
             "owner": "rdkit",
             "repo": "RDKitjs-legacy",
-            "stars": 35,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:44.591Z"
@@ -2560,7 +2560,7 @@
             "id": 347189347,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T04:59:08Z",
+            "last_commit": "2026-11-20T21:51:00Z",
             "open_issues": 16,
             "owner": "Sanofi-IADC",
             "repo": "konviw",
@@ -3452,7 +3452,7 @@
             "id": 561597397,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T03:34:18Z",
+            "last_commit": "2026-11-20T03:51:02Z",
             "open_issues": 28,
             "owner": "insightsengineering",
             "repo": "teal.gallery",
@@ -4288,7 +4288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:20:38.769Z",
+    "last_updated": "2026-11-20T21:54:25.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "Top open source software from the top 50 pharmaceutical companies",
